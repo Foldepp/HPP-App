@@ -242,6 +242,7 @@
     p.abgegeben = true;
     if (state.timerId) { clearInterval(state.timerId); state.timerId = null; }
     var richtig = zaehleRichtige();
+    seedePruefungsfehler(p);
     var bestanden = L.bestanden(richtig);
     var vorher = state.fortschritt.hoechsterGuertel;
     var neu = L.naechsterHoechster(vorher, p.guertel, richtig);
@@ -552,6 +553,20 @@
       });
     });
     bindHome();
+  }
+
+  function seedePruefungsfehler(p) {
+    var heute = L.heuteIso();
+    EXAM.fragen.forEach(function (frage) {
+      var stufe = frage.stufen[p.guertel];
+      var gewaehlt = p.antworten[frage.nr] || [];
+      if (!L.istRichtig(gewaehlt, stufe.loesung)) {
+        window.HPP_SRS.seedFalsch(srs, "2026-03", frage.nr, p.guertel, heute);
+        var id = window.HPP_SRS.kartenId("2026-03", frage.nr, p.guertel);
+        if (srs.karten[id] && !srs.karten[id].thema) srs.karten[id].thema = frage.themenbereich;
+      }
+    });
+    srsSpeichern();
   }
 
   // Export fuer spaetere Tasks
