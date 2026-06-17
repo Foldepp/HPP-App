@@ -106,7 +106,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "persoenlich"
     },
     {
       "nr": 2,
@@ -205,7 +206,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 3,
@@ -294,7 +296,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 4,
@@ -383,7 +386,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 5,
@@ -482,7 +486,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     },
     {
       "nr": 6,
@@ -575,7 +580,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "sucht"
     },
     {
       "nr": 7,
@@ -674,7 +680,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "psychosen"
     },
     {
       "nr": 8,
@@ -773,7 +780,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     },
     {
       "nr": 9,
@@ -866,7 +874,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 10,
@@ -959,7 +968,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 11,
@@ -1053,7 +1063,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     },
     {
       "nr": 12,
@@ -1147,7 +1158,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "notfall"
     },
     {
       "nr": 13,
@@ -1240,7 +1252,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 14,
@@ -1339,7 +1352,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 15,
@@ -1433,7 +1447,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 16,
@@ -1527,7 +1542,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "psychosen"
     },
     {
       "nr": 17,
@@ -1620,7 +1636,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     },
     {
       "nr": 18,
@@ -1713,7 +1730,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 19,
@@ -1812,7 +1830,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "notfall"
     },
     {
       "nr": 20,
@@ -1906,7 +1925,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 21,
@@ -1999,7 +2019,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "persoenlich"
     },
     {
       "nr": 22,
@@ -2093,7 +2114,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 23,
@@ -2187,7 +2209,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 24,
@@ -2286,7 +2309,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "persoenlich"
     },
     {
       "nr": 25,
@@ -2379,7 +2403,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 26,
@@ -2473,7 +2498,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "psychosen"
     },
     {
       "nr": 27,
@@ -2567,7 +2593,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 28,
@@ -2660,7 +2687,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     }
   ]
 }

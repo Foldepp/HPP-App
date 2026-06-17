@@ -130,7 +130,8 @@ def main():
             print(f"  FEHLER: {e}")
         sys.exit(1)
 
-    payload = {"index": index, "exams": exams}
+    themenbereiche = json.loads((DATEN / "themenbereiche.json").read_text(encoding="utf-8"))
+    payload = {"index": index, "exams": exams, "themenbereiche": themenbereiche}
     js = "window.HPP_DATA = " + json.dumps(payload, ensure_ascii=False) + ";\n"
     ZIEL.write_text(js, encoding="utf-8")
     print(f"geschrieben: {ZIEL} ({len(exams)} Pruefung(en): {', '.join(exams)})"

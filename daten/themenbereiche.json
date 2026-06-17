@@ -1,0 +1,14 @@
+[
+  { "id": "diagnostik",  "label": "Diagnostik, Klassifikation & Psychopathologie" },
+  { "id": "affektiv",    "label": "Affektive Störungen" },
+  { "id": "psychosen",   "label": "Schizophrenie & psychotische Störungen" },
+  { "id": "angst",       "label": "Angst-, Zwangs-, Belastungs- & somatoforme Störungen" },
+  { "id": "persoenlich", "label": "Persönlichkeitsstörungen" },
+  { "id": "sucht",       "label": "Suchterkrankungen" },
+  { "id": "organisch",   "label": "Organische Störungen, Neurologie & Psychopharmakologie" },
+  { "id": "kjp",         "label": "Kinder- & Jugendpsychiatrie" },
+  { "id": "ess_sexual",  "label": "Ess- & Sexualstörungen" },
+  { "id": "notfall",     "label": "Notfälle & Suizidalität" },
+  { "id": "therapie",    "label": "Psychotherapieverfahren & Lerntheorie" },
+  { "id": "recht",       "label": "Recht & Berufskunde" }
+]
