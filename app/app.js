@@ -6,6 +6,34 @@
   var LABELS = DATA.index.guertel_labels;
   var app = document.getElementById("app");
 
+  var EXAMS = DATA.exams;
+  var POOL_IDS = Object.keys(EXAMS);
+  var THEMEN = DATA.themenbereiche; // [{id,label}]
+  function themaLabel(id) {
+    for (var i = 0; i < THEMEN.length; i++) if (THEMEN[i].id === id) return THEMEN[i].label;
+    return id;
+  }
+  function findeFrage(examId, nr) {
+    var fragen = EXAMS[examId].fragen;
+    for (var i = 0; i < fragen.length; i++) if (fragen[i].nr === nr) return fragen[i];
+    return null;
+  }
+  // alle Karten eines Levels über alle Pool-Prüfungen; nur Fragen mit themenbereich
+  function alleKartenDesLevels(level, themaFilter) {
+    var out = [];
+    POOL_IDS.forEach(function (examId) {
+      EXAMS[examId].fragen.forEach(function (f) {
+        if (!f.themenbereich) return; // korrupte/unzugeordnete Prüfungen überspringen
+        if (themaFilter && f.themenbereich !== themaFilter) return;
+        out.push({ examId: examId, nr: f.nr, level: level, thema: f.themenbereich });
+      });
+    });
+    return out;
+  }
+  var srs = L_srsLade();
+  function L_srsLade() { return window.HPP_SRS.lade(window.localStorage); }
+  function srsSpeichern() { window.HPP_SRS.speichere(window.localStorage, srs); }
+
   var SPEICHER = "hpp_progress";
   function ladeFortschritt() {
     try {
@@ -36,6 +64,7 @@
       if (state.timerId) { clearInterval(state.timerId); state.timerId = null; }
       state.pruefung = null;
     }
+    state.session = null;
     zeigeGuertelauswahl();
   }
 
@@ -329,6 +358,141 @@
     el.textContent = String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0");
     if (state.restSekunden <= 5 * 60) el.classList.add("low");
     else el.classList.remove("low");
+  }
+
+  function starteSession(karten, level, kontext, zurueck) {
+    if (!karten.length) { window.alert("Keine Karten vorhanden."); zurueck(); return; }
+    var gemischt = L.mischen(karten);
+    state.session = {
+      level: level, kontext: kontext, zurueck: zurueck,
+      queue: gemischt.slice(), pos: 0, gesamt: gemischt.length,
+      reihenfolge: {}, gewertet: {}, pending: {}, reshows: {}, geprueft: false, gewaehlt: [], aktFeedback: null,
+    };
+    zeigeKarte();
+  }
+
+  function sessionKartenId(k) { return window.HPP_SRS.kartenId(k.examId, k.nr, k.level); }
+
+  function zeigeKarte() {
+    leeren();
+    var se = state.session;
+    var k = se.queue[se.pos];
+    var frage = findeFrage(k.examId, k.nr);
+    var stufe = frage.stufen[k.level];
+    var kid = sessionKartenId(k);
+    if (!se.reihenfolge[kid]) se.reihenfolge[kid] = L.mischen(Object.keys(stufe.optionen));
+    var mehrfach = L.erwarteMehrfach(stufe.loesung);
+    se.geprueft = (se.aktFeedback !== null);
+
+    var html = '<div class="ex">';
+    html += '<div class="ex-top">' + homeButtonHtml(k.level) +
+      '<span class="ex-count">' + (se.pos + 1) + ' / ' + se.gesamt + '</span>' +
+      '<span class="th-chip">' + escape(themaLabel(k.thema)) + '</span></div>';
+    html += '<div class="ex-bar"><i style="width:' + ((se.pos) / se.gesamt * 100) + '%; background:var(--g-' + k.level + ')"></i></div>';
+    html += '<div class="ex-body"><div class="ex-scroll">';
+    html += '<p class="ex-stamm">' + escape(stufe.stamm) + '</p>';
+    if (stufe.aussagen) {
+      html += '<ol class="aussagen">';
+      Object.keys(stufe.aussagen).forEach(function (n) {
+        html += '<li><b>' + n + '.</b> ' + escape(stufe.aussagen[n]) + '</li>';
+      });
+      html += '</ol>';
+    }
+    if (mehrfach && !se.geprueft) html += '<p class="ex-hint">Wählen Sie zwei Antworten!</p>';
+    html += '<div class="ex-opts">';
+    L.anzeigeOptionen(stufe.optionen, se.reihenfolge[kid]).forEach(function (o) {
+      var cls = "";
+      if (se.geprueft) {
+        if (stufe.loesung.indexOf(o.original) >= 0) cls = " correct";
+        else if (se.gewaehlt.indexOf(o.original) >= 0) cls = " wrong";
+      } else if (se.gewaehlt.indexOf(o.original) >= 0) cls = " sel";
+      var mk = "";
+      if (se.geprueft && stufe.loesung.indexOf(o.original) >= 0) mk = '<span class="mk">✓</span>';
+      else if (se.geprueft && se.gewaehlt.indexOf(o.original) >= 0) mk = '<span class="mk">✗</span>';
+      html += '<div class="ex-opt' + cls + '" data-opt="' + o.original + '">' +
+        '<span class="ltr">' + o.label + '</span><span class="t">' + escape(o.text) + '</span>' + mk + '</div>';
+    });
+    html += '</div>';
+    if (se.geprueft) {
+      var fb = se.aktFeedback;
+      html += '<div class="divider">Auswertung</div>' +
+        '<div class="fb ' + (fb.richtig ? "good" : "bad") + '">' +
+        '<div class="fb-hd">' + (fb.richtig ? "✓ Richtig" : "✗ Leider falsch") + '</div>' +
+        (frage.kern ? '<div class="fb-kern"><b>Wissenskern:</b> ' + escape(frage.kern) + '</div>' : "") +
+        '</div>' +
+        '<div class="ret">' + escape(fb.hinweis) + '</div>';
+    }
+    html += '</div>'; // ex-body
+    html += '<div class="ex-foot">';
+    if (!se.geprueft) html += '<button class="btn btn-primary ex-next" id="btn-pruefen">Prüfen</button>';
+    else html += '<button class="btn btn-primary ex-next" id="btn-weiter">' + ((se.pos === se.queue.length - 1 && !se.pending[kid]) ? "Fertig" : "Weiter ›") + '</button>';
+    html += '</div></div>';
+    app.innerHTML = html;
+
+    if (!se.geprueft) {
+      app.querySelectorAll("[data-opt]").forEach(function (el) {
+        el.addEventListener("click", function () { waehleKarte(el.getAttribute("data-opt"), mehrfach); });
+      });
+      app.querySelector("#btn-pruefen").addEventListener("click", pruefeKarte);
+    } else {
+      app.querySelector("#btn-weiter").addEventListener("click", naechsteKarte);
+      var fbEl = app.querySelector(".fb"); if (fbEl) fbEl.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    bindHome();
+  }
+
+  function waehleKarte(buchstabe, mehrfach) {
+    var se = state.session, akt = se.gewaehlt;
+    if (mehrfach) {
+      var i = akt.indexOf(buchstabe);
+      if (i >= 0) akt = akt.filter(function (x) { return x !== buchstabe; });
+      else if (akt.length < 2) akt = akt.concat([buchstabe]);
+    } else { akt = [buchstabe]; }
+    se.gewaehlt = akt;
+    zeigeKarte();
+  }
+
+  function pruefeKarte() {
+    var se = state.session;
+    if (!se.gewaehlt.length) return;
+    var k = se.queue[se.pos];
+    var frage = findeFrage(k.examId, k.nr);
+    var stufe = frage.stufen[k.level];
+    var richtig = L.istRichtig(se.gewaehlt, stufe.loesung);
+    var kid = sessionKartenId(k);
+    if (se.gewertet[kid] === undefined) {
+      var res = window.HPP_SRS.werte(srs, k.examId, k.nr, k.level, k.thema, richtig, L.heuteIso());
+      srsSpeichern();
+      se.gewertet[kid] = true;
+      se.pending[kid] = !richtig;
+      se.reshows[kid] = 0;
+      se.aktFeedback = { richtig: richtig, hinweis: feedbackHinweis(res) };
+    } else {
+      if (richtig) se.pending[kid] = false;
+      se.aktFeedback = { richtig: richtig, hinweis: richtig ? "Diesmal richtig — gut!" : "Schau dir die Lösung nochmal an." };
+    }
+    zeigeKarte();
+  }
+
+  function feedbackHinweis(res) {
+    if (res.gemeistert) return "🎉 Gemeistert!";
+    var tage = res.due ? Math.round((new Date(res.due + "T00:00:00Z") - new Date(L.heuteIso() + "T00:00:00Z")) / 86400000) : 0;
+    var wann = tage <= 1 ? "morgen" : "in " + tage + " Tagen";
+    return "Kommt " + wann + " wieder · Streak " + res.streak + "/" + L.MASTER_STREAK;
+  }
+
+  function naechsteKarte() {
+    var se = state.session;
+    var k = se.queue[se.pos];
+    var kid = sessionKartenId(k);
+    if (se.pending[kid] && se.reshows[kid] < 3) {
+      se.queue.push(k); se.reshows[kid]++;
+    }
+    se.pos++;
+    se.gewaehlt = [];
+    se.aktFeedback = null;
+    if (se.pos >= se.queue.length) { se.zurueck(); return; }
+    zeigeKarte();
   }
 
   // Export fuer spaetere Tasks
