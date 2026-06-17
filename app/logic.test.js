@@ -39,3 +39,24 @@ test("erwarteMehrfach: an loesung.length, nicht am Typ-Label", () => {
   assert.strictEqual(L.erwarteMehrfach(["B", "C"]), true);
   assert.strictEqual(L.erwarteMehrfach(["A"]), false); // Schwarz-Frage 1: typ=Mehrfachauswahl, loesung=["A"]
 });
+
+test("mischen: Ergebnis ist eine Permutation, Eingabe bleibt unveraendert", () => {
+  var input = ["A", "B", "C", "D", "E"];
+  var out = L.mischen(input, function () { return 0; });
+  assert.strictEqual(out.length, 5);
+  assert.deepStrictEqual(out.slice().sort(), ["A", "B", "C", "D", "E"]);
+  assert.deepStrictEqual(input, ["A", "B", "C", "D", "E"]); // Original unangetastet
+});
+
+test("mischen: mit rnd=0 deterministische Fisher-Yates-Reihenfolge", () => {
+  assert.deepStrictEqual(L.mischen(["A", "B", "C"], function () { return 0; }), ["B", "C", "A"]);
+});
+
+test("anzeigeOptionen: Labels A.. in Reihenfolge, original + text korrekt", () => {
+  var optionen = { A: "Alpha", B: "Bravo", C: "Charlie" };
+  assert.deepStrictEqual(L.anzeigeOptionen(optionen, ["C", "A", "B"]), [
+    { label: "A", original: "C", text: "Charlie" },
+    { label: "B", original: "A", text: "Alpha" },
+    { label: "C", original: "B", text: "Bravo" },
+  ]);
+});

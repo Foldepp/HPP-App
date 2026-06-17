@@ -31,6 +31,23 @@
     return loesung.length >= 2;
   }
 
+  function mischen(arr, rnd) {
+    var r = rnd || Math.random;
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(r() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
+  }
+
+  function anzeigeOptionen(optionen, reihenfolge) {
+    var labels = "ABCDEFGHIJ";
+    return reihenfolge.map(function (orig, i) {
+      return { label: labels.charAt(i), original: orig, text: optionen[orig] };
+    });
+  }
+
   var api = {
     GUERTEL: GUERTEL,
     ANZAHL_FRAGEN: ANZAHL_FRAGEN,
@@ -40,6 +57,8 @@
     istFreigeschaltet: istFreigeschaltet,
     naechsterHoechster: naechsterHoechster,
     erwarteMehrfach: erwarteMehrfach,
+    mischen: mischen,
+    anzeigeOptionen: anzeigeOptionen,
   };
 
   if (typeof module !== "undefined" && module.exports) {
