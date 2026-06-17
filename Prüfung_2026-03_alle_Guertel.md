@@ -1,7 +1,7 @@
-# Heilpraktikerprüfung Psychotherapie — März 2026
+# Heilpraktikerprüfung Psychotherapie — Heilpraktikerprüfung (Psychotherapie) – 18. März 2026
 ## Komplett über alle fünf Gürtel (Gelb → Grün → Blau → Braun → Schwarz)
 
-*Übersetzungs-Rezeptur v5. Schwarz = Originalfrage; die anderen Stufen sind neu formulierte Übersetzungen desselben Wissenskerns. Grün verlangt stets einen Unterscheidungs- oder Anwendungs-Dreh.*
+*Übersetzungs-Rezeptur v5. Schwarz = Originalfrage; übrige Stufen neu formuliert.*
 
 
 ---
