@@ -106,7 +106,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 2,
@@ -205,7 +206,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "sucht"
     },
     {
       "nr": 3,
@@ -298,7 +300,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "sucht"
     },
     {
       "nr": 4,
@@ -391,7 +394,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 5,
@@ -484,7 +488,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "kjp"
     },
     {
       "nr": 6,
@@ -583,7 +588,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 7,
@@ -672,7 +678,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "kjp"
     },
     {
       "nr": 8,
@@ -771,7 +778,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 9,
@@ -869,7 +877,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "therapie"
     },
     {
       "nr": 10,
@@ -962,7 +971,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 11,
@@ -1056,7 +1066,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 12,
@@ -1149,7 +1160,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 13,
@@ -1241,7 +1253,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "kjp"
     },
     {
       "nr": 14,
@@ -1334,7 +1347,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "affektiv"
     },
     {
       "nr": 15,
@@ -1433,7 +1447,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "notfall"
     },
     {
       "nr": 16,
@@ -1532,7 +1547,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "diagnostik"
     },
     {
       "nr": 17,
@@ -1626,7 +1642,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 18,
@@ -1725,7 +1742,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "psychosen"
     },
     {
       "nr": 19,
@@ -1824,7 +1842,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "therapie"
     },
     {
       "nr": 20,
@@ -1918,7 +1937,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "persoenlich"
     },
     {
       "nr": 21,
@@ -2017,7 +2037,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 22,
@@ -2116,7 +2137,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 23,
@@ -2210,7 +2232,8 @@
             "E"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 24,
@@ -2309,7 +2332,8 @@
             "A"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 25,
@@ -2402,7 +2426,8 @@
             "B"
           ]
         }
-      }
+      },
+      "themenbereich": "angst"
     },
     {
       "nr": 26,
@@ -2496,7 +2521,8 @@
             "C"
           ]
         }
-      }
+      },
+      "themenbereich": "organisch"
     },
     {
       "nr": 27,
@@ -2595,7 +2621,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "recht"
     },
     {
       "nr": 28,
@@ -2689,7 +2716,8 @@
             "D"
           ]
         }
-      }
+      },
+      "themenbereich": "therapie"
     }
   ]
 }
