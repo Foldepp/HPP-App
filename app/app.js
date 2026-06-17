@@ -51,6 +51,8 @@
       antworten: {},      // { nr: [Buchstaben] }
       index: 0,           // aktueller Frageindex 0..27
     };
+    state.restSekunden = 60 * 60;
+    starteTimer();
     zeigeFrage();
   }
 
@@ -108,6 +110,7 @@
     var prev = app.querySelector("#btn-prev");
     if (prev) prev.addEventListener("click", zurueck);
     app.querySelector("#btn-ov").addEventListener("click", zeigeUebersicht);
+    aktualisiereTimerAnzeige();
   }
 
   function waehle(nr, buchstabe, mehrfach) {
@@ -264,6 +267,33 @@
     });
     app.querySelector("#ov-back").addEventListener("click", zeigeFrage);
     app.querySelector("#ov-submit").addEventListener("click", abgeben);
+  }
+
+  function starteTimer() {
+    if (state.timerId) clearInterval(state.timerId);
+    aktualisiereTimerAnzeige();
+    state.timerId = setInterval(function () {
+      state.restSekunden--;
+      if (state.restSekunden <= 0) {
+        state.restSekunden = 0;
+        aktualisiereTimerAnzeige();
+        clearInterval(state.timerId);
+        state.timerId = null;
+        abgeben();
+        return;
+      }
+      aktualisiereTimerAnzeige();
+    }, 1000);
+  }
+
+  function aktualisiereTimerAnzeige() {
+    var el = document.getElementById("timer");
+    if (!el) return;
+    var m = Math.floor(state.restSekunden / 60);
+    var s = state.restSekunden % 60;
+    el.textContent = String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0");
+    if (state.restSekunden <= 5 * 60) el.classList.add("low");
+    else el.classList.remove("low");
   }
 
   // Export fuer spaetere Tasks
