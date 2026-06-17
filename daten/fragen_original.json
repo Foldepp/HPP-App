@@ -20348,11 +20348,11 @@
         "stamm": "Was trifft bei der Enuresis zu? Wählen Sie zwei Antworten!",
         "aussagen": null,
         "optionen": {
-          "A": "Die Enuresis nocturna tritt häufiger auf al die Enuresis diurna.",
+          "A": "Die Enuresis nocturna tritt häufiger auf als die Enuresis diurna.",
           "B": "Man unterscheidet zwischen willkürlicher und unwillkürlicher Enuresis.",
           "C": "Enuresis tritt nicht über das 18. Lebensjahr hinaus auf.",
           "D": "Verhaltenstherapeutische Interventionen sollen möglichst vor dem 3. Lebensjahr eingesetzt werden.",
-          "E": "Kinderpsychiatrische komorbide Störungen liegen der der sekundären Enuresis häufiger vor als bei der primären Enuresis."
+          "E": "Kinderpsychiatrische komorbide Störungen liegen bei der sekundären Enuresis häufiger vor als bei der primären Enuresis."
         },
         "loesung": [
           "A",
@@ -20467,7 +20467,7 @@
           "A": "Aggressionsumkehr – Aggressive Tendenzen nehmen zu und richten sich zunehmend auf den Betroffenen selbst.",
           "B": "Entschlussphase – In dieser Phase, in der der Entschluss gefasst worden ist, wirkt der Betroffene eher ruhig und entspannt („Ruhe vor dem Sturm“). Die innere Ausnahmesituation allerdings erlaubt keine realistische Einschätzung der Situation mehr. Der Betroffene befindet sich in seiner eigenen Welt, häufig mit „Tunnelblick.“",
           "C": "Suizidfantasien – Der Betroffene flüchtet sich mehr und mehr in eine Gedankenwelt rund um den Tod, in der der Suizid eine zunehmende Rolle spielt und eine scheinbare Erleichterung in Aussicht stellt.",
-          "D": "Ambivalenz – Hin- und Hergerissensein zwischen Wünschen zu leben und dem Gefühl, keine andere Möglichkeit zu haben, als sich das Leben zu nehmen. Häufig kommt es zu direkte Suizidankündigungen.",
+          "D": "Ambivalenz – Hin- und Hergerissensein zwischen Wünschen zu leben und dem Gefühl, keine andere Möglichkeit zu haben, als sich das Leben zu nehmen. Häufig kommt es zu direkten Suizidankündigungen.",
           "E": "Erwägungsphase – In dieser Phase findet eine gedankliche Beschäftigung mit dem Suizid statt, gefördert durch belastende Lebensumstände und äußere Einflüsse."
         },
         "loesung": [
@@ -20834,7 +20834,7 @@
           "B": "Nur die Aussagen 4 und 5 sind richtig",
           "C": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
           "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
-          "E": "Nur die Aussagen 1, 3 und 4 sind richtig Welche der folgenden Aussagen"
+          "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
         },
         "loesung": [
           "D"
