@@ -45,10 +45,103 @@
     });
   }
 
-  // Platzhalter bis Task 6 — zeigt vorerst nur den gewaehlten Guertel
   function starteValidierung(guertel) {
-    alert("Starte Prüfung: " + LABELS[guertel]); // wird in Task 6 ersetzt
+    state.pruefung = {
+      guertel: guertel,
+      antworten: {},      // { nr: [Buchstaben] }
+      index: 0,           // aktueller Frageindex 0..27
+    };
+    zeigeFrage();
   }
+
+  function aktuelleStufe() {
+    var frage = EXAM.fragen[state.pruefung.index];
+    return { frage: frage, stufe: frage.stufen[state.pruefung.guertel] };
+  }
+
+  function zeigeFrage() {
+    leeren();
+    var p = state.pruefung;
+    var s = aktuelleStufe();
+    var stufe = s.stufe, frage = s.frage;
+    var gewaehlt = p.antworten[frage.nr] || [];
+    var mehrfach = L.erwarteMehrfach(stufe.loesung);
+
+    var html = '<div class="ex">';
+    html += '<div class="ex-top">' +
+      '<span class="ex-belt"><span class="punkt-s" style="background:var(--g-' + p.guertel + ')"></span></span>' +
+      '<span class="ex-count">' + (p.index + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span>' +
+      '<span class="ex-timer" id="timer">60:00</span></div>';
+    html += '<div class="ex-bar"><i style="width:' + ((p.index + 1) / L.ANZAHL_FRAGEN * 100) + '%"></i></div>';
+    html += '<div class="ex-body"><div class="ex-scroll">';
+    html += '<p class="ex-stamm">' + escape(stufe.stamm) + '</p>';
+    if (stufe.aussagen) {
+      html += '<ol class="aussagen">';
+      Object.keys(stufe.aussagen).forEach(function (k) {
+        html += '<li><b>' + k + '.</b> ' + escape(stufe.aussagen[k]) + '</li>';
+      });
+      html += '</ol>';
+    }
+    if (mehrfach) html += '<p class="ex-hint">Wählen Sie zwei Antworten!</p>';
+    html += '</div>';
+    html += '<div class="ex-opts">';
+    Object.keys(stufe.optionen).forEach(function (b) {
+      var sel = gewaehlt.indexOf(b) >= 0 ? " sel" : "";
+      html += '<button class="ex-opt' + sel + '" data-opt="' + b + '">' +
+        '<span class="ltr">' + b + '</span><span class="t">' + escape(stufe.optionen[b]) + '</span></button>';
+    });
+    html += '</div></div>';
+    html += '<div class="ex-foot">' +
+      '<button class="ex-nav-ov" id="btn-ov">▦ Übersicht</button>' +
+      (p.index > 0 ? '<button class="btn" id="btn-prev">‹</button>' : "") +
+      '<button class="btn btn-primary ex-next" id="btn-next">' +
+      (p.index === L.ANZAHL_FRAGEN - 1 ? "Abgeben" : "Weiter ›") + '</button></div>';
+    html += "</div>";
+    app.innerHTML = html;
+
+    app.querySelectorAll("[data-opt]").forEach(function (el) {
+      el.addEventListener("click", function () {
+        waehle(frage.nr, el.getAttribute("data-opt"), mehrfach);
+      });
+    });
+    app.querySelector("#btn-next").addEventListener("click", weiter);
+    var prev = app.querySelector("#btn-prev");
+    if (prev) prev.addEventListener("click", zurueck);
+    app.querySelector("#btn-ov").addEventListener("click", zeigeUebersicht);
+  }
+
+  function waehle(nr, buchstabe, mehrfach) {
+    var akt = state.pruefung.antworten[nr] || [];
+    if (mehrfach) {
+      var i = akt.indexOf(buchstabe);
+      if (i >= 0) akt = akt.filter(function (x) { return x !== buchstabe; });
+      else if (akt.length < 2) akt = akt.concat([buchstabe]); // max zwei
+    } else {
+      akt = [buchstabe];
+    }
+    state.pruefung.antworten[nr] = akt;
+    zeigeFrage();
+  }
+
+  function weiter() {
+    if (state.pruefung.index === L.ANZAHL_FRAGEN - 1) { abgeben(); return; }
+    state.pruefung.index++;
+    zeigeFrage();
+  }
+  function zurueck() {
+    if (state.pruefung.index > 0) state.pruefung.index--;
+    zeigeFrage();
+  }
+
+  function escape(s) {
+    return String(s).replace(/[&<>]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c];
+    });
+  }
+
+  // Platzhalter bis Task 8/7 (in spaeteren Tasks ersetzt)
+  function abgeben() { alert("Abgeben — kommt in Task 8"); }
+  function zeigeUebersicht() { alert("Übersicht — kommt in Task 7"); }
 
   // Export fuer spaetere Tasks
   window.HPP_APP = {

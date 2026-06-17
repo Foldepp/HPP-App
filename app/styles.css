@@ -36,3 +36,29 @@ button { font: inherit; cursor: pointer; }
 .guertel .gname { font-weight: 600; font-size: 18px; }
 .guertel .lock { margin-left: auto; }
 .guertel.locked { opacity: .5; }
+
+.ex { display: flex; flex-direction: column; flex: 1; min-height: 100vh; padding-top: 8px; }
+.ex-top { display: flex; align-items: center; justify-content: space-between; }
+.punkt-s { width: 18px; height: 18px; border-radius: 50%; display: inline-block; box-shadow: inset 0 0 0 2px rgba(0,0,0,.1); }
+.ex-count { font-weight: 700; font-size: clamp(15px, 4.5vw, 18px); }
+.ex-timer { font-variant-numeric: tabular-nums; font-weight: 700; font-size: clamp(15px, 4.5vw, 18px); }
+.ex-timer.low { color: var(--warn); }
+.ex-bar { height: 5px; background: var(--line); border-radius: 3px; margin: 10px 0 0; overflow: hidden; }
+.ex-bar > i { display: block; height: 100%; background: var(--accent); }
+.ex-body { flex: 1; display: flex; flex-direction: column; min-height: 0; padding-top: 14px; }
+.ex-scroll { overflow: auto; min-height: 0; }
+.ex-stamm { font-size: clamp(17px, 5.2vw, 21px); font-weight: 600; margin: 0 0 16px; line-height: 1.35; }
+.aussagen { list-style: none; padding: 12px 14px; margin: 0 0 14px; background: #faf9f6; border: 1px solid var(--line); border-radius: 10px; }
+.aussagen li { margin: 4px 0; font-size: clamp(14px, 4vw, 16px); }
+.ex-hint { color: var(--warn); font-weight: 600; font-size: 14px; margin: 0 0 10px; }
+.ex-opts { display: flex; flex-direction: column; gap: 10px; margin-top: auto; padding-top: 12px; }
+.ex-opt { display: flex; align-items: center; gap: 12px; text-align: left; width: 100%;
+  background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 14px 14px; }
+.ex-opt .ltr { width: 28px; height: 28px; border-radius: 8px; background: var(--ink-soft); flex: none;
+  display: flex; align-items: center; justify-content: center; font-weight: 700; color: #5a6772; }
+.ex-opt .t { font-size: clamp(15px, 4.3vw, 17px); line-height: 1.3; }
+.ex-opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.ex-opt.sel .ltr { background: var(--accent); color: #fff; }
+.ex-foot { display: flex; align-items: center; gap: 10px; padding: 12px 0; }
+.ex-nav-ov { background: none; border: none; color: var(--muted); font-weight: 600; }
+.ex-next { flex: 1; }
