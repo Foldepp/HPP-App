@@ -22,6 +22,23 @@
 
   function leeren() { app.innerHTML = ""; }
 
+  function homeButtonHtml(guertel) {
+    return '<button class="home-btn" id="btn-home" aria-label="Zur Gürtelauswahl"' +
+      ' style="box-shadow: inset 0 0 0 2px var(--g-' + guertel + ')">🏠</button>';
+  }
+  function bindHome() {
+    var h = app.querySelector("#btn-home");
+    if (h) h.addEventListener("click", homeKlick);
+  }
+  function homeKlick() {
+    if (state.pruefung && !state.pruefung.abgegeben) {
+      if (!window.confirm("Prüfung abbrechen? Der aktuelle Versuch geht verloren.")) return;
+      if (state.timerId) { clearInterval(state.timerId); state.timerId = null; }
+      state.pruefung = null;
+    }
+    zeigeGuertelauswahl();
+  }
+
   function zeigeGuertelauswahl() {
     leeren();
     var hoechster = state.fortschritt.hoechsterGuertel;
@@ -81,10 +98,10 @@
 
     var html = '<div class="ex">';
     html += '<div class="ex-top">' +
-      '<span class="ex-belt"><span class="punkt-s" style="background:var(--g-' + p.guertel + ')"></span></span>' +
-      '<span class="ex-count">' + (p.index + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span>' +
+      homeButtonHtml(p.guertel) +
+      '<span class="ex-count">' + LABELS[p.guertel] + ' · ' + (p.index + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span>' +
       '<span class="ex-timer" id="timer">60:00</span></div>';
-    html += '<div class="ex-bar"><i style="width:' + ((p.index + 1) / L.ANZAHL_FRAGEN * 100) + '%"></i></div>';
+    html += '<div class="ex-bar"><i style="width:' + ((p.index + 1) / L.ANZAHL_FRAGEN * 100) + '%; background:var(--g-' + p.guertel + ')"></i></div>';
     html += '<div class="ex-body"><div class="ex-scroll">';
     html += '<p class="ex-stamm">' + escape(stufe.stamm) + '</p>';
     if (stufe.aussagen) {
@@ -120,6 +137,7 @@
     var prev = app.querySelector("#btn-prev");
     if (prev) prev.addEventListener("click", zurueck);
     app.querySelector("#btn-ov").addEventListener("click", zeigeUebersicht);
+    bindHome();
     aktualisiereTimerAnzeige();
   }
 
@@ -195,6 +213,7 @@
   function zeigeAuswertung(richtig, bestanden, freigeschaltet, neu) {
     leeren();
     var html = '<div class="erg">' +
+      homeButtonHtml(state.pruefung.guertel) +
       '<div class="erg-badge ' + (bestanden ? "ok" : "fail") + '">' +
       '<div class="erg-zahl">' + richtig + ' / ' + L.ANZAHL_FRAGEN + '</div>' +
       '<div class="erg-txt">' + (bestanden ? "Bestanden" : "Nicht bestanden") +
@@ -208,6 +227,7 @@
     app.innerHTML = html;
     app.querySelector("#erg-home").addEventListener("click", zeigeGuertelauswahl);
     app.querySelector("#erg-review").addEventListener("click", function () { zeigeDurchsicht(0); });
+    bindHome();
   }
 
   function zeigeDurchsicht(idx) {
@@ -219,7 +239,8 @@
     var richtig = L.istRichtig(gewaehlt, stufe.loesung);
 
     var html = '<div class="rev">' +
-      '<div class="rev-top"><span class="ex-count">' + (idx + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span>' +
+      '<div class="rev-top"><div class="rev-top-l">' + homeButtonHtml(p.guertel) +
+      '<span class="ex-count">' + (idx + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span></div>' +
       '<span class="rev-mark ' + (richtig ? "ok" : "fail") + '">' + (richtig ? "✓ richtig" : "✗ falsch") + '</span></div>';
     html += '<p class="ex-stamm">' + escape(stufe.stamm) + '</p>';
     if (stufe.aussagen) {
@@ -251,6 +272,7 @@
     var next = app.querySelector("#rev-next");
     if (next) next.addEventListener("click", function () { zeigeDurchsicht(idx + 1); });
     app.querySelector("#rev-home").addEventListener("click", zeigeGuertelauswahl);
+    bindHome();
   }
   function zeigeUebersicht() {
     leeren();
@@ -259,7 +281,7 @@
       return (p.antworten[nr] || []).length > 0;
     }).length;
     var html = '<div class="ov">' +
-      '<h2 class="ov-title">Übersicht</h2>' +
+      '<div class="ov-top">' + homeButtonHtml(p.guertel) + '<h2 class="ov-title">Übersicht</h2></div>' +
       '<p class="sub">' + beantwortet + ' von ' + L.ANZAHL_FRAGEN + ' beantwortet · tippen zum Springen</p>' +
       '<div class="ovgrid">';
     EXAM.fragen.forEach(function (frage, i) {
@@ -279,6 +301,7 @@
     });
     app.querySelector("#ov-back").addEventListener("click", zeigeFrage);
     app.querySelector("#ov-submit").addEventListener("click", abgeben);
+    bindHome();
   }
 
   function starteTimer() {
