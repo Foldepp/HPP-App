@@ -1377,7 +1377,7 @@ Die Eltern eines 15-Jährigen fragen, ob eine Schizophrenie in diesem Alter mög
 
 **🟦 Blau**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zur Schizophrenie sind richtig?
+Welche der folgenden Aussagen zu Schizophrenie im Jugendalter und ihrer antipsychotischen Behandlung treffen zu?
 
 1. Die Diagnose einer schizophrenen Erkrankung darf im Kindes- und Jugendalter nicht gestellt werden.
 2. Schizophrenie ist durch Störungen in Wahrnehmung, Denken, Ich-Funktionen, Affektivität, Antrieb und Psychomotorik gekennzeichnet.
@@ -1786,7 +1786,7 @@ Eine 45-jährige Patientin berichtet seit Jahren von Herzklopfen, Brustenge und 
 
 **🟦 Blau**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu somatoformen Störungen sind richtig?
+Welche der folgenden Aussagen zur Einordnung und Behandlung somatoformer Störungen treffen zu?
 
 1. Das Da-Costa-Syndrom (Herzneurose) ist einer der somatoformen autonomen Funktionsstörungen zuzuordnen.
 2. Entspannungsverfahren sind bei somatoformen Störungen kontraindiziert, weil sie eine Fokussierung und Verstärkung der Schmerzwahrnehmung bewirken.
