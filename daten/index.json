@@ -19,6 +19,12 @@
       "titel": "Oktober 2025",
       "datei": "fragen_2025-10.json",
       "guertel_komplett": true
+    },
+    {
+      "id": "2025-03",
+      "titel": "März 2025",
+      "datei": "fragen_2025-03.json",
+      "guertel_komplett": false
     }
   ],
   "hinweis": "Weitere 43 Original-Prüfungen liegen in fragen_original.json und werden nach derselben Rezeptur (siehe Projektplan, Rezeptur v5) über alle Gürtel übersetzt."
