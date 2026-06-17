@@ -1,0 +1,15 @@
+# Temporäre Arbeitsdateien aus der Daten-Erstellung
+daten/_belt_part_*.json
+daten/_gruen_neu.json
+daten/_probe_*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Brainstorm-Artefakte
+.superpowers/
