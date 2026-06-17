@@ -2,6 +2,7 @@
 daten/_belt_part_*.json
 daten/_gruen_neu.json
 daten/_probe_*.json
+daten/_fix_*.json
 
 # Python
 __pycache__/
