@@ -1,11 +1,11 @@
 {
   "guertel": ["gelb", "gruen", "blau", "braun", "schwarz"],
   "guertel_labels": {
-    "gelb": "Gelb",
-    "gruen": "Grün",
-    "blau": "Blau",
-    "braun": "Braun",
-    "schwarz": "Schwarz"
+    "gelb": "Level 1",
+    "gruen": "Level 2",
+    "blau": "Level 3",
+    "braun": "Level 4",
+    "schwarz": "Originalprüfung"
   },
   "exams": [
     {

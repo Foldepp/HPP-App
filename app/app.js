@@ -23,7 +23,7 @@
   function leeren() { app.innerHTML = ""; }
 
   function homeButtonHtml(guertel) {
-    return '<button class="home-btn" id="btn-home" aria-label="Zur Gürtelauswahl"' +
+    return '<button class="home-btn" id="btn-home" aria-label="Zur Levelauswahl"' +
       ' style="box-shadow: inset 0 0 0 2px var(--g-' + guertel + ')">🏠</button>';
   }
   function bindHome() {
@@ -44,7 +44,7 @@
     var hoechster = state.fortschritt.hoechsterGuertel;
     var html = '<header class="kopf"><h1>HPP-Prüfungstraining</h1>' +
       '<p class="sub">' + EXAM.titel + ' · 28 Fragen</p></header>' +
-      '<p class="sub2">Wähle deinen Gürtel</p><div class="guertelliste">';
+      '<p class="sub2">Wähle dein Level</p><div class="guertelliste">';
     L.GUERTEL.forEach(function (g) {
       var frei = L.istFreigeschaltet(g, hoechster);
       html += '<button class="guertel' + (frei ? "" : " locked") + '" ' +
@@ -219,11 +219,11 @@
       '<div class="erg-txt">' + (bestanden ? "Bestanden" : "Nicht bestanden") +
       ' · Grenze ' + L.BESTEHENSGRENZE + '</div></div>';
     if (freigeschaltet) {
-      html += '<p class="erg-unlock">🎉 Neuer Gürtel freigeschaltet: <b>' + LABELS[neu] + '</b></p>';
+      html += '<p class="erg-unlock">🎉 Freigeschaltet: <b>' + LABELS[neu] + '</b></p>';
     }
     html += '<div class="erg-foot">' +
       '<button class="btn" id="erg-review">Durchsicht</button>' +
-      '<button class="btn btn-primary" id="erg-home">Zur Gürtelauswahl</button></div></div>';
+      '<button class="btn btn-primary" id="erg-home">Zur Levelauswahl</button></div></div>';
     app.innerHTML = html;
     app.querySelector("#erg-home").addEventListener("click", zeigeGuertelauswahl);
     app.querySelector("#erg-review").addEventListener("click", function () { zeigeDurchsicht(0); });
