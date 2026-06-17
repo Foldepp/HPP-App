@@ -12,6 +12,7 @@ Vor dem Schreiben laeuft eine Integritaets-Validierung:
 Bei ERRORs wird KEIN data.js geschrieben und mit Exitcode 1 abgebrochen.
 """
 import json, re, sys
+from difflib import SequenceMatcher
 from pathlib import Path
 
 _QUOTES = "„“”\"‚‘’`«»"
@@ -20,6 +21,12 @@ def _norm(s):
     """Vergleichsnormalisierung: Anführungszeichen-Stil und Whitespace ignorieren."""
     s = "".join(" " if c in _QUOTES else c for c in s)
     return re.sub(r"\s+", " ", s).strip()
+
+def _csig(stufe):
+    """Inhalts-Signatur einer Stufe (Stamm + Aussagen + Optionen, normalisiert)."""
+    auss = " ".join((stufe.get("aussagen") or {}).values())
+    opts = " ".join(stufe.get("optionen", {}).values())
+    return _norm(stufe["stamm"]) + " || " + _norm(auss) + " || " + _norm(opts)
 
 ROOT = Path(__file__).resolve().parent.parent
 DATEN = ROOT / "daten"
@@ -76,6 +83,12 @@ def validate(exams):
             # gruen != gelb
             if st["gruen"]["stamm"].strip() == st["gelb"]["stamm"].strip():
                 errors.append(f"{eid} F{nr}: gruen-Stamm == gelb-Stamm")
+            # braun darf NICHT mit schwarz (Original) inhaltsgleich sein (Rezeptur v5)
+            braun_sig, schwarz_sig = _csig(st["braun"]), _csig(st["schwarz"])
+            if braun_sig == schwarz_sig:
+                errors.append(f"{eid} F{nr}: braun ist inhaltsgleich mit schwarz (muss neu formuliert sein)")
+            elif SequenceMatcher(None, braun_sig, schwarz_sig, autojunk=False).ratio() >= 0.85:
+                warnings.append(f"{eid} F{nr}: braun ist sehr nah an schwarz (Beinahe-Kopie, bitte umformulieren)")
             # Loesungen gueltig
             for s in STUFEN:
                 if not set(st[s]["loesung"]).issubset(set(st[s]["optionen"].keys())):

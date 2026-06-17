@@ -161,19 +161,19 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Arten von Bewusstseinsstörungen gehören zu den quantitativen Bewusstseinsstörungen?",
+          "stamm": "Im Aufnahmegespräch einer psychiatrischen Notaufnahme werden Sie gebeten, die vorliegenden Bewusstseinsstörungen mehrerer Patienten einzuordnen. Welche der folgenden Aussagen zur Klassifikation von Bewusstseinsstörungen sind richtig?",
           "aussagen": {
-            "1": "Sopor",
-            "2": "Koma",
-            "3": "Illusionäre Verkennung",
-            "4": "Bewusstseinseinengung",
-            "5": "Somnolenz"
+            "1": "Somnolenz ist eine quantitative Bewusstseinsstörung, bei der die Betroffenen schläfrig, aber noch erweckbar sind.",
+            "2": "Bewusstseinsverschiebung gehört zu den quantitativen Bewusstseinsstörungen, da dabei das Wachheitsniveau herabgesetzt ist.",
+            "3": "Das Koma stellt die schwerste Ausprägung einer quantitativen Bewusstseinsstörung dar und ist durch völlige Nicht-Erweckbarkeit gekennzeichnet.",
+            "4": "Bewusstseinseinengung und illusionäre Verkennung zählen zu den qualitativen Bewusstseinsstörungen, da sie die Klarheit und Kohärenz des Bewusstseins beeinträchtigen.",
+            "5": "Sopor bezeichnet eine qualitative Bewusstseinsstörung, bei der das Bewusstsein zwar eingeengt, aber nicht quantitativ vermindert ist."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1 und 2 sind richtig",
-            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
-            "C": "Nur die Aussagen 3 und 4 sind richtig",
-            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
@@ -450,23 +450,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Ein Klient legt Ihnen seinen neurologischen Befund vor und bittet Sie, ihm die Begrifflichkeiten näher zu erläutern. Welche der folgenden medizinischen Begrifflichkeiten sind korrekt zugeordnet?",
+          "stamm": "Im Rahmen einer Patientenedukation erläutern Sie einer Gruppe von Angehörigen die neurologischen Fachbegriffe, die im Befundbericht eines Parkinson-Patienten aufgeführt sind. Welche der folgenden Zuordnungen sind medizinisch korrekt?",
           "aussagen": {
-            "1": "Akinese – Bewegungsarmut",
-            "2": "Mikrografie – Störung der aufrechten Körperhaltung",
-            "3": "Anosmie – Verlust des Geruchssinns",
-            "4": "Rigor – erhöhte Muskelsteifigkeit",
-            "5": "Ruhetremor – Zittern in Ruhe"
+            "1": "Rigor bezeichnet eine erhöhte Muskelsteifigkeit, die unabhängig von der Bewegungsgeschwindigkeit auftritt.",
+            "2": "Akinese beschreibt eine vollständige Lähmung der betroffenen Extremitäten.",
+            "3": "Anosmie bezeichnet den vollständigen oder teilweisen Verlust des Geruchssinns und kann ein Frühsymptom bei Morbus Parkinson sein.",
+            "4": "Mikrografie bezeichnet eine Gangstörung mit kleinschrittiger Fortbewegung.",
+            "5": "Ruhetremor beschreibt ein Zittern, das in körperlicher Ruhe auftritt und sich bei gezielten Willkürbewegungen in der Regel abschwächt."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1 und 5 sind richtig",
-            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
             "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "D"
+            "C"
           ]
         },
         "schwarz": {
@@ -550,19 +550,19 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Aussagen treffen zu? In der Verhaltenstherapie",
+          "stamm": "Eine Verhaltenstherapeutin erklärt einer Supervisandin Grundprinzipien der VT. Welche der folgenden Aussagen über lerntheoretische Grundlagen und verhaltenstherapeutische Methoden sind richtig?",
           "aussagen": {
-            "1": "sind experimentelle Befunde zur klassischen und operanten Konditionierung eine wichtige Grundlage von Modellen zur Entstehung psychischer Störungen sowie von Interventionsmethoden.",
-            "2": "gilt das Prinzip der klassischen und operanten Konditionierung inzwischen als veraltet.",
-            "3": "bezeichnet operante Konditionierung einen Lernprozess, bei dem die Auftretenswahrscheinlichkeit von Verhalten durch seine Konsequenzen erhöht oder erniedrigt wird.",
-            "4": "ist der Begriff der Bestrafung innerhalb des operanten Konditionierens mit einer negativen Verstärkung gleichzusetzen.",
-            "5": "kommen Verstärkerpläne zum Aufbau neuen Verhaltens zum Einsatz."
+            "1": "Die klassische und die operante Konditionierung bilden nach wie vor zentrale theoretische Grundlagen verhaltenstherapeutischer Störungsmodelle.",
+            "2": "Klassische und operante Konditionierung gelten in der modernen VT als historisch überholt und spielen in der Praxis kaum noch eine Rolle.",
+            "3": "Beim operanten Konditionieren verändert sich die Auftretenswahrscheinlichkeit eines Verhaltens in Abhängigkeit von dessen Konsequenzen.",
+            "4": "Negative Verstärkung ist mit dem Begriff ›Bestrafung‹ innerhalb der operanten Konditionierung gleichzusetzen, da beide Mechanismen aversive Reize beinhalten.",
+            "5": "Verstärkerpläne werden in der VT gezielt eingesetzt, um neues Verhalten schrittweise aufzubauen."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
             "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
@@ -844,19 +844,19 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Kriterien sprechen für eine Binge-Eating-Störung?",
+          "stamm": "Eine 34-jährige Klientin schildert wiederkehrende Episoden, in denen sie unkontrolliert große Mengen isst. Anschließend fühle sie sich schuldig und schäme sich. Sie gibt an, deutlich übergewichtig zu sein. Erbrechen oder andere Maßnahmen zur Gewichtskontrolle setzt sie nicht ein. Welche der folgenden Aussagen zur Binge-Eating-Störung treffen zu?",
           "aussagen": {
-            "1": "Neigung zu Übergewicht",
-            "2": "Kontrollverlust über die Nahrungsmenge während eines Essanfalls",
-            "3": "Essen mit Genuss",
-            "4": "Typischerweise Einsatz von gewichtsregulierenden Maßnahmen",
-            "5": "Schuldgefühle nach dem übermäßigen Essen"
+            "1": "Schuldgefühle und Scham nach einem Essanfall gehören zu den typischen Begleitmerkmalen der Binge-Eating-Störung.",
+            "2": "Betroffene setzen — anders als bei der Bulimia nervosa — in der Regel keine kompensatorischen Maßnahmen zur Gewichtsregulation ein.",
+            "3": "Die Essanfälle werden subjektiv als lustvoll und entspannend erlebt; ein Kontrollverlust liegt definitionsgemäß nicht vor.",
+            "4": "Übergewicht ist bei der Binge-Eating-Störung häufig anzutreffen.",
+            "5": "Während eines Essanfalls besteht typischerweise das Gefühl, die Kontrolle über die Nahrungsmenge verloren zu haben."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
             "B": "Nur die Aussagen 2 und 3 sind richtig",
-            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
@@ -1323,23 +1323,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Störungen bzw. Symptome werden als ich-synton beschrieben?",
+          "stamm": "Welche der folgenden klinischen Beschreibungen treffen auf ich-syntones Erleben zu?",
           "aussagen": {
-            "1": "Anankastische Persönlichkeitsstörung",
-            "2": "Maniforme Episode im Rahmen einer bipolaren affektiven Störung",
-            "3": "Akustische Halluzinationen im Rahmen einer paranoiden Schizophrenie",
-            "4": "Zwangshandlungen im Rahmen einer Zwangsstörung",
-            "5": "Wahnvorstellungen im Rahmen einer affektiven Störung"
+            "1": "Eine Patientin mit anankastischer Persönlichkeitsstörung hält ihr übertrieben ordentliches und kontrollierendes Verhalten für vollkommen normal und passend zu ihrer Persönlichkeit.",
+            "2": "Ein Patient in einer manischen Episode erlebt seine gehobene Stimmung, seinen Antrieb und seine Risikobereitschaft als wesensfremd und störend.",
+            "3": "Eine Patientin mit paranoider Schizophrenie nimmt kommentierende Stimmen wahr und ist überzeugt, dass diese Stimmen real sind und zu ihrer Wirklichkeit gehören.",
+            "4": "Ein Patient mit einer Zwangsstörung leidet unter seinen Kontrollzwängen und erlebt die Zwangshandlungen als sinnlos, quälend und nicht zu ihm gehörig.",
+            "5": "Ein Patient mit einer depressiven Episode und Schuldwahn ist fest davon überzeugt, schuldig zu sein — die Wahnüberzeugung wird als eigene Wirklichkeit erlebt, nicht als fremd."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1 und 4 sind richtig",
-            "B": "Nur die Aussagen 2, 3 und 5 sind richtig",
-            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "D"
+            "C"
           ]
         },
         "schwarz": {
@@ -2380,23 +2380,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Bei Klienten mit Hypochondrie findet sich sogenanntes Checking-Verhalten, dem eine krankheitsaufrechterhaltende Funktion zugeschrieben wird. Welche der folgenden Beispiele fallen am ehesten unter Checking-Verhalten?",
+          "stamm": "Bei Patientinnen und Patienten mit Hypochondrie lässt sich häufig sogenanntes „Checking-Verhalten” beobachten, dem eine krankheitsaufrechterhaltende Funktion zugeschrieben wird. Welche der folgenden Verhaltensbeispiele fallen am ehesten unter Checking-Verhalten?",
           "aussagen": {
-            "1": "Ein Klient mit Angst vor Hautkrebs tastet leicht gerötet Hautstellen wiederholt ab, um deren Beschaffenheit zu testen.",
-            "2": "Ein Klient mit Angst vor Hodenkrebs vermeidet sexuelle Kontakte, um nicht zu sehr mit seiner Angst konfrontiert zu werden.",
-            "3": "Ein Klient mit Angst vor Magenkrebs sucht im Internet Informationen über die Zusammensetzung von Nahrungsmitteln.",
-            "4": "Eine Klientin mit Angst vor Brustkrebs fragt häufig ihre Mitbewohnerin, ob diese ihr wirklich versprechen könne, dass sie keinen Brustkrebs habe.",
-            "5": "Eine Klientin mit Angst vor Kehlkopfkrebs schluckt morgens nach dem Aufwachen mehrfach, um die Funktionsweise des Kehlkopfes zu überprüfen."
+            "1": "Ein Klient mit der Angst vor einer Herzerkrankung misst täglich mehrfach seinen Puls und achtet dabei genau darauf, ob sein Herzschlag unregelmäßig ist.",
+            "2": "Ein Klient mit der Angst vor einem Hirntumor meidet Gespräche und Medienberichte über Schlaganfälle und Hirnerkrankungen, um keine Angst aufkommen zu lassen.",
+            "3": "Ein Klient mit der Angst vor einem Magengeschwür drückt täglich auf seinen Oberbauch, um Druckschmerzen oder Verhärtungen festzustellen.",
+            "4": "Eine Klientin mit der Angst vor Brustkrebs ruft regelmäßig ihren Hausarzt an und bittet ihn, ihr telefonisch zu bestätigen, dass der letzte Befund unauffällig war.",
+            "5": "Eine Klientin mit der Angst vor Lungenkrebs atmet absichtlich mehrfach tief ein und hält die Luft an, um beim Ausatmen zu prüfen, ob dabei Schmerzen oder ungewöhnliche Empfindungen auftreten."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
             "B": "Nur die Aussagen 2 und 4 sind richtig",
-            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
-            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "A"
+            "D"
           ]
         },
         "schwarz": {

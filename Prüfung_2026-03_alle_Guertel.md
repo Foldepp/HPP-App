@@ -218,15 +218,21 @@ Welche der folgenden Aussagen zum Vulnerabilitäts-Stress-Modell sind richtig?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zum Vulnerabilitäts-Stress-Modell sind richtig? Wählen Sie zwei Antworten!
+Das Vulnerabilitäts-Stress-Modell erklärt die Entstehung psychischer Erkrankungen durch das Zusammenwirken mehrerer Faktoren. Welche der folgenden Aussagen zum Modell treffen zu?
 
-- A) Genetische Faktoren spielen im Vulnerabilitäts-Stress-Modell keine Rolle.
-- B) Empathie ist ein Hauptbestandteil der individuellen Vulnerabilität.
-- C) Bei den meisten psychischen Erkrankungen geht man von einer multifaktoriellen Genese aus. ✅
-- D) Bei schweren Belastungen und/oder Substanzmissbrauch können auch Menschen mit einer geringen Vulnerabilität erkranken. ✅
-- E) Natürliche Veränderungen wie Adoleszenz oder Menopause sind keine Stressoren im Sinne des Vulnerabilitäts-Stress-Modells.
+1. Genetische Prädisposition gilt als eine mögliche Komponente der individuellen Vulnerabilität.
+2. Das Modell setzt voraus, dass immer sowohl eine hohe Vulnerabilität als auch ein schwerer Stressor gleichzeitig vorliegen müssen.
+3. Bei ausreichend starker Belastung, etwa durch chronischen Schlafmangel oder Substanzmissbrauch, können auch Personen mit geringer Vulnerabilität eine psychische Erkrankung entwickeln.
+4. Das Modell geht für die meisten psychischen Erkrankungen von einer multifaktoriellen Entstehung aus.
+5. Natürliche Lebensübergänge wie die Adoleszenz oder die Menopause können als Stressoren im Sinne dieses Modells wirksam werden.
 
-*Lösung: C, D*
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
 
 **⬛ Schwarz**  *( Mehrfachauswahl )*
 
@@ -289,15 +295,21 @@ Welche der folgenden Aussagen zum psychopathologischen Befund sind richtig?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Das AMDP-System ist ein anerkannter Standard zur methodischen Dokumentation psychiatrischer Befunde. Welche der folgenden Aussagen zum psychopathologischen Befund sind richtig? Wählen Sie zwei Antworten!
+Das AMDP-System dient der standardisierten Erhebung und Dokumentation psychiatrischer Befunde. Welche der folgenden Aussagen zu psychopathologischen Begriffen des AMDP sind richtig?
 
-- A) Unter Merkfähigkeitsstörungen versteht man eine Herabsetzung oder Aufhebung der Fähigkeit, Informationen länger als ca. 10 Minuten zu speichern.
-- B) Eine Auffassungsstörung bezeichnet eine Störung der Fähigkeit, Äußerungen und Texte in ihrer Bedeutung zu verstehen. ✅
-- C) Grübeln gehört zu den inhaltlichen Denkstörungen.
-- D) Ratlosigkeit ist eine formale Denkstörung.
-- E) Beim systematisierten Wahn können die Verknüpfungen zwischen den einzelnen Inhalten logisch oder auch paralogisch sein. ✅
+1. Eine Auffassungsstörung bezeichnet die eingeschränkte Fähigkeit, den Sinn von Äußerungen oder Texten zu erfassen.
+2. Merkfähigkeitsstörungen bezeichnen eine Herabsetzung oder Aufhebung der Fähigkeit, Informationen für mehr als etwa 10 Minuten zu behalten.
+3. Grübeln gilt als Ich-Störung, da es als fremdgesteuert erlebt wird.
+4. Ratlosigkeit zählt zu den affektiven Störungen und nicht zu den Denkstörungen.
+5. Beim systematisierten Wahn können die Verknüpfungen zwischen den einzelnen Wahninhalten sowohl logisch als auch paralogisch sein.
 
-*Lösung: B, E*
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
 
 **⬛ Schwarz**  *( Mehrfachauswahl )*
 
@@ -360,19 +372,19 @@ Welche der folgenden Aussagen zu depressiven Störungen gemäß ICD-10 sind rich
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu depressiven Störungen gemäß ICD-10 sind richtig?
+Eine 38-jährige Patientin stellt sich vor. Sie berichtet, seit Wochen kaum noch Freude empfinden zu können, sich ständig erschöpft zu fühlen und morgens oft keinen Appetit zu haben – manchmal hingegen esse sie unkontrolliert zu viel. Gelegentlich wünsche sie sich, „einfach nicht mehr aufzuwachen”. Welche der folgenden Aussagen zu depressiven Störungen gemäß ICD-10 treffen zu?
 
-1. Zur Diagnose einer depressiven Episode müssen mindestens zwei Hauptsymptome vorliegen.
-2. Suizidgedanken oder -handlungen gehören zu den Hauptsymptomen der depressiven Episode.
-3. Interessenverlust oder Freudlosigkeit gehören zu den Hauptsymptomen der Depression.
-4. Neben einem verminderten Appetit kann bei der Depression auch ein gesteigerter Appetit auftreten.
-5. Der Schweregrad einer Depression wird anhand der Anzahl der Haupt- und Zusatzsymptome bestimmt.
+1. Interessenverlust und Freudlosigkeit zählen zu den Hauptsymptomen einer depressiven Episode.
+2. Für die Diagnose einer depressiven Episode reicht das Vorliegen eines einzigen Hauptsymptoms aus, wenn gleichzeitig Suizidgedanken geäußert werden.
+3. Appetitveränderungen bei depressiven Episoden äußern sich ausschließlich als Appetitverlust – eine Steigerung des Appetits spricht gegen die Diagnose.
+4. Suizidgedanken werden nach ICD-10 den Zusatzsymptomen der Depression zugeordnet, nicht den Hauptsymptomen.
+5. Der Schweregrad einer depressiven Episode ergibt sich aus der Gesamtzahl der erfüllten Haupt- und Zusatzsymptome.
 
 - A) Nur die Aussagen 1 und 5 sind richtig
-- B) Nur die Aussagen 4 und 5 sind richtig
-- C) Nur die Aussagen 1, 2, 3 und 5 sind richtig
-- D) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
-- E) Nur die Aussagen 1, 3 und 4 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
 
 *Lösung: D*
 
@@ -1071,21 +1083,21 @@ Welche der folgenden Aussagen zur Einwilligungsfähigkeit sind richtig?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zur Einwilligungsfähigkeit sind richtig?
+Im therapeutischen Alltag eines Heilpraktikers für Psychotherapie spielt die Einwilligungsfähigkeit eine zentrale Rolle. Welche der folgenden Aussagen zur Einwilligungsfähigkeit sind richtig?
 
-1. Vor dem Beginn einer Behandlung muss der Heilpraktiker die Einwilligungsfähigkeit des Patienten feststellen.
-2. Besteht keine Geschäftsfähigkeit, liegt auch keine Einwilligungsfähigkeit vor.
-3. Besteht keine Einwilligungsfähigkeit, liegt auch keine Geschäftsfähigkeit vor.
-4. Bei Jugendlichen hängt die Einwilligungsfähigkeit nicht nur vom Alter, sondern auch von der individuellen geistigen und sittlichen Reife ab.
-5. Bei Jugendlichen ist Einwilligungsfähigkeit ab dem vollendeten 16. Lebensjahr anzunehmen.
+1. Die Feststellung der Einwilligungsfähigkeit einer Patientin oder eines Patienten gehört zu den Pflichten des Heilpraktikers vor Behandlungsbeginn.
+2. Einwilligungsfähigkeit und Geschäftsfähigkeit sind rechtlich deckungsgleich – wer nicht geschäftsfähig ist, kann grundsätzlich auch nicht einwilligen.
+3. Bei minderjährigen Patientinnen und Patienten richtet sich die Einwilligungsfähigkeit ausschließlich nach dem Lebensalter, nicht nach der individuellen Reife.
+4. Bei Jugendlichen wird die Einwilligungsfähigkeit ab dem vollendeten 16. Lebensjahr in der Regel als gegeben angesehen.
+5. Auch unterhalb der Altersgrenze von 16 Jahren kann eine Einwilligungsfähigkeit vorliegen, wenn die geistige und sittliche Reife des Jugendlichen dies im Einzelfall rechtfertigt.
 
-- A) Nur die Aussagen 1 und 5 sind richtig
-- B) Nur die Aussagen 1, 4 und 5 sind richtig ✅
-- C) Nur die Aussagen 2, 3 und 5 sind richtig
-- D) Nur die Aussagen 1, 3, 4 und 5 sind richtig
-- E) Nur die Aussagen 1, 3 und 4 sind richtig
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
 
-*Lösung: B*
+*Lösung: C*
 
 **⬛ Schwarz**  *( Aussagenkombination )*
 
@@ -1462,21 +1474,21 @@ Welche der folgenden Aussagen zu psychiatrischen Notfällen sind richtig? Ein ps
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu psychiatrischen Notfällen sind richtig? Ein psychiatrischer Notfall
+Psychiatrische Notfälle stellen besondere Anforderungen an Behandlerinnen und Behandler. Welche der folgenden Aussagen zu psychiatrischen Notfällen sind richtig? Ein psychiatrischer Notfall
 
-1. ist ein Zustand, der einen unmittelbaren Handlungszwang zur Abwendung von Lebensgefahr oder von anderen schwerwiegenden Folgen mit sich bringt.
-2. erfordert eine sofortige, an der akuten Symptomatik orientierte, gezielte Therapie.
-3. entsteht immer auf der Grundlage einer vorbestehenden psychiatrischen Erkrankung.
-4. muss auf einer psychiatrischen Station behandelt werden.
-5. erfordert immer eine Einweisung nach dem jeweils gültigen Landesgesetz über Hilfen und Schutzmaßnahmen bei psychischen Erkrankungen.
+1. liegt vor, wenn ein Zustand einen unmittelbaren Handlungsbedarf erfordert, um Lebensgefahr oder andere schwerwiegende Folgen abzuwenden.
+2. kann ausschließlich auf einer psychiatrischen Spezialstation adäquat versorgt werden.
+3. setzt das Vorliegen einer bereits bekannten und dokumentierten psychischen Erkrankung voraus.
+4. erfordert eine sofortige, an der aktuellen Symptomatik ausgerichtete Therapie.
+5. zieht zwingend eine Unterbringung nach dem Landesgesetz über Hilfen und Schutzmaßnahmen bei psychischen Erkrankungen nach sich.
 
-- A) Nur die Aussagen 1 und 5 sind richtig
-- B) Nur die Aussagen 1 und 2 sind richtig ✅
-- C) Nur die Aussagen 1, 2 und 3 sind richtig
-- D) Nur die Aussagen 1, 3 und 4 sind richtig
-- E) Nur die Aussagen 1, 2 und 5 sind richtig
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
+- E) Nur die Aussagen 1, 4 und 5 sind richtig
 
-*Lösung: B*
+*Lösung: C*
 
 **⬛ Schwarz**  *( Aussagenkombination )*
 
@@ -1622,21 +1634,21 @@ Welche der folgenden Aussagen zu Persönlichkeitsstörungen sind richtig?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu Persönlichkeitsstörungen sind richtig?
+Eine Supervisorin bespricht mit einer Therapeutin fünf Kurzprofile von Patienten. Zu jedem Profil ist eine Aussage über die mutmaßliche Persönlichkeitsstörung formuliert. Welche dieser Aussagen sind inhaltlich korrekt?
 
-1. Die schizoide Persönlichkeitsstörung ist u. a. durch einzelgängerisches Verhalten und ein begrenztes Vermögen, Gefühle auszudrücken, gekennzeichnet.
-2. Patienten mit einer abhängigen (asthenischen) Persönlichkeitsstörung verlassen sich bei Entscheidungen häufig passiv auf andere.
-3. Die dissoziale Persönlichkeitsstörung inkludiert auch die sogenannte soziopathische und psychopathische Persönlichkeitsstörung.
-4. Patienten mit einer histrionischen Persönlichkeitsstörung versuchen, Aufmerksamkeit zu vermeiden, und neigen zu sozialem Rückzug.
-5. "Borderline" ist ein Sub-Typ der emotional-instabilen Persönlichkeitsstörung.
+1. Ein Patient, der seit der Jugend kaum Freundschaften pflegt, Gesellschaft aktiv meidet und seinen Gefühlsausdruck stark einschränkt, zeigt Kernmerkmale der schizoiden Persönlichkeitsstörung.
+2. Eine Patientin, die in nahezu allen Lebensbereichen darauf besteht, dass andere für sie Entscheidungen treffen, und Alleinsein als unerträglich erlebt, erfüllt typische Kriterien der histrionischen Persönlichkeitsstörung.
+3. Die dissoziale Persönlichkeitsstörung umfasst konzeptuell auch das, was früher als psychopathische oder soziopathische Persönlichkeit bezeichnet wurde.
+4. Die Borderline-Persönlichkeitsstörung ist im ICD-10 als ein Untertyp der emotional-instabilen Persönlichkeitsstörung klassifiziert.
+5. Anhaltend rücksichtsloses Verhalten gegenüber anderen, Missachtung sozialer Normen und mangelnde Empathie sprechen eher für eine abhängige als für eine dissoziale Persönlichkeitsstörung.
 
-- A) Nur die Aussagen 1 und 4 sind richtig
-- B) Nur die Aussagen 2, 3 und 5 sind richtig
-- C) Nur die Aussagen 1, 3 und 4 sind richtig
-- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig ✅
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
 - E) Alle Aussagen sind richtig
 
-*Lösung: D*
+*Lösung: B*
 
 **⬛ Schwarz**  *( Einfachauswahl )*
 

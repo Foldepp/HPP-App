@@ -1416,23 +1416,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Aussagen zu evidenzbasierten Psychotherapieverfahren treffen zu?",
+          "stamm": "Welche der folgenden Aussagen zu psychotherapeutischen Methoden und ihrer indizierten Anwendung sind korrekt?",
           "aussagen": {
-            "1": "Beim CBASP wird positive Verstaerkung als wesentliche Motivierungsstrategie eingesetzt.",
-            "2": "CBASP ist speziell auf die Beduerfnisse chronisch depressiver Patientinnen und Patienten zugeschnitten.",
-            "3": "Eine auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie hat sich bei der generalisierten Angststoerung als wirksam erwiesen.",
-            "4": "Die kognitive Verhaltenstherapie mit Exposition und Reaktionsmanagement ist die Psychotherapiemethode der ersten Wahl bei Zwangsstoerungen.",
-            "5": "Bei der Behandlung der PTBS ist eine Retraumatisierung durch die Exposition mit dem traumatischen Inhalt notwendig."
+            "1": "Das kognitiv-verhaltenstherapeutisch-analytische Psychotherapie-System (CBASP) wurde speziell für die Behandlung chronisch depressiver Patientinnen und Patienten entwickelt.",
+            "2": "Die kognitive Verhaltenstherapie mit Exposition und Reaktionsverhinderung gilt als Behandlung der ersten Wahl bei Zwangsstörungen.",
+            "3": "Das therapeutische Ziel der Exposition bei der Behandlung der posttraumatischen Belastungsstörung ist die Verarbeitung des Traumas — nicht die Herbeiführung einer Retraumatisierung.",
+            "4": "CBASP setzt positive Verstärkung als seine zentrale Motivierungsstrategie ein.",
+            "5": "Die auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie erzielt bei der Panikstörung bessere Ergebnisse als bei der generalisierten Angststörung."
           },
           "optionen": {
-            "A": "Nur die Aussagen 1, 2 und 3 sind richtig",
-            "B": "Nur die Aussagen 2, 3 und 4 sind richtig",
-            "C": "Nur die Aussagen 3, 4 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "A": "Nur die Aussage 1 ist richtig",
+            "B": "Nur die Aussagen 1 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "B"
+            "C"
           ]
         },
         "schwarz": {
@@ -1516,23 +1516,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Sie sind als Heilpraktikerin/Heilpraktiker beschränkt auf das Gebiet der Psychotherapie tätig und möchten eine Raucherentwöhnung anbieten. Welche der folgenden Maßnahmen sind Ihnen nach entsprechender Ausbildung erlaubt?",
+          "stamm": "Eine HPP-Therapeutin plant, ihr Angebot zur Raucherentwöhnung um verschiedene Methoden zu erweitern. Sie hat Fortbildungen in Hypnose, kognitiver Verhaltenstherapie und Akupunktur absolviert. Welche der folgenden Aussagen zu ihrem berufsrechtlich erlaubten Tätigkeitsfeld treffen zu?",
           "aussagen": {
-            "1": "Einzelhypnose",
-            "2": "Gruppenhypnose in Ihrer Praxis",
-            "3": "Verordnung einer Medikation wie z. B. Bupropion oder Vareniclin",
-            "4": "Akupunktur",
-            "5": "Kognitive Verhaltenstherapie"
+            "1": "Die Hypnose — sowohl als Einzel- als auch als Gruppensetting — gehört zu den psychotherapeutischen Methoden, die ein HPP nach entsprechender Ausbildung einsetzen darf.",
+            "2": "Da Akupunktur in der Raucherentwöhnung wissenschaftlich anerkannt ist, zählt sie zum erlaubten Tätigkeitsbereich eines HPP.",
+            "3": "Die kognitive Verhaltenstherapie ist eine psychotherapeutische Methode und liegt damit grundsätzlich im erlaubten Tätigkeitsbereich eines HPP.",
+            "4": "Die Verordnung von Nikotinersatzmitteln wie Vareniclin oder Bupropion ist einem HPP gestattet, sofern eine entsprechende Fortbildung vorliegt.",
+            "5": "Akupunktur ist als körpermedizinische Maßnahme nicht vom Tätigkeitsbereich eines HPP umfasst."
           },
           "optionen": {
-            "A": "Nur die Aussage 5 ist richtig",
-            "B": "Nur die Aussagen 1 und 2 sind richtig",
-            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
-            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "C"
+            "B"
           ]
         },
         "schwarz": {
@@ -1615,19 +1615,24 @@
           ]
         },
         "braun": {
-          "typ": "Mehrfachauswahl",
-          "stamm": "Welche der folgenden Merkmale sprechen für sich allein bereits für das Vorliegen einer paranoiden Schizophrenie? Wählen Sie zwei Antworten!",
-          "aussagen": null,
+          "typ": "Aussagenkombination",
+          "stamm": "Ein 32-jähriger Patient wird zur Begutachtung vorgestellt. Der Gutachter stellt fest, dass der Patient überzeugt ist, fremde Gedanken würden in seinen Kopf einpflanzt, und erlebt bestimmte Körperbewegungen als von außen gesteuert. Zudem ist sein Denken weitschweifig und durch Gedankensprünge unterbrochen. Orientierung und Affekt sind unauffällig. Welche der folgenden Aussagen treffen zu?",
+          "aussagen": {
+            "1": "Das Erleben, Gedanken würden von außen in den Kopf einpflanzt (Gedankeneingebung), zählt zu den Ich-Störungen und reicht für sich allein aus, um die Diagnose einer Schizophrenie zu begründen.",
+            "2": "Die unauffällige Orientierung des Patienten schließt das Vorliegen einer Schizophrenie aus.",
+            "3": "Das Erleben, Körperbewegungen würden von außen gesteuert (gemachte Erlebnisse), ist ein unspezifischer Befund, der für die Diagnosestellung einer Schizophrenie nicht von Bedeutung ist.",
+            "4": "Formale Denkstörungen wie Weitschweifigkeit oder Gedankensprünge können für sich allein das Vorliegen einer Schizophrenie begründen.",
+            "5": "Affektstörungen gelten als schizophrenie-spezifische Erstrangsymptome und hätten diagnostisch besonders gewichtet werden müssen."
+          },
           "optionen": {
-            "A": "Orientierungsstörungen in allen Modalitäten",
-            "B": "Ich-Störungen (z. B. Gedankeneingebung, Gedankenentzug)",
-            "C": "Ausgeprägte Störungen der Affektivität",
-            "D": "Störung der Impulskontrolle",
-            "E": "Inhaltliche und formale Denkstörungen"
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 1 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "B",
-            "E"
+            "C"
           ]
         },
         "schwarz": {
@@ -1793,18 +1798,24 @@
           ]
         },
         "braun": {
-          "typ": "Einfachauswahl",
-          "stamm": "Die Therapie von Alkohol- und Drogenabhängigkeit lässt sich in vier Phasen einteilen. Welche der folgenden Phasen gehört nicht zu diesem Vierphasenmodell?",
-          "aussagen": null,
+          "typ": "Aussagenkombination",
+          "stamm": "Einem Patienten mit langjähriger Alkoholabhängigkeit wird ein strukturiertes Behandlungsprogramm vorgestellt. Welche der folgenden Aussagen zum anerkannten Vierphasenmodell der Abhängigkeitstherapie treffen zu?",
+          "aussagen": {
+            "1": "In der Kontakt- und Motivationsphase wird die Behandlungsbereitschaft des Patienten erarbeitet und gestärkt.",
+            "2": "Die Entgiftungsphase ist ausschließlich ambulant durchführbar, da eine stationäre Überwachung bei Alkoholabhängigkeit grundsätzlich nicht erforderlich ist.",
+            "3": "Auf die Entwöhnungsphase folgt im anerkannten Vierphasenmodell die Nachsorgephase, die der Rückfallprävention und langfristigen Stabilisierung dient.",
+            "4": "Eine eigenständige Remissionsphase ist fester Bestandteil des anerkannten Vierphasenmodells der Suchttherapie.",
+            "5": "Die Entwöhnungsphase zielt auf eine langfristige Verhaltens- und Einstellungsänderung sowie auf die Stabilisierung der Abstinenz ab."
+          },
           "optionen": {
-            "A": "Kontakt- und Motivationsphase",
-            "B": "Entgiftungsphase",
-            "C": "Entwöhnungsphase",
-            "D": "Rückfallpräventionsphase",
-            "E": "Nachsorgephase"
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "D"
+            "C"
           ]
         },
         "schwarz": {
@@ -1970,23 +1981,23 @@
         },
         "braun": {
           "typ": "Aussagenkombination",
-          "stamm": "Welche der folgenden Aussagen zur geschützten psychiatrischen Unterbringung nicht einwilligender Minderjähriger sind richtig?",
+          "stamm": "Die Eltern eines 15-jährigen Mädchens wenden sich an einen HPP. Das Mädchen verweigert jegliche ambulante Behandlung und die Eltern fragen, ob eine stationäre psychiatrische Aufnahme gegen den Willen der Tochter möglich sei. Der HPP erklärt die rechtliche Lage. Welche der folgenden Aussagen zur geschützten Unterbringung Minderjähriger treffen zu?",
           "aussagen": {
-            "1": "Eine Unterbringung kann nur bei akuter Eigengefährdung stattfinden.",
-            "2": "Das Familiengericht muss der Unterbringung zustimmen.",
-            "3": "Die Erziehungsberechtigten können eine Unterbringung nach § 1631b BGB beantragen.",
-            "4": "Eine Unterbringung kann nur mit dem Einverständnis der Erziehungsberechtigten erfolgen.",
-            "5": "Minderjährige können grundsätzlich nicht gegen ihren Willen geschützt psychiatrisch untergebracht werden."
+            "1": "Die Erziehungsberechtigten sind nach § 1631b BGB berechtigt, eine geschützte psychiatrische Unterbringung zu beantragen.",
+            "2": "Eine solche Unterbringung bedarf der gerichtlichen Genehmigung durch das Familiengericht.",
+            "3": "Voraussetzung für die Unterbringung ist zwingend eine akute Selbstgefährdung; ohne diese ist § 1631b BGB nicht anwendbar.",
+            "4": "Da das Mädchen bereits 15 Jahre alt ist, müssen die Eltern ihre Einwilligung nicht erteilen — das Mädchen kann eigenständig über eine Unterbringung entscheiden.",
+            "5": "Auch wenn das Mädchen die Aufnahme ablehnt, ist eine Unterbringung nach § 1631b BGB grundsätzlich möglich."
           },
           "optionen": {
-            "A": "Nur die Aussagen 2 und 3 sind richtig",
-            "B": "Nur die Aussagen 1 und 4 sind richtig",
-            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
-            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
           },
           "loesung": [
-            "A"
+            "B"
           ]
         },
         "schwarz": {

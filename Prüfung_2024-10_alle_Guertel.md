@@ -135,19 +135,19 @@ Welche der folgenden Aussagen über Neue psychoaktive Stoffe (NPS) treffen zu?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen über „Neue psychoaktive Stoffe“ (NPS) treffen zu?
+Ein Jugendlicher wird mit akuter Psychose in die psychiatrische Notaufnahme eingeliefert. Laut Begleitung hat er zuvor eine als „Legal High” beworbene Substanz konsumiert. Der behandelnde Arzt klärt die Familie über Neue psychoaktive Stoffe (NPS) auf. Welche der folgenden Aussagen sind dabei korrekt?
 
-1. NPS sind in der Regel harmlos, weil sie nicht zu den klassischen Drogen zählen.
-2. NPS werden häufig als „Kräutermischung“ oder „Badesalz“ angeboten.
-3. Durch das Verbot ganzer Stoffgruppen wird die legale Einführung neuer NPS erschwert.
-4. NPS sind eine sichere Ergänzung zur Psychotherapie, da sie tranceähnliche Zustände auslösen können.
-5. Als NPS finden unter anderem synthetische Cannabinoide, Phenethylamine und Cathinone Anwendung.
+1. Neue psychoaktive Stoffe sind grundsätzlich ungefährlich, da sie chemisch so gestaltet sind, dass sie keine Sucht auslösen.
+2. NPS werden auf dem Markt oft unter harmlosen Bezeichnungen wie „Kräutermischung”, „Raumduft” oder „Badesalz” vertrieben, um gesetzliche Verbote zu umgehen.
+3. Zur Gruppe der NPS zählen unter anderem synthetische Cannabinoide, Cathinone und Phenethylamine.
+4. Die gesetzliche Regulierung, die ganze Wirkstoffgruppen unter Verbot stellt, hat zur Folge, dass die Entwicklung neuer, noch nicht verbotener NPS-Varianten erschwert wird.
+5. NPS sind als verschreibungspflichtige Arzneimittel in der Apotheke erhältlich und unterliegen damit der amtlichen Qualitätskontrolle.
 
-- A) Nur die Aussagen 1 und 3 sind richtig
-- B) Nur die Aussagen 3 und 5 sind richtig
-- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
 - D) Nur die Aussagen 2, 4 und 5 sind richtig
-- E) Nur die Aussagen 2, 3 und 5 sind richtig ✅
+- E) Nur die Aussagen 2, 3 und 4 sind richtig ✅
 
 *Lösung: E*
 
@@ -449,18 +449,18 @@ Welche der folgenden Aussagen zu § 1831 BGB (freiheitsentziehende Unterbringung
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu § 1831 BGB (freiheitsentziehende Unterbringung nach BGB) treffen zu?
+Ein rechtlicher Betreuer möchte seinen Betreuten wegen drohender Selbstgefährdung freiheitsentziehend unterbringen. Er wendet sich an Sie als behandelnde Heilpraktikerin für Psychotherapie. Welche der folgenden Aussagen zur freiheitsentziehenden Unterbringung nach § 1831 BGB treffen zu?
 
-1. Eine Unterbringung des Betreuten, die mit Freiheitsentziehung verbunden ist, ist zur Abwendung eines Suizides oder eines drohenden erheblichen gesundheitlichen Schadens zulässig.
-2. Die Unterbringung ist nur mit Genehmigung des Betreuungsgerichts zulässig; ohne Genehmigung ist sie nur bei Gefahr im Verzug zulässig.
-3. Eine Unterbringung ist nur in psychiatrischen Kliniken, nicht aber in Pflegeheimen möglich.
-4. Liegt eine entsprechende Patientenverfügung vor, so ist eine Unterbringung nach BGB nicht möglich.
-5. Eine Unterbringung ist auch dann möglich, wenn beim Betreuten keine akute psychiatrische Erkrankung diagnostiziert wurde.
+1. Eine freiheitsentziehende Unterbringung ist zulässig, wenn sie dazu dient, einen Suizid oder einen drohenden erheblichen gesundheitlichen Schaden vom Betreuten abzuwenden.
+2. Grundsätzlich ist die Genehmigung des Betreuungsgerichts erforderlich; ohne diese Genehmigung ist die Unterbringung nur dann zulässig, wenn mit dem Aufschub Gefahr verbunden ist.
+3. Eine Unterbringung ist ausschließlich in psychiatrischen Kliniken möglich; Pflegeheime kommen als Unterbringungsort nicht infrage.
+4. Hat der Betreute in einer Patientenverfügung eine Unterbringung abgelehnt, so ist eine Unterbringung nach § 1831 BGB in jedem Fall ausgeschlossen.
+5. Eine Unterbringung nach § 1831 BGB setzt nicht zwingend voraus, dass beim Betreuten eine akute psychiatrische Erkrankung diagnostiziert wurde.
 
-- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- A) Nur die Aussagen 1 und 5 sind richtig
 - B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
-- C) Nur die Aussagen 1, 3 und 4 sind richtig
-- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- C) Nur die Aussagen 2, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
 - E) Nur die Aussagen 1, 3 und 5 sind richtig
 
 *Lösung: B*
@@ -530,17 +530,23 @@ Welche der folgenden Aussagen zur Intelligenzminderung treffen zu?
 
 *Lösung: B*
 
-**🟫 Braun**  *( Mehrfachauswahl )*
+**🟫 Braun**  *( Aussagenkombination )*
 
-Welche Aussagen treffen auf den Begriff Intelligenzminderung zu? Wählen Sie zwei Antworten!
+Welche der folgenden Aussagen zum Begriff „Intelligenzminderung” sind zutreffend?
 
-- A) Von einer Intelligenzminderung spricht man, wenn der IQ unterhalb der Norm liegt, also ab einem IQ < 100.
-- B) Ein IQ-Bereich von 35–49 entspricht bei Erwachsenen einem Intelligenzalter von 6 bis unter 9 Jahren. ✅
-- C) Eine Intelligenzminderung stellt kein Ausschlusskriterium für eine Verhaltenstherapie oder eine medikamentöse Behandlung dar. ✅
-- D) Zu den Sonderformen einer Intelligenzminderung zählen Dyskalkulie oder das Asperger-Syndrom.
-- E) Da es sich um verschiedene Genesen handelt, können Menschen mit einer Intelligenzminderung keine Demenz entwickeln.
+1. Von einer Intelligenzminderung spricht man, wenn der IQ unterhalb von 70 liegt — nicht bereits ab einem IQ unter 100.
+2. Personen mit einer Intelligenzminderung können aufgrund der unterschiedlichen Ätiologie keine demenziellen Erkrankungen entwickeln.
+3. Dyskalkulie und das Asperger-Syndrom gelten als Sonderformen der Intelligenzminderung.
+4. Ein IQ-Wert zwischen 35 und 49 entspricht bei Erwachsenen einem Intelligenzalter von 6 bis unter 9 Jahren.
+5. Eine Intelligenzminderung stellt weder für eine Verhaltenstherapie noch für eine medikamentöse Behandlung ein grundsätzliches Ausschlusskriterium dar.
 
-*Lösung: B, C*
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
 
 **⬛ Schwarz**  *( Mehrfachauswahl )*
 
@@ -603,19 +609,19 @@ Welche der folgenden Aussagen zu psychiatrischen und neurologischen Symptomen de
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Symptome können im Rahmen einer multiplen Sklerose auftreten?
+Eine 34-jährige Patientin stellt sich wegen zunehmender Erschöpfung und einer auffälligen Heiterkeit vor, die ihr selbst und ihrer Familie fremd wirkt. Anamnestisch sind vorübergehende Sehprobleme bekannt. Sie haben den Verdacht auf eine multiple Sklerose. Welche der folgenden Aussagen zu psychiatrischen und neurologischen Veränderungen bei MS sind zutreffend?
 
-1. Euphorische Stimmungslage sowie verflachter Affekt
-2. Dementielle Einbußen
-3. Flashbacks und Intrusionen
-4. Sehstörungen (z. B. Optikusneuritis)
-5. Paranoide Symptome
+1. Stimmungsveränderungen wie unangemessene Hochstimmung oder eine Abflachung des Gefühlslebens können unmittelbare Krankheitsfolge einer MS sein.
+2. Im Verlauf einer MS können kognitive Einbußen bis hin zu demenzartigen Beeinträchtigungen auftreten.
+3. Wiederkehrende Flashbacks und Intrusionen gehören zum charakteristischen psychiatrischen Erscheinungsbild einer MS.
+4. Entzündliche Prozesse am Sehnerv (Optikusneuritis) mit daraus resultierenden Sehstörungen sind ein bekanntes Symptom der MS.
+5. Paranoide Erlebnisweisen wie Verfolgungsideen sind bei MS nicht möglich, da die Erkrankung ausschließlich motorische Bahnen schädigt.
 
 - A) Nur die Aussagen 1 und 4 sind richtig
-- B) Nur die Aussagen 1, 2 und 5 sind richtig
-- C) Nur die Aussagen 1, 3 und 5 sind richtig
-- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig ✅
-- E) Alle Aussagen sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig
+- C) Nur die Aussagen 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- E) Nur die Aussagen 1, 2, 4 und 5 sind richtig
 
 *Lösung: D*
 
@@ -686,21 +692,21 @@ Welche der folgenden Aussagen zu Psychopharmaka sind korrekt?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche Aussagen zu Psychopharmaka sind korrekt?
+Sie beraten eine Patientin, die wegen einer leichten depressiven Episode ein pflanzliches Präparat einnehmen möchte und bereits ein Schmerzmittel sowie ein Schlafmittel aus der Gruppe der Benzodiazepine erhält. Welche der folgenden Aussagen zu Psychopharmaka sind korrekt?
 
-1. Neuroleptika wirken antipsychotisch, angstlösend und psychomotorisch dämpfend.
-2. Johanniskraut darf bei depressiven Episoden angewendet werden.
-3. Johanniskraut ist als standardisiertes Phytopharmakon klinisch äquivalent zu trizyklischen Antidepressiva bei schweren Depressionen.
-4. Johanniskraut kann als nicht verschreibungspflichtiges Präparat unbedenklich mit allen anderen Arzneimitteln zusammen eingenommen werden.
-5. Angstlösende Arzneimittel wie Benzodiazepine führen oft zu Tagesmüdigkeit.
+1. Neuroleptika (Antipsychotika) entfalten eine antipsychotische und zugleich angstlösende sowie psychomotorisch dämpfende Wirkung.
+2. Echtes Johanniskraut ist für die Anwendung bei depressiven Episoden zugelassen und daher eine mögliche Option für die Patientin.
+3. Da Johanniskraut rezeptfrei erhältlich ist, kann es bedenkenlos gleichzeitig mit beliebigen anderen Arzneimitteln — darunter Antikoagulanzien, Immunsuppressiva oder Hormonpräparaten — eingenommen werden.
+4. Angstlösende Arzneimittel wie Benzodiazepine führen häufig zu Tagesmüdigkeit als unerwünschter Wirkung.
+5. Johanniskraut ist in erster Linie als Stimmungsstabilisator bei bipolaren Störungen zugelassen und bei unipolarer Depression nicht indiziert.
 
-- A) Nur die Aussagen 1 und 2 sind richtig
-- B) Nur die Aussagen 3 und 5 sind richtig
-- C) Nur die Aussagen 2, 3 und 5 sind richtig
-- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig ✅
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
 - E) Alle Aussagen sind richtig
 
-*Lösung: D*
+*Lösung: C*
 
 **⬛ Schwarz**  *( Aussagenkombination )*
 
@@ -1151,19 +1157,19 @@ Welche der folgenden Aussagen zum Umgang mit suizidalen Patientinnen und Patient
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche Aussagen im Umgang mit suizidalen Patientinnen/Patienten sind richtig?
+In Ihrer Praxis äußert ein Patient beiläufig, dass er manchmal daran denke, „nicht mehr da sein zu wollen”. Er wirkt nicht akut gefährdet, zeigt jedoch deutlichen Leidensdruck. Welche der folgenden Aussagen zum klinischen Umgang mit Suizidalität treffen zu?
 
-1. Latente Suizidgedanken erfordern kein unmittelbares therapeutisches Vorgehen.
-2. Nur Menschen mit einer psychischen Erkrankung begehen einen Suizidversuch.
-3. Die Exploration früherer suizidaler Episoden ist in der Akutsituation unerlässlich.
-4. Die Vereinbarung eines Antisuizidvertrags ist sinnvoll bei nicht akuter Suizidalität.
-5. Die Äußerung von Suizidgedanken entbindet nicht zwangsläufig von der Schweigepflicht.
+1. Suizidgedanken treten ausschließlich bei Menschen mit einer diagnostizierten psychischen Erkrankung auf; ohne psychiatrische Diagnose besteht kein Suizidrisiko.
+2. Sobald ein Patient Suizidgedanken äußert, muss die Schweigepflicht in jedem Fall aufgehoben werden, um Angehörige zu informieren.
+3. Bei nicht akuter Suizidalität kann die Vereinbarung eines Antisuizidvertrags ein sinnvolles therapeutisches Instrument sein.
+4. Die Äußerung von Suizidgedanken entbindet nicht zwangsläufig und automatisch von der Schweigepflicht.
+5. Auch latente oder passive Suizidgedanken erfordern ein aktives therapeutisches Vorgehen — eine abwartende Haltung ist nicht angemessen.
 
-- A) Nur die Aussagen 1 und 3 sind richtig
-- B) Nur die Aussagen 2 und 4 sind richtig
-- C) Nur die Aussagen 3 und 5 sind richtig
-- D) Nur die Aussagen 4 und 5 sind richtig ✅
-- E) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 3, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
 
 *Lösung: D*
 
@@ -1234,19 +1240,19 @@ Welche der folgenden Aussagen zur Gesprächsführung in der psychotherapeutische
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche Aussagen zur Gesprächsführung mit Patientinnen/Patienten treffen zu?
+Sie beginnen ein Anamnesegespräch mit einem neuen Patienten. Welche der folgenden Aussagen zu einer guten Gesprächsführung in der psychotherapeutischen Praxis treffen zu?
 
-1. Zu Beginn des Gesprächs sollten zunächst geschlossene Fragen gestellt werden, um rasch zu erfahren, weshalb die Patientin/der Patient aufsucht.
-2. Offene Fragen sind im Anamnesegespräch nicht üblich.
-3. Suggestivfragen sind zu vermeiden.
-4. Abwertende Bemerkungen sollten gemieden werden.
-5. Allgemeine Aussagen müssen durch gezieltes Nachfragen eingegrenzt werden.
+1. Am Beginn eines Gesprächs sind offene Fragen sinnvoll, da sie dem Patienten Raum geben, sein Anliegen in eigenen Worten darzustellen.
+2. Suggestivfragen wie „Sie haben sicher auch Schlafprobleme, oder?” sollten im Anamnesegespräch vermieden werden.
+3. Wenn eine Patientin oder ein Patient allgemeine Formulierungen wie „Ich habe überall Schmerzen” äußert, sind präzisierende Nachfragen geboten, um das Beschwerdebild einzugrenzen.
+4. Abwertende oder herabsetzende Bemerkungen sind im therapeutischen Gespräch grundsätzlich zu meiden.
+5. Zu Beginn des Gesprächs sind geschlossene Fragen vorzuziehen, weil sie eine schnelle Diagnosestellung ermöglichen.
 
-- A) Nur die Aussagen 1 und 2 sind richtig
-- B) Nur die Aussagen 4 und 5 sind richtig
-- C) Nur die Aussagen 3, 4 und 5 sind richtig ✅
-- D) Nur die Aussagen 1, 4 und 5 sind richtig
-- E) Nur die Aussagen 2, 3 und 5 sind richtig
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
 
 *Lösung: C*
 
@@ -1477,21 +1483,21 @@ Welche der folgenden Aussagen zur Behandlung mit Lithium sind korrekt?
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche der folgenden Aussagen zu einer Behandlung mit Lithium sind korrekt?
+Eine Patientin mit rezidivierender depressiver Störung und bipolaren Anteilen wird auf Lithium eingestellt. Sie fragt nach Wirkungen und möglichen Nebenwirkungen. Welche der folgenden Aussagen zur Lithiumtherapie treffen zu?
 
-1. Lithium kann zu einem Tremor führen.
-2. Lithium hat eine hohe therapeutische Breite.
-3. Lithium wirkt antimanisch, antidepressiv und antisuizidal.
-4. Unter Lithium kann es zu einer Gewichtszunahme kommen.
-5. Lithium kann zu einem gesteigerten Durstempfinden (Polydipsie) führen.
+1. Lithium wirkt antimanisch, antidepressiv und antisuizidal.
+2. Lithium besitzt eine hohe therapeutische Breite; eine regelmäßige Blutspiegel-Kontrolle ist daher nicht zwingend notwendig.
+3. Zu den möglichen Nebenwirkungen einer Lithiumtherapie zählt ein feinschlägiger Tremor.
+4. Polydipsie — ein gesteigertes Durstempfinden — kann unter Lithiumbehandlung auftreten.
+5. Gewichtszunahme ist eine bekannte Nebenwirkung der Lithiumtherapie.
 
-- A) Nur die Aussagen 1 und 3 sind richtig
-- B) Nur die Aussagen 1 und 4 sind richtig
-- C) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
-- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- A) Nur die Aussagen 1, 3 und 4 sind richtig
+- B) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 2 sind richtig
 - E) Alle Aussagen sind richtig
 
-*Lösung: C*
+*Lösung: B*
 
 **⬛ Schwarz**  *( Aussagenkombination )*
 
@@ -1880,18 +1886,18 @@ Welche der folgenden Regelungen sind im Heilpraktikergesetz (HeilprG) selbst ent
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Im Heilpraktikergesetz ist geregelt:
+Eine Heilpraktikerin für Psychotherapie informiert sich über die rechtlichen Grenzen ihrer Tätigkeit. Welche der folgenden Aussagen treffen zu?
 
-1. das Verbot, Geburtshilfe – außer im Notfall – zu leisten
-2. die Verpflichtung zur Hilfe im medizinischen Notfall
-3. das Verbot zur Untersuchung und Behandlung von Mund-, Zahn- und Kieferkrankheiten
-4. das Verbot, Heilversprechen zu geben
-5. das Verbot zur Ausübung der Heilkunde im Umherziehen
+1. Ein Heilpraktiker für Psychotherapie darf keine verschreibungspflichtigen Medikamente verordnen.
+2. Ein Heilpraktiker für Psychotherapie darf auch körperliche Erkrankungen umfassend behandeln.
+3. Die Ausübung der Heilkunde im Umherziehen ist Heilpraktikern untersagt.
+4. Ein Heilpraktiker für Psychotherapie darf die Berufsbezeichnung „Psychotherapeut“ führen.
+5. Die Untersuchung und Behandlung von Zahn-, Mund- und Kieferkrankheiten ist Heilpraktikern nicht gestattet.
 
-- A) Nur die Aussage 5 ist richtig ✅
-- B) Nur die Aussagen 1 und 5 sind richtig
-- C) Nur die Aussagen 1, 3 und 5 sind richtig
-- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- A) Nur die Aussagen 1, 3 und 5 sind richtig ✅
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 3, 4 und 5 sind richtig
 - E) Alle Aussagen sind richtig
 
 *Lösung: A*
@@ -2117,21 +2123,21 @@ Welche der folgenden Aussagen zur Praxisgründung einer Heilpraktikerin für Psy
 
 **🟫 Braun**  *( Aussagenkombination )*
 
-Welche Aussagen zur Praxisgründung sind richtig?
+Eine Heilpraktikerin für Psychotherapie gründet ihre erste eigene Praxis und hat eine Teilzeitkraft angestellt. Welche der folgenden Aussagen zu den rechtlichen Pflichten bei der Praxisgründung treffen zu?
 
-1. Sie müssen die Praxisgründung bei der zuständigen unteren Gesundheitsbehörde (Gesundheitsamt) anmelden.
-2. Eine Anmeldung beim zuständigen Finanzamt ist erst nach einem Jahr erforderlich, weil vorher keine Steuern zu entrichten sind.
-3. Sollten Sie eine oder mehrere Angestellte haben, so können Sie diese freiwillig bei der zuständigen Berufsgenossenschaft anmelden.
-4. Für Ihren Praxissitz müssen Sie eine feste Adresse haben.
-5. Sollten Sie eine oder mehrere Angestellte haben, so müssen Sie diese im Rahmen der Betreiberverantwortung mindestens einmal jährlich und bei Anlass über die bei der Arbeit bestehenden Gefahren und die eingeleiteten Verhütungsmaßnahmen aufklären.
+1. Die Praxisgründung ist bei der zuständigen unteren Gesundheitsbehörde (Gesundheitsamt) anzumelden.
+2. Die Anmeldung beim Finanzamt darf bis zu einem Jahr nach Tätigkeitsbeginn aufgeschoben werden, da im ersten Jahr keine Steuerpflicht besteht.
+3. Da es sich um eine Einzelpraxis handelt, ist eine feste Praxisadresse nicht zwingend vorgeschrieben.
+4. Wer Angestellte beschäftigt, muss diese im Rahmen der Betreiberverantwortung mindestens einmal jährlich über die am Arbeitsplatz bestehenden Gefahren und die getroffenen Verhütungsmaßnahmen unterweisen.
+5. Bei Angestellten ist die Anmeldung bei der zuständigen Berufsgenossenschaft eine freiwillige Option, keine gesetzliche Pflicht.
 
-- A) Nur die Aussagen 2 und 3 sind richtig
-- B) Nur die Aussagen 1, 3 und 4 sind richtig
-- C) Nur die Aussagen 1, 2, 4 und 5 sind richtig
-- D) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- A) Nur die Aussagen 1 und 4 sind richtig ✅
+- B) Nur die Aussagen 2 und 5 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
 - E) Alle Aussagen sind richtig
 
-*Lösung: D*
+*Lösung: A*
 
 **⬛ Schwarz**  *( Aussagenkombination )*
 
