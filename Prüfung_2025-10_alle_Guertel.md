@@ -1,0 +1,2196 @@
+# Heilpraktikerprüfung Psychotherapie — Oktober 2025
+## Komplett über alle fünf Gürtel (Gelb → Grün → Blau → Braun → Schwarz)
+
+*Übersetzungs-Rezeptur v5. Schwarz = Originalfrage; übrige Stufen neu formuliert.*
+
+
+---
+
+## Frage 1 — Generalisierte Angststörung – Differentialdiagnose und Therapie
+*Wissenskern: Bei körperlichen Symptomen wie Herzrasen und Schweißausbrüchen ist trotz bestehender psychischer Diagnose eine somatische Abklärung (z. B. Phäochromozytom, Hyperthyreose) notwendig. Körperliche Symptome gehören zum Bild der generalisierten Angststörung. Behandlungsziel ist Angstbewältigung, nicht Vermeidung. Zur Therapie eignet sich u. a. die Exposition in sensu.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche somatische Erkrankung zählt zu den wichtigen Differentialdiagnosen bei anfallsartigem Herzrasen und Schweißausbrüchen?
+
+- A) Hypothyreose
+- B) Phäochromozytom ✅
+- C) Hypoglykämie
+- D) Anämie
+- E) Morbus Addison
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin mit bekannter Depression entwickelt anfallsartiges Herzrasen und Schweißausbrüche und ist überzeugt, diese Symptome seien klar psychisch bedingt. Sie lehnt eine Vorstellung beim Arzt ab. Welche Aussage beschreibt das therapeutisch korrekte Vorgehen am besten?
+
+- A) Da die Symptome gut zur Depression passen, kann auf eine somatische Abklärung verzichtet werden, solange keine Bewusstlosigkeit auftritt.
+- B) Herzrasen und Schweißausbrüche können zwar bei Angststörungen auftreten, erfordern aber dennoch eine somatische Abklärung, da organische Ursachen wie Phäochromozytom oder Hyperthyreose ausgeschlossen werden müssen. ✅
+- C) Eine somatische Abklärung ist nur dann notwendig, wenn die Patientin keine psychiatrische Vordiagnose hat.
+- D) Da Schweißausbrüche ein klassisches Angstsymptom sind, ist eine Überweisung zum Internisten erst nach sechs Monaten sinnvoll.
+- E) Die Patientin hat das Recht, eine Abklärung abzulehnen; der Therapeut darf in diesem Fall keine weiteren Maßnahmen veranlassen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur generalisierten Angststörung und zu ihren Differentialdiagnosen sind richtig?
+
+1. Somatische Erkrankungen wie Phäochromozytom und Hyperthyreose können eine Symptomatik mit Herzrasen und Schweißausbrüchen verursachen, die einer Angststörung ähnelt.
+2. Körperliche Symptome wie Herzrasen, Schwindel und Verspannungen können Bestandteil einer generalisierten Angststörung sein.
+3. Das primäre Behandlungsziel bei der generalisierten Angststörung ist das Erkennen und konsequente Vermeiden angstauslösender Situationen.
+4. Die Exposition in sensu ist eine geeignete therapeutische Methode bei der generalisierten Angststörung.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Eine Patientin mit bekannter rezidivierender Depression stellt sich vor und berichtet über neu aufgetretenes, mehrfach tägliches Herzrasen und Schweißausbrüche. Sie führt diese Symptome auf eine Angststörung zurück und möchte eine Vorstellung beim Hausarzt vermeiden. Welche der folgenden Aussagen treffen zu?
+
+1. Auch bei einer eindeutig bekannten psychischen Erkrankung ist eine somatische Abklärung bei neu aufgetretener körperlicher Symptomatik notwendig.
+2. Zu den somatischen Differentialdiagnosen bei Herzrasen und Schweißausbrüchen zählen unter anderem Phäochromozytom und Hyperthyreose.
+3. Körperliche Beschwerden wie Herzrasen und Schweißausbrüche können bei einer generalisierten Angststörung als Begleitsymptome auftreten.
+4. Das primäre Behandlungsziel bei generalisierten Angststörungen ist das vollständige Vermeiden angstauslösender Reize.
+5. Die Exposition in sensu gilt als geeignetes Therapieelement bei der Behandlung generalisierter Angststörungen.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Eine Ihnen bekannte Patientin mit rezidivierenden depressiven Episoden stellt sich mit folgenden Beschwerden vor: Seit wenigen Wochen leide sie mehrfach täglich unter Herzrasen und Schweißausbrüchen. Bei der Begrüßung sagt sie: „Jetzt habe ich wohl auch noch eine Angststörung. War wohl nur eine Frage der Zeit… Ich wäre froh, wenn wir auf die Vorstellung beim Hausarzt verzichten können, dort ist es so schwierig Termine zu bekommen und es ist ja bei mir alles klar.“ Welche der folgenden Aussagen trifft bzw. treffen zu?
+
+1. Bei Vorliegen einer Symptomatik, die eindeutig einer psychischen Erkrankung zugeordnet werden kann, ist eine somatische Abklärung entbehrlich.
+2. Somatische Differentialdiagnosen bei der beschriebenen Symptomatik sind unter anderen das Phächromozytom und die Hyperthyreose.
+3. Körperliche Beschwerden wie Schweißausbrüchen, Herzrasen, aber auch Verspannungen, Schwindelgefühl und Bauchschmerzen können bei einer generalisierten Angststörung auftreten.
+4. Behandlungsziel sollte das Erkennen und Vermeiden von angstauslösenden Situationen sein.
+5. Zur Therapie einer generalisierten Angststörung eignet sich unter andrem eine sogenannte Exposition in sensu.
+
+- A) Nur die Aussage 5 ist richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 2 — Depressions-Selbstbeurteilung – Symptombereiche
+*Wissenskern: Ein valider Selbstbeurteilungsbogen zur Erfassung von Depressionsverlauf und -schweregrad sollte kognitive Symptome (z. B. Konzentrationsprobleme), emotionale Symptome (z. B. Hoffnungslosigkeit), physische Symptome (z. B. Schlafveränderungen), Selbstwert (z. B. Selbstablehnung) UND Wahnerleben (z. B. Schuldwahn) umfassen – alle fünf Bereiche sind relevant.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches der folgenden Symptome gehört zu den kognitiven Symptomen einer Depression?
+
+- A) Schlaflosigkeit
+- B) Hoffnungslosigkeit
+- C) Konzentrationsschwierigkeiten ✅
+- D) Appetitverlust
+- E) Schuldwahn
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Kollege erstellt einen Selbstbeurteilungsbogen, der nur emotionale Symptome wie Hoffnungslosigkeit und Traurigkeit abfragt. Eine Supervisorin kritisiert, der Bogen sei unvollständig für die Verlaufsbeurteilung einer Depression. Welche Aussage begründet diese Kritik am besten?
+
+- A) Emotionale Symptome sind bei der Depression nicht valide selbst einzuschätzen und sollten daher ganz weggelassen werden.
+- B) Ein vollständiger Depressions-Selbstbeurteilungsbogen sollte neben emotionalen Symptomen auch kognitive, physische Symptome, Selbstwert und Wahnerleben erfassen. ✅
+- C) Für den Verlauf einer Depression genügen emotionale und physische Symptome; kognitive Symptome sind klinisch nicht relevant.
+- D) Selbstbeurteilungsbögen sind grundsätzlich ungeeignet zur Einschätzung des Depressions-Schweregrads und sollten durch Fremdbeurteilung ersetzt werden.
+- E) Wahnerleben ist so selten bei Depression, dass es in keinem Standardbogen enthalten sein muss.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Selbstbeurteilungsbögen für Depression treffen zu?
+
+1. Kognitive Symptome wie Konzentrationsschwierigkeiten sollten in einem Depressions-Selbstbeurteilungsbogen erfasst werden.
+2. Physische Symptome wie veränderte Schlafgewohnheiten sind für die Verlaufserfassung einer Depression irrelevant und daher nicht abzubilden.
+3. Selbstwerterleben, beispielsweise in Form von Selbstablehnung, ist ein relevanter Bereich für Selbstbeurteilungsbögen zur Depression.
+4. Wahnerleben wie Schuld- oder Bestrafungswahn kann bei schweren Depressionen auftreten und sollte in einem umfassenden Bogen berücksichtigt werden.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussage 1 ist richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Bereiche sollten in einem Selbstbeurteilungsbogen abgebildet sein, um Verlauf und Schweregrad einer Depression valide einzuschätzen?
+
+1. Kognitive Symptome, zum Beispiel Konzentrationsschwierigkeiten oder Entscheidungsunfähigkeit
+2. Emotionale Symptome wie anhaltende Hoffnungslosigkeit oder Freudlosigkeit
+3. Physische Symptome wie Veränderungen der Schlafgewohnheiten oder des Appetits
+4. Selbstwerterleben, zum Beispiel ausgeprägte Selbstablehnung oder Schuldgefühle
+5. Wahnerleben wie Schuld- oder Bestrafungswahn bei schweren Episoden
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Bereiche sollten unter anderem in einem Selbstbeurteilungsbogen abgebildet werden, um den Verlauf und Schweregrad einer Depression abzuschätzen?
+
+1. Kognitive Symptome wie z.B. Konzentrationsschwierigkeiten
+2. Emotionale Symptome wie z.B. Hoffnungslosigkeit
+3. Physische Symptome wie z.B. Veränderung der Schlafgewohnheiten
+4. Selbstwertgefühl wie z.B. Selbstablehnung
+5. Wahnerleben wie z.B. Schuld- oder Bestrafungswahn
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 3 — Bipolare affektive Störung – Charakteristika
+*Wissenskern: Bei bipolarer Störung überwiegen depressive Phasen (nicht manische). Bei jeder Depression sollte nach früheren (hypo-)manischen Episoden gefragt werden. Bipolare Störungen beginnen früher als unipolare Depressionen. Männer und Frauen sind gleich häufig betroffen. Bei manischen Episoden können Größenideen auftreten, Beeinträchtigungsideen sind hingegen kein typisches Merkmal.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wann beginnt eine bipolare affektive Störung typischerweise im Vergleich zu einer unipolaren Depression?
+
+- A) Später, meist erst nach dem 50. Lebensjahr
+- B) Im gleichen Lebensabschnitt wie unipolare Depressionen
+- C) Früher als unipolare Depressionen ✅
+- D) Ausschließlich in der Pubertät
+- E) Ausschließlich nach einem traumatischen Lebensereignis
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine 28-jährige Patientin stellt sich mit einer schweren depressiven Episode vor. Der aufnehmende Therapeut fragt sie systematisch nach vorangegangenen Phasen gesteigerter Energie, vermindertem Schlafbedürfnis und gehobener Stimmung. Warum ist diese Frage diagnostisch besonders wichtig?
+
+- A) Weil bei bipolaren Störungen depressive Episoden gar nicht vorkommen und ein Irrtum vorliegen könnte
+- B) Weil frühere (hypo-)manische Episoden auf eine bipolare Störung hinweisen, was erhebliche therapeutische Konsequenzen hat – etwa bezüglich einer Antidepressiva-Monotherapie ✅
+- C) Weil unipolare Depressionen immer vor dem 20. Lebensjahr beginnen und eine spätere Erstmanifestation immer bipolar ist
+- D) Weil (hypo-)manische Episoden ausschließlich bei Frauen auftreten und daher bei einer Frau obligat abgefragt werden müssen
+- E) Weil alle Depressionen mit einer Stimmungsstabilisierung behandelt werden sollten, unabhängig von früheren Episoden
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur bipolaren affektiven Störung treffen zu?
+
+1. Bei jeder depressiven Episode sollte anamnestisch nach früheren hypomanischen oder manischen Phasen gefragt werden.
+2. Personen mit bipolarer affektiver Störung verbringen insgesamt mehr Zeit in manischen als in depressiven Phasen.
+3. Bipolare affektive Störungen manifestieren sich typischerweise früher im Leben als unipolare Depressionen.
+4. Frauen erkranken deutlich häufiger an bipolaren Störungen als Männer.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur bipolaren affektiven Störung sind korrekt?
+
+1. Personen mit bipolarer affektiver Störung verbringen im Durchschnitt mehr Zeit in depressiven als in manischen Phasen.
+2. Bei manischen Episoden können Beeinträchtigungsideen auftreten.
+3. Bei jeder diagnostizierten Depression sollte nach früheren (hypo-)manischen Episoden gefragt werden.
+4. Bipolare affektive Störungen beginnen in der Regel früher als unipolare Depressionen.
+5. Frauen erkranken häufiger an bipolaren Störungen als Männer.
+
+- A) Nur die Aussagen 3 und 4 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche der folgenden Aussagen treffen auf die bipolare Störung zu? Wählen Sie zwei Antworten!
+
+- A) Personen mit bipolarer affektiver Störung sind insgesamt längere Zeit manisch.
+- B) Bei manischen Episoden können Beeinträchtigungsideen auftreten.
+- C) Bei jeder Depression sollte nach einer vorherigen (hypo-)manischen Episode gefragt werden. ✅
+- D) Bipolare affektive Störungen beginnen in der Regel früher als unipolare Depressionen ✅
+- E) Frauen erkranken öfter an einer bipolaren affektiven Störung als Männer
+
+*Lösung: C, D*
+
+
+---
+
+## Frage 4 — Dissoziative Störungen – Fugue
+*Wissenskern: Die dissoziative Fugue ist charakterisiert durch eine unerwartete Reise weg vom gewohnten Ort mit Amnesie für die eigene Biografie (Name, Herkunft), äußerlicher Unauffälligkeit und dem Fehlen organischer Ursachen. Sie unterscheidet sich von der dissoziativen Amnesie (kein Ortswechsel) und dem dissoziativen Stupor (Bewegungslosigkeit).*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Kernsymptom kennzeichnet die dissoziative Fugue?
+
+- A) Vollständige Lähmung beider Beine ohne organische Ursache
+- B) Unerwartetes Wegreisen mit Amnesie für die eigene Identität ✅
+- C) Anhaltende Stimmungsschwankungen und Impulsivität
+- D) Wahrnehmung der eigenen Person als fremd und unwirklich
+- E) Plötzliche Bewusstlosigkeit mit anschließender Verwirrung
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Mann wird in einer ihm unbekannten Stadt aufgegriffen. Er weiß nicht, wer er ist oder wie er dorthin gelangt ist, wirkt aber äußerlich ruhig und orientiert. Organische Ursachen und Substanzmissbrauch wurden ausgeschlossen. Wie grenzt man die dissoziative Fugue von der dissoziativen Amnesie ohne Ortswechsel ab?
+
+- A) Bei der dissoziativen Fugue sind ausschließlich episodische Erinnerungen betroffen, während bei der Amnesie das Langzeitgedächtnis erhalten bleibt.
+- B) Das entscheidende Unterscheidungsmerkmal ist der unerwartete Ortswechsel: Bei der dissoziativen Fugue verlässt die Person ihr gewohntes Umfeld, was bei der reinen dissoziativen Amnesie nicht der Fall ist. ✅
+- C) Die dissoziative Amnesie tritt ausschließlich nach Schädel-Hirn-Trauma auf, die Fugue hingegen immer ohne körperliche Ursache.
+- D) Bei der dissoziativen Fugue ist die Orientierung zur Zeit stets erhalten, bei der Amnesie hingegen gestört.
+- E) Beide Störungsbilder sind identisch; der Begriff Fugue ist eine veraltete Bezeichnung für die dissoziative Amnesie.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur dissoziativen Fugue sind richtig?
+
+1. Die dissoziative Fugue ist durch eine unerwartete Reise weg vom gewohnten Wohnort gekennzeichnet, verbunden mit Amnesie für die eigene Identität.
+2. Betroffene wirken während der Fugue häufig äußerlich unauffällig und können nach außen orientiert erscheinen.
+3. Eine organische Ursache oder Substanzmissbrauch muss bei der Diagnose der dissoziativen Fugue nicht ausgeschlossen werden.
+4. Ein wesentliches Unterscheidungsmerkmal zur dissoziativen Amnesie ohne Ortswechsel ist der tatsächliche Ortswechsel des Betroffenen.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein 42-jähriger Mann wird von der Polizei in einer ihm fremden Stadt aufgegriffen. Er kann weder seinen Namen noch seinen Wohnort benennen, wirkt jedoch äußerlich ruhig und orientiert. Organische Ursachen und Substanzmissbrauch werden ausgeschlossen. Die Familie berichtet, er sei seit mehreren Tagen vermisst gewesen. Welche der folgenden Aussagen zur wahrscheinlichsten Diagnose treffen zu?
+
+1. Das Kernsymptom der dissoziativen Fugue ist das unerwartete Verlassen des Wohnortes verbunden mit einer Amnesie für die eigene Biografie.
+2. Eine organische Ursache muss bei dieser Diagnose zwingend ausgeschlossen werden.
+3. Die dissoziative Fugue und die dissoziative Amnesie ohne Ortswechsel sind klinisch nicht voneinander zu unterscheiden.
+4. Äußerliche Unauffälligkeit und erhaltene Orientierung schließen eine dissoziative Störung aus.
+5. Die Diagnose einer dissoziativen Fugue (ICD-10: F44.1) ist in diesem Fall am wahrscheinlichsten.
+
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Ein 42-jähriger Mann wird in einer fremden Stadt von der Polizei aufgegriffen. Er kann sich weder an seinen Namen noch an seinen Wohnort erinnern, wirkt jedoch äußerlich ruhig und orientiert. In der Befragung gibt er an, nicht zu wissen, wie er an diesen Ort gekommen sei. Es gibt keine Hinweise auf eine organische Ursache oder Substanzmissbrauch. Später stellt sich heraus, dass er seit mehreren Tagen von seiner Familie vermisst wurde und offenbar ohne erkennbare Absicht seinen Wohnort verlassen hat. Welche Diagnose trifft am wahrscheinlichsten zu?
+
+- A) Multiple Identitätsstörung
+- B) Dissoziativer Stupor
+- C) Dissoziative Fugue ✅
+- D) Trance- und Besessenheitszustand
+- E) Dissoziative Amnesie ohne Ortswechsel
+
+*Lösung: C*
+
+
+---
+
+## Frage 5 — Narkolepsie – Klinik und Diagnose
+*Wissenskern: Narkolepsie ist gekennzeichnet durch imperativen Schlafdrang tagsüber (Schlafattacken), Kataplexie (plötzlicher Tonusverlust der Muskulatur, oft affektiv getriggert), hypnagoge Halluzinationen und Schlaflähmung. Die familiäre Häufung ist bekannt. Der kurze Schlaf ist erfrischend – im Gegensatz zur Schlafapnoe.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wie bezeichnet man den plötzlichen, affektiv ausgelösten Verlust des Muskeltonus, der typischerweise bei Narkolepsie auftritt?
+
+- A) Myoklonie
+- B) Absence
+- C) Kataplexie ✅
+- D) Akinese
+- E) Ataxie
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein 35-jähriger Mann berichtet über plötzliche Einschlafanfälle tagsüber, nach denen er sich kurz erfrischt fühlt, aber bald wieder müde wird. Zudem erlebt er gelegentlich eine kurze Muskelschwäche, wenn er lacht oder aufgeregt ist. Wie grenzt sich dieses Bild am besten von der Schlafapnoe ab?
+
+- A) Beim Schlafapnoe-Syndrom fühlt sich der Patient nach kurzem Schlaf stets erfrischt, bei Narkolepsie hingegen nicht.
+- B) Bei Narkolepsie sind die Schlafepisoden kurz und erfrischend, und Kataplexien sind typisch; beim Schlafapnoe-Syndrom fehlen Kataplexien und der Schlaf ist nicht erfrischend. ✅
+- C) Schlafapnoe und Narkolepsie sind klinisch nicht zu unterscheiden, da beide mit Tagesmüdigkeit einhergehen.
+- D) Die Kataplexie ist ein Leitsymptom der Schlafapnoe und fehlt bei der Narkolepsie.
+- E) Narkolepsie tritt ausschließlich bei Kindern auf, Schlafapnoe hingegen nur bei Erwachsenen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Narkolepsie sind richtig?
+
+1. Narkolepsie kann familiär gehäuft auftreten, was auf eine genetische Komponente hindeutet.
+2. Kurze Schlafepisoden bei Narkolepsie sind in der Regel erfrischend, auch wenn die Müdigkeit bald zurückkehrt.
+3. Kataplexien sind ein typisches Symptom der Narkolepsie und können zu Stürzen führen.
+4. Das Schlafapnoe-Syndrom und die Narkolepsie sind als Differentialdiagnosen nicht voneinander zu unterscheiden.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1 und 2 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein 35-jähriger Mann berichtet über plötzliche Einschlafattacken tagsüber, auch in aktiven Situationen. Nach kurzem Schlaf fühlt er sich erfrischt, wird jedoch bald wieder müde. Gelegentlich erlebt er kurze Episoden von Muskelschwäche mit Sturz, oft ausgelöst durch emotionale Situationen. Sein Vater habe ähnliche Beschwerden. Welche der folgenden Aussagen zum wahrscheinlichsten Störungsbild treffen zu?
+
+1. Das beschriebene Bild ist vereinbar mit der Diagnose Narkolepsie.
+2. Die beschriebene affektiv ausgelöste Muskelschwäche mit Sturz entspricht einer Kataplexie, einem Leitsymptom der Narkolepsie.
+3. Die familiäre Häufung spricht gegen die Diagnose Narkolepsie.
+4. Das Schlafapnoe-Syndrom ist wahrscheinlicher, da Tagesmüdigkeit erneut wiederkehrt.
+5. Der erfrischende Charakter der kurzen Schlafepisoden ist ein typisches Merkmal der Narkolepsie, das sie von der Schlafapnoe unterscheidet.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Ein 35-jähriger Mann berichtet, dass er tagsüber oft plötzlich einschläft, auch in Situationen, in denen er aktiv ist oder sich konzentrieren muss. Nach einem kurzen Schlaf fühlt er sich erfrischt, wird jedoch bald wieder müde. Manchmal erlebt er eine plötzliche Muskelschwäche, die zum Sturz führt. Er beschreibt diese Episoden als unangenehm, da sie oft von lebhaften, angstbesetzten Träumen begleitet werden. Sein Vater habe ähnliche Symptome. Um welche der folgenden Erkrankungen handelt es sich am ehesten?
+
+- A) Absencen
+- B) Narkolepsie ✅
+- C) Primäre (nicht-organische) Hypermnesie
+- D) Schizophrenie
+- E) Schlafapnoe
+
+*Lösung: B*
+
+
+---
+
+## Frage 6 — Widerstand in der Psychotherapie
+*Wissenskern: Widerstand (psychoanalytisches Konzept) bezeichnet alle Verhaltensweisen und Phänomene des Patienten, die den therapeutischen Prozess behindern – z. B. Zuspätkommen, Terminsausfälle, Schweigen oder das Ansprechen wichtiger Themen erst kurz vor Ende der Stunde. Dies ist klar von Gegenübertragung (Reaktion des Therapeuten) und Regression abzugrenzen.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was bezeichnet im psychoanalytischen Kontext der Begriff Widerstand?
+
+- A) Die bewusste Ablehnung therapeutischer Hausaufgaben durch den Patienten
+- B) Alle Verhaltensweisen und Phänomene des Patienten, die den therapeutischen Prozess behindern ✅
+- C) Die emotionale Reaktion des Therapeuten auf den Patienten
+- D) Das Rückfallen des Patienten in frühere, kindlichere Verhaltensweisen
+- E) Die Übertragung frühkindlicher Beziehungsmuster auf den Therapeuten
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin kommt seit Wochen regelmäßig zu spät, hat zweimal Termine vergessen und schweigt oft, um dann kurz vor Stundenende wichtige Themen anzusprechen. Zugleich betont sie, sehr froh über den Therapieplatz zu sein. Welche Aussage beschreibt den psychodynamischen Zusammenhang dieses Verhaltensmusters am treffendsten?
+
+- A) Es handelt sich um Gegenübertragung, da die Reaktionen des Therapeuten auf das Verhalten der Patientin untersucht werden sollten.
+- B) Das Verhalten ist Ausdruck von Regression, weil die Patientin in kindliche Verhaltensmuster zurückfällt.
+- C) Das Verhalten entspricht dem psychoanalytischen Konzept des Widerstands: Die Patientin behindert unbewusst den therapeutischen Prozess, obwohl sie den Therapieplatz bewusst schätzt. ✅
+- D) Das beschriebene Muster ist ein typisches Zeichen von Kompartimentalisierung, bei der Bewusstseinsinhalte voneinander abgespalten werden.
+- E) Es handelt sich um Übertragung, da die Patientin den Therapeuten mit einer bedeutsamen Bezugsperson aus der Vergangenheit gleichsetzt.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Konzept des Widerstands in der Psychotherapie treffen zu?
+
+1. Widerstand bezeichnet im psychoanalytischen Sinne alle Phänomene, die den therapeutischen Fortschritt behindern – einschließlich Zuspätkommen, Vergessen von Terminen und Schweigen.
+2. Widerstand ist immer ein bewusstes und absichtliches Verhalten des Patienten.
+3. Das Ansprechen wichtiger Themen erst kurz vor Ende der Therapiestunde kann eine Form von Widerstand darstellen.
+4. Gegenübertragung und Widerstand sind synonym zu verwenden, da beide die therapeutische Beziehung beeinflussen.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Seit drei Monaten ist eine Patientin in Behandlung. Sie ist nach eigenen Angaben sehr froh über den Therapieplatz, kommt jedoch häufig zu spät, hat zwei Termine ganz vergessen und schweigt oft längere Zeit, um kurz vor Stundenende wichtige Themen anzusprechen. Welche der folgenden Aussagen zu diesem Verhaltensmuster treffen zu?
+
+1. Das beschriebene Verhalten ist typisch für das psychoanalytische Konzept des Widerstands.
+2. Widerstand äußert sich ausschließlich in sprachlicher Form; Zuspätkommen oder Schweigen sind keine Erscheinungsformen des Widerstands.
+3. Das Ansprechen zentraler Themen erst am Ende der Stunde kann als eine Widerstandsform im therapeutischen Setting interpretiert werden.
+4. Gegenübertragung bezeichnet die Reaktion des Therapeuten auf den Patienten und ist daher klar von Widerstand zu unterscheiden.
+5. Widerstand tritt ausschließlich bei Patienten auf, die die Therapie bewusst ablehnen.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 5 sind richtig
+- D) Nur die Aussagen 1, 2 und 3 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Seit 3 Monaten ist eine Patientin bei Ihnen in Behandlung. Sie gibt an, dass sie sehr froh ist bei Ihnen endlich einen Behandlungsplatz bekommen zu haben. Seit dem Behandlungsanfang ist sie jedoch mehrfach zu spät gekommen, zwei Termine hat sie sogar ganz vergessen und sie schweigt häufig für längere Zeit, bis sie kurz vor Ende Behandlungsstunde wichtige Themen anspricht. Welcher Begriffe fasst das Verhalten der Patientin innerhalb des therapeutischen Settings zusammen?
+
+- A) Widerstand ✅
+- B) Kompartimentalisierung
+- C) Gegenübertragung
+- D) Regression
+- E) Konversion
+
+*Lösung: A*
+
+
+---
+
+## Frage 7 — Schizoide Persönlichkeitsstörung – Diagnosekriterien
+*Wissenskern: Die schizoide Persönlichkeitsstörung (ICD-10: F60.1) ist charakterisiert durch emotionale Kühle, Einzelgängertum, wenig Interesse an sexuellen Erfahrungen mit anderen, Gleichgültigkeit gegenüber Lob oder Kritik und Vorliebe für einzelgängerische Tätigkeiten. Geringe Frustrationstoleranz mit aggressivem Verhalten gehört NICHT dazu – das ist ein Merkmal der dissozialen Persönlichkeitsstörung.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Merkmal ist typisch für die schizoide Persönlichkeitsstörung?
+
+- A) Ausgeprägte Angst vor Ablehnung und Kritik mit starkem Wunsch nach Nähe
+- B) Emotionale Kühle und Distanziertheit gegenüber anderen Menschen ✅
+- C) Geringe Frustrationstoleranz mit niedriger Schwelle für aggressives Verhalten
+- D) Instabiles Selbstbild mit intensiven, wechselhaften Beziehungen
+- E) Zwanghafter Hang zu Ordnung und Kontrolle mit starrer Regelorientierung
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient zeigt seit Jahren emotionale Kühle, meidet soziale Kontakte und bevorzugt Einzeltätigkeiten. Er reagiert weder besonders auf Lob noch auf Kritik. In der Fallbesprechung schlägt eine Kollegin die Diagnose schizoide Persönlichkeitsstörung vor. Eine andere Kollegin wendet ein: Er ist doch nie aggressiv – das passt doch gar nicht zur Diagnose. Welche Aussage ist korrekt?
+
+- A) Die Kollegin hat recht: Aggressionslosigkeit schließt die schizoide Persönlichkeitsstörung aus, da geringe Frustrationstoleranz ein Kernmerkmal ist.
+- B) Geringe Frustrationstoleranz mit aggressivem Verhalten ist kein Diagnosekriterium der schizoiden Persönlichkeitsstörung, sondern gehört zur dissozialen Persönlichkeitsstörung. Das Fehlen von Aggression spricht nicht gegen die Diagnose. ✅
+- C) Aggressivität ist zwar kein Pflichtkriterium der schizoiden Persönlichkeitsstörung, aber ein häufig begleitendes Symptom, das in den meisten Fällen vorhanden ist.
+- D) Die schizoide und die dissoziale Persönlichkeitsstörung teilen dasselbe Kernmerkmal: geringe Frustrationstoleranz.
+- E) Emotionale Kühle und Einzelgängertum sind ausschließlich Merkmale der Schizotypie, nicht der schizoiden Persönlichkeitsstörung.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur schizoiden Persönlichkeitsstörung treffen zu?
+
+1. Emotionale Kühle, Distanziertheit und eine flache Affektivität sind typische Diagnosekriterien der schizoiden Persönlichkeitsstörung.
+2. Eine ausgeprägte Vorliebe für einzelgängerische Tätigkeiten ist charakteristisch für die schizoide Persönlichkeitsstörung.
+3. Geringe Frustrationstoleranz mit niedriger Schwelle für aggressives Verhalten ist ein Diagnosekriterium der schizoiden Persönlichkeitsstörung.
+4. Gleichgültigkeit gegenüber Lob oder Kritik gehört zu den Diagnosekriterien der schizoiden Persönlichkeitsstörung.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Eigenschaften gehören zu den Diagnosekriterien der schizoiden Persönlichkeitsstörung, und welche nicht?
+
+1. Ausgeprägte Vorliebe für einzelgängerische Tätigkeiten
+2. Emotionale Kühle, Distanziertheit oder flache Affektivität
+3. Wenig Interesse an sexuellen Erfahrungen mit anderen Menschen
+4. Geringe Frustrationstoleranz mit niedriger Schwelle für aggressives oder gewalttätiges Verhalten
+5. Gleichgültigkeit gegenüber Lob oder Kritik anderer
+
+- A) Nur die Aussagen 1 und 2 sind Diagnosekriterien
+- B) Nur die Aussagen 1, 2, 3 und 5 sind Diagnosekriterien ✅
+- C) Nur die Aussagen 2, 4 und 5 sind Diagnosekriterien
+- D) Alle genannten Eigenschaften sind Diagnosekriterien
+- E) Nur die Aussagen 3 und 4 sind Diagnosekriterien
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welche der folgenden Eigenschaften gehört nicht zu den Diagnosekriterien der schizoide Persönlichkeitsstörung?
+
+- A) Übermäßige Vorliebe für einzelgängerische Tätigkeiten
+- B) Emotionale Kühle, Distanziertheit oder flache Affektivität
+- C) Wenig Interesse and sexuellen Erfahrungen mit anderen Menschen
+- D) Geringe Frustrationstoleranz mit niedriger Schwelle für aggressives oder gewalttätiges Verhalten ✅
+- E) Gleichgültigkeit gegenüber Lob oder Kritik
+
+*Lösung: D*
+
+
+---
+
+## Frage 8 — Enuresis
+*Wissenskern: Die Enuresis nocturna kommt häufiger vor als die Enuresis diurna. Bei der sekundären Enuresis liegen kinderpsychiatrische Komorbiditäten häufiger vor als bei der primären Enuresis. Verhaltenstherapeutische Interventionen sind nicht vor dem 3. Lebensjahr indiziert. Enuresis kann auch jenseits des 18. Lebensjahres auftreten.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche Form der Enuresis tritt bei Kindern am häufigsten auf?
+
+- A) Enuresis diurna (Tagesnässen)
+- B) Enuresis nocturna (Nachtnässen) ✅
+- C) Primäre Enkopresis
+- D) Sekundäre Enuresis diurna
+- E) Funktionelle Harninkontinenz im Erwachsenenalter
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein 9-jähriger Junge nässt seit frühester Kindheit nachts ein, war jedoch nie trocken. Seit dem Schuleintritt zeigen sich zusätzlich Konzentrationsprobleme und leichte Verhaltensauffälligkeiten. Was trifft auf diesen Fall am ehesten zu?
+
+- A) Da es sich um primäre Enuresis handelt, sind kinderpsychiatrische Komorbiditäten eher unwahrscheinlich und müssen nicht gezielt abgeklärt werden.
+- B) Weil der Junge noch keine 10 Jahre alt ist, liegt definitionsgemäß noch keine Enuresis vor — das Mindestalter beträgt 12 Jahre.
+- C) Bei primärer Enuresis sind kinderpsychiatrische Komorbiditäten seltener als bei sekundärer Enuresis; der Schuleintritt mit neuen Verhaltensauffälligkeiten sollte dennoch psychiatrisch mitbewertet werden. ✅
+- D) Da es sich um Nachtnässen handelt, ist eine verhaltenstherapeutische Intervention frühestens ab dem 3. Lebensjahr sinnvoll und in diesem Alter ohnehin nicht mehr indiziert.
+- E) Verhaltenstherapeutische Maßnahmen bei Enuresis sollten vorrangig vor dem 3. Lebensjahr eingesetzt werden, um die Entwicklung komorbider Störungen zu verhindern.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Enuresis treffen zu?
+
+1. Die Enuresis nocturna (Nachtnässen) tritt häufiger auf als die Enuresis diurna (Tagesnässen).
+2. Enuresis tritt definitionsgemäß nicht jenseits des 18. Lebensjahres auf.
+3. Bei der sekundären Enuresis liegen kinderpsychiatrische Komorbiditäten häufiger vor als bei der primären Enuresis.
+4. Verhaltenstherapeutische Interventionen bei Enuresis sollten möglichst vor dem 3. Lebensjahr eingesetzt werden.
+
+- A) Nur die Aussage 1 ist richtig
+- B) Nur die Aussagen 1 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Enuresis sind zutreffend?
+
+1. Die Enuresis nocturna kommt häufiger vor als die Enuresis diurna.
+2. Bei Enuresis wird zwischen willkürlichem und unwillkürlichem Harnverlust unterschieden.
+3. Die Enuresis tritt per Definition nicht über das 18. Lebensjahr hinaus auf.
+4. Verhaltenstherapeutische Interventionen sollen bei Enuresis möglichst vor dem 3. Lebensjahr eingesetzt werden.
+5. Kinderpsychiatrische Komorbiditäten liegen bei der sekundären Enuresis häufiger vor als bei der primären Enuresis.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 2 und 5 sind richtig
+- D) Nur die Aussagen 1 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Was trifft bei der Enuresis zu? Wählen Sie zwei Antworten!
+
+- A) Die Enuresis nocturna tritt häufiger auf als die Enuresis diurna. ✅
+- B) Man unterscheidet zwischen willkürlicher und unwillkürlicher Enuresis.
+- C) Enuresis tritt nicht über das 18. Lebensjahr hinaus auf.
+- D) Verhaltenstherapeutische Interventionen sollen möglichst vor dem 3. Lebensjahr eingesetzt werden.
+- E) Kinderpsychiatrische komorbide Störungen liegen bei der sekundären Enuresis häufiger vor als bei der primären Enuresis. ✅
+
+*Lösung: A, E*
+
+
+---
+
+## Frage 9 — Anorexia nervosa – somatische Komplikationen und Therapie
+*Wissenskern: Anorexia nervosa hat die höchste Letalität aller psychischen Erkrankungen. Selbstinduziertes Erbrechen und Diuretika-Abusus können zu metabolischer Alkalose mit Hypokaliämie führen. Das Refeeding-Syndrom ist eine potenziell lebensbedrohliche Komplikation der Therapie. Labordiagnostik bleibt auch in Begleitpsychotherapie notwendig. Antipsychotika können bei Anorexia nervosa eingesetzt werden.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche psychische Erkrankung weist unter allen psychiatrischen Diagnosen die höchste Sterblichkeitsrate auf?
+
+- A) Schizophrenie
+- B) Borderline-Persönlichkeitsstörung
+- C) Anorexia nervosa ✅
+- D) Schwere depressive Episode mit psychotischen Merkmalen
+- E) Alkoholabhängigkeit
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine 17-jährige Patientin mit Anorexia nervosa befindet sich seit drei Monaten in ambulanter Psychotherapie. Ihr BMI liegt im kritischen Bereich. Die Patientin berichtet gelegentlich von selbstinduziertem Erbrechen. Welche Aussage beschreibt die korrekte therapeutische Haltung?
+
+- A) Da sich die Patientin bereits in psychotherapeutischer Behandlung befindet, ist eine Labordiagnostik zur Vermeidung unnötiger Medikalisierung nicht notwendig.
+- B) Selbstinduziertes Erbrechen führt zu einer metabolischen Azidose mit Hypernatriämie — diese Konstellation erfordert besonderes Monitoring.
+- C) Labordiagnostik ist weiterhin notwendig, da selbstinduziertes Erbrechen zu metabolischer Alkalose mit Hypokaliämie führen kann und auch das Refeeding-Syndrom als lebensbedrohliche Komplikation zu beachten ist. ✅
+- D) Das Refeeding-Syndrom ist eine häufige, jedoch medizinisch harmlose Begleiterscheinung der Gewichtszunahme bei Anorexie.
+- E) Antipsychotika sind bei Anorexia nervosa grundsätzlich kontraindiziert und dürfen in keinem Stadium der Behandlung eingesetzt werden.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Anorexia nervosa und ihrer Behandlung treffen zu?
+
+1. Selbstinduziertes Erbrechen und Diuretika-Abusus können zu einer metabolischen Alkalose mit Hypokaliämie führen.
+2. Anorexia nervosa gehört zu den psychischen Erkrankungen mit der höchsten Letalität.
+3. Labordiagnostik ist bei Patientinnen und Patienten mit Anorexia nervosa, die sich in einer Psychotherapie befinden, nicht erforderlich.
+4. Das Refeeding-Syndrom ist eine potenziell lebensbedrohliche Komplikation im Rahmen der Therapie einer Anorexia nervosa.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Sie behandeln seit mehreren Monaten eine 16-jährige Jugendliche mit Anorexia nervosa, die deutlich untergewichtig ist. Welche der folgenden Aussagen treffen zu?
+
+1. Selbstinduziertes Erbrechen sowie Diuretika-Abusus können zu einer metabolischen Alkalose mit Hypokaliämie führen.
+2. Die Anorexia nervosa zählt zu den psychischen Erkrankungen mit der höchsten Sterblichkeit.
+3. Solange eine begleitende Psychotherapie stattfindet, ist regelmäßige Labordiagnostik entbehrlich.
+4. Das Refeeding-Syndrom ist eine potenziell lebensbedrohliche Komplikation im Verlauf der Therapie einer Anorexia nervosa.
+5. Antipsychotika zeigen bei Patientinnen und Patienten mit Anorexia nervosa keinerlei therapeutische Wirkung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Sie behandeln seit 4 Monaten eine 15-jährige Jugendliche, die eine depressive Symptomatik, ein gestörtes Essverhalten und ein Körpergewicht unterhalb des 3. BMI-Perzentils aufweist. Seit Beginn der Behandlung bei Ihnen hat sie nicht zugenommen. In der heutigen Therapiestunde wirkt sie sehr blass. Sie machen sich Sorgen um ihre körperliche Gesundheit. Welche der folgenden Aussagen treffen zu?
+
+1. Selbstinduziertes Erbrechen sowie Diuretika-Abusus können zu einer metabolischen Alkalose mit Hypokaliämie führen.
+2. Die Anorexie gehört zu den psychischen Erkrankungen mit der höchsten Letalität.
+3. Eine Labordiagnostik ist bei Patientinnen und Patienten, die an einer Anorexia nervosa leiden und sich in einer begleitenden Psychotherapie befinden, nicht notwendig.
+4. Das Refeeding-Syndrom stellt eine potenziell lebensbedrohliche Komplikation im Rahmen der Therapie einer Anorexia nervosa dar.
+5. Antipsychotika zeigen bei Patientinnen und Patienten mit Anorexia nervosa keine Wirkung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+
+---
+
+## Frage 10 — Schweigepflicht des Heilpraktikers für Psychotherapie
+*Wissenskern: Die Schweigepflicht darf gebrochen werden bei: ausdrücklicher Einwilligung des Patienten, Zeugenpflicht vor Gericht, konkreter Gefährdung Dritter (z.B. geplante Geiselnahme), akuter Suizidalität. Masern sind nach IfSG meldepflichtig, weshalb auch hier die Schweigepflicht weichen muss. Alle fünf Situationen der Originalfrage rechtfertigen ein Brechen der Schweigepflicht.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+In welcher Situation darf ein Heilpraktiker für Psychotherapie seine Schweigepflicht gegenüber dem Patienten brechen?
+
+- A) Wenn der Therapeut persönlich neugierig auf das Leben des Patienten ist
+- B) Wenn der Patient ausdrücklich schriftlich in die Weitergabe seiner Daten einwilligt ✅
+- C) Wenn ein anderer Patient des Therapeuten von den Informationen profitieren könnte
+- D) Wenn der Therapeut glaubt, es diene dem allgemeinen Wohl
+- E) Wenn die Krankenkasse des Patienten Auskunft verlangt
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Heilpraktiker für Psychotherapie wird von einem Gericht als Zeuge in einem Strafverfahren über einen ehemaligen Patienten vorgeladen. Gleichzeitig offenbart ein aktueller Klient in der Sitzung, dass er eine konkrete Straftat gegen eine andere Person plant. Welche Aussage trifft auf die Schweigepflicht in diesen beiden Situationen zu?
+
+- A) In beiden Situationen bleibt die Schweigepflicht uneingeschränkt bestehen — weder die gerichtliche Vorladung noch die geplante Straftat rechtfertigen eine Offenbarung.
+- B) Die gerichtliche Zeugenaussage ist verpflichtend; bei der geplanten Straftat besteht ein Ermessensspielraum zur Offenbarung zum Schutz Dritter. ✅
+- C) Nur bei akuter Suizidalität darf die Schweigepflicht gebrochen werden — bei geplanten Straftaten gegen Dritte hingegen nicht.
+- D) Die Schweigepflicht gilt ausschließlich für laufende Therapieverhältnisse; bei ehemaligen Patienten entfällt sie automatisch.
+- E) Ein Heilpraktiker darf in keiner der genannten Situationen ohne schriftliche Zustimmung des Patienten Auskunft geben.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+In welchen der folgenden Situationen darf oder muss ein Heilpraktiker beschränkt auf Psychotherapie seine Schweigepflicht brechen?
+
+1. Ein Patient bittet schriftlich darum, Informationen zum Zweck der Behandlungskoordination an einen Facharzt weiterzugeben.
+2. Eine Therapeutin erfährt, dass ihr Klient an Masern erkrankt ist.
+3. Ein Klient offenbart, dass er eine Geiselnahme plant.
+4. Der Therapeut erkennt, dass ein Patient akut suizidgefährdet ist und eine konkrete Absicht zur Selbsttötung geäußert hat.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein Heilpraktiker (Psychotherapie) ist in der Praxis mit verschiedenen Situationen konfrontiert, die seine Schweigepflicht betreffen. Welche der folgenden Situationen erlauben oder erfordern ein Brechen der Schweigepflicht?
+
+1. Ein Patient erteilt schriftlich die Einwilligung, medizinische Informationen an einen Facharzt weiterzugeben.
+2. Ein Klient erkrankt an Masern — einer nach dem Infektionsschutzgesetz meldepflichtigen Erkrankung.
+3. Ein Gericht fordert den Heilpraktiker auf, als Zeuge in einem Strafverfahren über einen ehemaligen Patienten auszusagen.
+4. Ein Klient offenbart die konkrete Planung einer Geiselnahme.
+5. Ein Patient äußert eine konkrete Suizidabsicht und ist akut gefährdet.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3, 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Der Heilpraktiker für Psychotherapie beschränkt auf Psychotherapie unterliegt verschiedenen Pflichten, die gesetzlich geregelt sind. Eine wichtige Pflicht ist die in der Berufsordnung der Heilpraktiker verankerte Schweigepflicht. In welchen der folgenden Situationen darf oder muss ein Heilpraktiker beschränkt auf Psychotherapie seine Schweigepflicht brechen?
+
+1. Ein Patient bittet seinen Therapeuten schriftlich darum, medizinische Informationen an einen Facharzt weiterzugeben, um eine bessere Abstimmung der Behandlung zu bekommen.
+2. Eine Therapeutin erfährt, dass ihr Klient an einer Maserninfektion leidet.
+3. Ein Gericht fordert einen Heilpraktiker (Psychotherapie) im Rahmen eines Strafverfahrens auf, als Zeuge über Aussagen eines ehemaligen Patienten auszusagen.
+4. Während einer Therapiesitzung offenbart ein Klient, dass er eine Geiselnahme plant.
+5. Ein Therapeut erkennt, dass sein Patient akut suizidgefährdet ist und eine konkrete Absicht zur Selbsttötung geäußert hat, sodass unmittelbare Maßnahmen erforderlich sind, um ihn zu schützen.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3, 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 11 — Vegetatives / Autonomes Nervensystem
+*Wissenskern: Vegetatives Nervensystem und autonomes Nervensystem sind Synonyme (nicht getrennte Systeme). Sympathikus und Parasympathikus sind die wesentlichen Anteile. Der Parasympathikus steuert Ruhephasen und Regeneration (Miosis, Verdauungsförderung, Herzfrequenzverlangsamung). Vegetative Störungen umfassen Schwindel, Herzrasen, Mundtrockenheit und Erbrechen. Das autonome NS wird auch vom ZNS mitgesteuert.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welcher Teil des vegetativen Nervensystems ist für Ruhephasen, Regeneration und Verdauungsförderung zuständig?
+
+- A) Sympathikus
+- B) Zentrales Nervensystem
+- C) Parasympathikus ✅
+- D) Somatisches Nervensystem
+- E) Periphere Nervenfasern des Rückenmarks
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+In der Praxis begegnet Ihnen häufig die Unterscheidung zwischen Sympathikus und Parasympathikus. Welche Aussage beschreibt den Unterschied und die Einordnung beider Systeme korrekt?
+
+- A) Sympathikus und Parasympathikus sind voneinander unabhängige Nervensysteme, die jeweils autonom — also ohne Einfluss des Zentralnervensystems — arbeiten.
+- B) Das vegetative und das autonome Nervensystem bezeichnen zwei unterschiedliche Systeme; der Sympathikus gehört zum vegetativen, der Parasympathikus zum autonomen System.
+- C) Sympathikus und Parasympathikus sind die wesentlichen Bestandteile des vegetativen (= autonomen) Nervensystems; der Parasympathikus fördert Regeneration und Verdauung, während der Sympathikus auf Belastungssituationen ausgerichtet ist. ✅
+- D) Der Sympathikus ist für Erholung und Verdauung zuständig, der Parasympathikus aktiviert den Organismus in Stresssituationen.
+- E) Das vegetative Nervensystem ist identisch mit dem somatischen Nervensystem und umfasst alle bewusst steuerbaren Körperfunktionen.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum vegetativen bzw. autonomen Nervensystem sind richtig?
+
+1. Vegetatives Nervensystem und autonomes Nervensystem sind Synonyme — sie bezeichnen dasselbe System.
+2. Der Parasympathikus fördert Ruhephasen und Regeneration; er bewirkt u.a. Miosis, regt die Verdauung an und verlangsamt die Herzfrequenz.
+3. Zu den vegetativen Störungen zählen Schwindel, Herzrasen, Mundtrockenheit und Erbrechen.
+4. Das autonome Nervensystem wird vollständig vom peripheren Nervensystem gesteuert, ohne Beteiligung des Zentralnervensystems.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Nervensystem und seinen Anteilen treffen zu?
+
+1. Vegetatives Nervensystem und autonomes Nervensystem sind zwei unterschiedliche, voneinander getrennte Systeme.
+2. Sympathikus und Parasympathikus bilden die wesentlichen Bestandteile des vegetativen Nervensystems.
+3. Der Parasympathikus fördert Ruhephasen und Regeneration; er bewirkt u.a. Miosis, regt die Verdauung an und verlangsamt die Herzfrequenz.
+4. Zu den vegetativen Störungen zählen Schwindel, Herzrasen, Mundtrockenheit und Erbrechen.
+5. Das autonome Nervensystem arbeitet vollständig unabhängig vom Zentralnervensystem.
+
+- A) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- B) Nur die Aussagen 1, 2 und 3 sind richtig
+- C) Nur die Aussagen 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen in Bezug auf das Nervensystem sind richtig?
+
+1. Das vegetative Nervensystem und das autonome Nervensystem sind zwei getrennte Systeme.
+2. Der Sympathikus und der Parasympathikus sind die wesentlichen Bestandteile des vegetativen Nervensystems.
+3. Der Parasympathikus regelt eher die Ruhephasen und die Regeneration und sorgt beispielsweise für eine Miosis (Pupillenverengung), regt die Verdauung an und verlangsamt die Herzfrequenz.
+4. Zu den vegetativen Störungen zählen Schwindel, Herzrasen, Mundtrockenheit und Erbrechen.
+5. Das autonome Nervensystem wird vom peripheren Nervensystem ohne Beteiligung des zentralen Nervensystems gesteuert.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 2 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+
+---
+
+## Frage 12 — Idiopathisches Parkinson-Syndrom – Leitsymptome
+*Wissenskern: Leitsymptome des idiopathischen Parkinson-Syndroms sind Rigor (Muskelsteifigkeit), Hypokinese/Akinese (Bewegungsarmut) und Ruhetremor. Intentionstremor ist typisch für Kleinhirnerkrankungen, nicht für Parkinson. Plexusparese ist eine Schädigung des Plexus brachialis oder lumbalis und kein Parkinson-Symptom.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Symptom ist ein typisches Kardinalsymptom des idiopathischen Parkinson-Syndroms?
+
+- A) Intentionstremor
+- B) Rigor ✅
+- C) Plexusparese
+- D) Hyperthermie
+- E) Spastik
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+In der Praxis ist es wichtig, den Parkinson-Tremor von anderen Tremorformen abzugrenzen. Welche Aussage beschreibt den Unterschied korrekt und benennt ein weiteres Parkinson-Leitsymptom?
+
+- A) Der Intentionstremor bei Parkinson tritt beim Ausführen gezielter Bewegungen auf und ist zusammen mit Rigor das Hauptmerkmal der Erkrankung.
+- B) Parkinson-typisch ist ein Ruhetremor; daneben gehören Hypokinese und Rigor zu den Kardinalsymptomen — der Intentionstremor hingegen ist charakteristisch für Kleinhirnerkrankungen. ✅
+- C) Parkinson verursacht einen Intentionstremor sowie eine Hyperkinese — die Bewegungen sind überschießend und unkontrolliert.
+- D) Rigor und Plexusparese sind die beiden häufigsten Symptome des Parkinson-Syndroms; ein Tremor tritt nur selten auf.
+- E) Der essentielle Tremor und der Parkinson-Ruhetremor sind klinisch nicht zu unterscheiden und treten beide im Rahmen einer Kleinhirndegeneration auf.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum idiopathischen Parkinson-Syndrom treffen zu?
+
+1. Rigor (Muskelsteifigkeit) ist eines der Kardinalsymptome des idiopathischen Parkinson-Syndroms.
+2. Hypokinese (Bewegungsarmut) gehört zu den Leitsymptomen des idiopathischen Parkinson-Syndroms.
+3. Der Intentionstremor ist das typischste Tremormerkmal des Parkinson-Syndroms.
+4. Die Plexusparese ist ein häufiges Begleitsymptom des fortgeschrittenen idiopathischen Parkinson-Syndroms.
+
+- A) Nur die Aussage 1 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Die Parkinson-Erkrankung ist eine häufige neurodegenerative Erkrankung. Welche der folgenden Aussagen zu Symptomen und Differenzialdiagnose des idiopathischen Parkinson-Syndroms treffen zu?
+
+1. Rigor (Zahnradphänomen) ist eines der motorischen Kardinalsymptome des idiopathischen Parkinson-Syndroms.
+2. Hypokinese bzw. Akinese gehört zu den Leitsymptomen der Erkrankung.
+3. Der Intentionstremor — ein Tremor bei Ausführung gezielter Bewegungen — ist das charakteristische Zittern beim idiopathischen Parkinson-Syndrom.
+4. Eine Plexusparese ist ein häufiges neurologisches Begleitsymptom des idiopathischen Parkinson-Syndroms.
+5. Der essentielle Tremor im Rahmen einer Kleinhirndegeneration ist vom Ruhetremor beim Parkinson-Syndrom zu unterscheiden.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Die Parkinson-Krankheit ist eine häufige neurologische Erkrankung. Welche Symptome sind typisch für das idiopathische Parkinson-Syndrom? Wählen Sie zwei Antworten!
+
+- A) Intentionstremor
+- B) Rigor ✅
+- C) Essenzieller Tremor im Rahmen der Kleinhirndegeneration
+- D) Plexusparese
+- E) Hypokinese ✅
+
+*Lösung: B, E*
+
+
+---
+
+## Frage 13 — Illusionäre Verkennung als Wahrnehmungsstörung
+*Wissenskern: Eine illusionäre Verkennung ist die fehlerhafte Wahrnehmung eines tatsächlich vorhandenen Objekts unter bestimmten Bedingungen (z.B. Dämmerung, Angst). Sie unterscheidet sich von der Halluzination (Wahrnehmung ohne realen Sinnesreiz), der Derealisation (Fremdheitsgefühl gegenüber der Umgebung), dem Wahn (unkorrigierbare falsche Überzeugung) und der Paranoia.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wie bezeichnet man die Wahrnehmungsstörung, bei der ein tatsächlich vorhandener Gegenstand fälschlicherweise als etwas anderes wahrgenommen wird?
+
+- A) Halluzination
+- B) Derealisation
+- C) Illusion (illusionäre Verkennung) ✅
+- D) Wahn
+- E) Pseudohalluzination
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein 7-jähriger Junge sieht in der Dämmerung seinen Bademantel am Haken und glaubt für einen Moment, es sei ein Gespenst. Als seine Mutter das Licht anmacht, erkennt er sofort seinen Irrtum. Wie ist diese Erfahrung von einer Halluzination abzugrenzen, und wie lautet die korrekte Bezeichnung?
+
+- A) Dies ist eine Halluzination, weil der Junge etwas wahrgenommen hat, das in Wirklichkeit nicht vorhanden ist.
+- B) Dies ist eine illusionäre Verkennung — ein tatsächlich vorhandenes Objekt wird unter bestimmten Bedingungen falsch interpretiert; bei einer Halluzination fehlt dagegen ein realer Sinnesreiz. ✅
+- C) Dies ist eine Derealisation, weil der Junge die Umgebung als fremd und unwirklich erlebt.
+- D) Dies ist ein Wahn im Anfangsstadium, weil der Junge trotz fehlender Evidenz von einem Gespenst überzeugt war.
+- E) Dies ist eine Pseudohalluzination, weil der Junge die Erfahrung als nicht real erkannte und sie ins Innere verlagerte.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Eine Mutter berichtet, ihr 6-jähriger Sohn habe in der Dämmerung einen Sitzsack in seinem Zimmer für einen lauernden Einbrecher gehalten. Welche der folgenden Aussagen zu dieser Wahrnehmungsstörung treffen zu?
+
+1. Es handelt sich um eine illusionäre Verkennung — ein realer Gegenstand wird unter bestimmten Bedingungen fälschlicherweise als etwas anderes wahrgenommen.
+2. Illusionäre Verkennungen treten häufiger in Situationen mit schlechter Beleuchtung, Erschöpfung oder erhöhter Angst auf.
+3. Da der Junge den Sitzsack zunächst für eine Person gehalten hat, liegt definitionsgemäß eine Halluzination vor.
+4. Illusionäre Verkennungen bei einem Kind in der Dämmerung sind immer ein Hinweis auf eine zugrundeliegende psychische Erkrankung.
+
+- A) Nur die Aussage 1 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Wahrnehmungsstörungen und zur illusionären Verkennung sind richtig?
+
+1. Eine illusionäre Verkennung liegt vor, wenn ein real vorhandener Sinnesreiz fehlerhaft interpretiert wird — z.B. ein Sitzsack in der Dämmerung für eine bedrohliche Person gehalten wird.
+2. Der wesentliche Unterschied zwischen illusionärer Verkennung und Halluzination besteht darin, dass bei der Halluzination kein realer Sinnesreiz vorhanden ist.
+3. Derealisation bezeichnet dasselbe Phänomen wie die illusionäre Verkennung und kann synonym verwendet werden.
+4. Illusionäre Verkennungen treten häufiger unter Bedingungen auf, die die Wahrnehmungsverarbeitung erschweren, wie Dämmerung, Erschöpfung oder erhöhte emotionale Erregung.
+5. Ein Kind, das in der Dämmerung einen Haushaltsgegenstand für eine bedrohliche Person hält, zeigt damit zwingend Symptome einer psychotischen Erkrankung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Eine Klientin berichtet, dass ihr 6-jähriger Sohn in der vergangenen Woche einen Sitzsack in seinem Zimmer in der Dämmerung für einen in der Ecke lauernden Einbrecher gehalten hat. Wie bezeichnet man eine solche Sinnestäuschung?
+
+- A) Derealisation
+- B) Paranoia
+- C) Wahn
+- D) Halluzination
+- E) illusionäre Verkennung ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 14 — Suizidale Entwicklung nach Pöldinger – Stadien
+*Wissenskern: Das Modell der suizidalen Entwicklung nach Pöldinger umfasst drei Stadien: 1. Erwägungsphase, 2. Ambivalenzphase, 3. Entschlussphase. Aggressionsumkehr und Suizidfantasien sind keine Stadienbezeichnungen nach Pöldinger. In der Entschlussphase wirkt der Betroffene äußerlich ruhig (Ruhe vor dem Sturm). Die Ambivalenzphase ist durch Hin- und Hergerissensein und häufige Suizidankündigungen gekennzeichnet.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wie viele Stadien umfasst das Modell der suizidalen Entwicklung nach Pöldinger?
+
+- A) Zwei Stadien
+- B) Drei Stadien ✅
+- C) Vier Stadien
+- D) Fünf Stadien
+- E) Sechs Stadien
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+In der Ambulanz erscheint ein Patient, der seit Wochen Gedanken über den Tod hegt, sich aber noch nicht sicher ist, ob er wirklich sterben möchte. Er spricht offen über seinen Wunsch zu leben, hat gleichzeitig das Gefühl, keinen anderen Ausweg zu sehen. Welchem Stadium nach Pöldinger entspricht diese Beschreibung am ehesten, und was charakterisiert das nachfolgende Stadium?
+
+- A) Der Patient befindet sich in der Erwägungsphase; danach folgt die Aggressionsumkehr, in der sich destruktive Impulse auf die eigene Person richten.
+- B) Der Patient befindet sich in der Ambivalenzphase; das nachfolgende Stadium (Entschlussphase) ist durch äußere Ruhe gekennzeichnet, während die innere Ausnahmesituation keine realistische Lageeinschätzung mehr erlaubt. ✅
+- C) Der Patient befindet sich in der Entschlussphase; das Hin- und Hergerissensein deutet auf einen bereits gefassten Entschluss hin.
+- D) Der Patient zeigt Suizidfantasien, die nach Pöldinger das erste Stadium darstellen, gefolgt von Erwägungs- und Entschlussphase.
+- E) Das Modell nach Pöldinger unterscheidet nicht zwischen inneren Zuständen, sondern beschreibt ausschließlich beobachtbares Verhalten in vier Stufen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Modell der suizidalen Entwicklung nach Pöldinger treffen zu?
+
+1. Das Modell nach Pöldinger unterscheidet drei Stadien: Erwägungsphase, Ambivalenzphase und Entschlussphase.
+2. In der Ambivalenzphase ist der Betroffene hin- und hergerissen zwischen dem Wunsch zu leben und dem Gefühl, keinen anderen Ausweg zu haben; häufig kommt es zu direkten Suizidankündigungen.
+3. Die Aggressionsumkehr ist die korrekte Bezeichnung für das erste Stadium im Modell nach Pöldinger.
+4. In der Entschlussphase wirkt der Betroffene nach außen oft ruhig und entspannt — dies wird als Ruhe vor dem Sturm bezeichnet.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Begriffe und Beschreibungen gehören zu den Stadien der suizidalen Entwicklung nach Pöldinger?
+
+1. Erwägungsphase — In dieser Phase findet eine gedankliche Beschäftigung mit dem Suizid statt, gefördert durch belastende Lebensumstände.
+2. Ambivalenzphase — Der Betroffene ist hin- und hergerissen zwischen dem Wunsch zu leben und dem Gefühl, keinen anderen Ausweg zu sehen; häufig treten direkte Suizidankündigungen auf.
+3. Aggressionsumkehr — Aggressive Tendenzen richten sich zunehmend auf die eigene Person.
+4. Entschlussphase — Nach dem Fassen des Entschlusses wirkt der Betroffene äußerlich ruhig und entspannt (Ruhe vor dem Sturm); die innere Ausnahmesituation lässt jedoch keine realistische Einschätzung mehr zu.
+5. Suizidfantasien — Der Betroffene flüchtet sich in eine Gedankenwelt rund um den Tod, in der der Suizid eine zunehmende Rolle spielt.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche der folgenden Begriffe und Beschreibungen gehören nicht zu den Stadien der suizidalen Entwicklung nach Pöldinger? Wählen Sie zwei Antworten!
+
+- A) Aggressionsumkehr – Aggressive Tendenzen nehmen zu und richten sich zunehmend auf den Betroffenen selbst. ✅
+- B) Entschlussphase – In dieser Phase, in der der Entschluss gefasst worden ist, wirkt der Betroffene eher ruhig und entspannt (Ruhe vor dem Sturm). Die innere Ausnahmesituation allerdings erlaubt keine realistische Einschätzung der Situation mehr. Der Betroffene befindet sich in seiner eigenen Welt, häufig mit Tunnelblick.
+- C) Suizidfantasien – Der Betroffene flüchtet sich mehr und mehr in eine Gedankenwelt rund um den Tod, in der der Suizid eine zunehmende Rolle spielt und eine scheinbare Erleichterung in Aussicht stellt. ✅
+- D) Ambivalenz – Hin- und Hergerissensein zwischen Wünschen zu leben und dem Gefühl, keine andere Möglichkeit zu haben, als sich das Leben zu nehmen. Häufig kommt es zu direkten Suizidankündigungen.
+- E) Erwägungsphase – In dieser Phase findet eine gedankliche Beschäftigung mit dem Suizid statt, gefördert durch belastende Lebensumstände und äußere Einflüsse.
+
+*Lösung: A, C*
+
+
+---
+
+## Frage 15 — Psychotherapieverfahren: CBASP, KVT bei Zwang und PTBS
+*Wissenskern: CBASP ist speziell auf chronisch depressive Patienten zugeschnitten; positive Verstaerkung ist nicht seine Kernstrategie. KVT mit Exposition und Reaktionsmanagement ist Erstwahlmethode bei Zwangsstoerungen. Bei der PTBS ist eine Retraumatisierung kein Therapieziel.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Fuer welche Stoerung ist die kognitive Verhaltenstherapie mit Exposition und Reaktionsmanagement die Psychotherapiemethode der ersten Wahl?
+
+- A) Narkolepsie
+- B) Bipolare affektive Stoerung
+- C) Zwangsstoerung ✅
+- D) Schizophrenie
+- E) Dissoziative Amnesie
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Therapeut behauptet, CBASP setze positive Verstaerkung als Kernstrategie ein und sei urspruenglich fuer Angststoerungen entwickelt worden. Eine Kollegin widerspricht. Welche Aussage ist korrekt?
+
+- A) Der Therapeut hat recht: CBASP beruht auf positiver Verstaerkung und eignet sich besonders fuer Angststoerungen.
+- B) CBASP ist speziell auf die Beduerfnisse chronisch depressiver Patienten zugeschnitten und nutzt primaer interpersonelle Konsequenzanalyse, nicht positive Verstaerkung. ✅
+- C) Beide haben recht: CBASP kann sowohl bei Depressionen als auch bei Angststoerungen eingesetzt werden.
+- D) CBASP ist ein tiefenpsychologisches Verfahren, das positive Verstaerkung und freie Assoziation kombiniert.
+- E) CBASP wurde fuer Zwangsstoerungen entwickelt und setzt positive Verstaerkung ein, um Zwangshandlungen zu reduzieren.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Psychotherapieverfahren treffen zu?
+
+1. CBASP ist speziell auf chronisch depressive Patientinnen und Patienten ausgerichtet.
+2. Eine auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie hat sich bei der generalisierten Angststoerung als wirksam erwiesen.
+3. Die kognitive Verhaltenstherapie mit Exposition und Reaktionsmanagement gilt als Methode der ersten Wahl bei Zwangsstoerungen.
+4. Bei der Behandlung der PTBS muss eine Retraumatisierung durch die Exposition bewusst herbeigefuehrt werden.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu evidenzbasierten Psychotherapieverfahren treffen zu?
+
+1. Beim CBASP wird positive Verstaerkung als wesentliche Motivierungsstrategie eingesetzt.
+2. CBASP ist speziell auf die Beduerfnisse chronisch depressiver Patientinnen und Patienten zugeschnitten.
+3. Eine auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie hat sich bei der generalisierten Angststoerung als wirksam erwiesen.
+4. Die kognitive Verhaltenstherapie mit Exposition und Reaktionsmanagement ist die Psychotherapiemethode der ersten Wahl bei Zwangsstoerungen.
+5. Bei der Behandlung der PTBS ist eine Retraumatisierung durch die Exposition mit dem traumatischen Inhalt notwendig.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Psychotherapieverfahren treffen zu?
+
+1. Beim kognitiv-verhaltenstherapeutischen-analytischen-Psychotherapie-System (CBASP) wird die positive Verstärkung als wesentliche Motivierungsstrategie eingesetzt.
+2. CBASP ist speziell auf die Bedürfnisse und Erfordernisse chronisch depressiver Patienten und Patientinnen zugeschnitten.
+3. Eine speziell auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie hat sich bei der generalisierten Angststörung als wirksam erwiesen.
+4. Die kognitive Verhaltenstherapie mit Exposition und Reaktionsmanagement ist die Psychotherapiemethode der ersten Wahl bei Zwangsstörungen.
+5. Bei Behandlungsbeginn der posttraumatischen Belastungsstörung ist eine Retraumatisierung durch die Exposition mit dem traumatischen Inhalt notwendig.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+
+---
+
+## Frage 16 — Berufsrecht HPP: erlaubte Therapiemethoden bei der Raucherentwöhnung
+*Wissenskern: Ein Heilpraktiker beschränkt auf Psychotherapie darf Einzel- und Gruppenhypnose sowie kognitive Verhaltenstherapie anbieten. Akupunktur und die Verordnung von Medikamenten (Bupropion, Vareniclin) liegen außerhalb seines berufsrechtlich erlaubten Tätigkeitsbereichs.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche der folgenden Methoden darf ein Heilpraktiker beschränkt auf Psychotherapie (HPP) grundsätzlich anwenden?
+
+- A) Akupunktur
+- B) Verordnung von Vareniclin
+- C) Kognitive Verhaltenstherapie ✅
+- D) Blutabnahme zur Labordiagnostik
+- E) Verordnung von Antidepressiva
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine HPP-Therapeutin möchte Raucherentwöhnung anbieten und überlegt, Einzelhypnose, kognitive Verhaltenstherapie und Akupunktur einzusetzen. Welche Aussage beschreibt ihre berufsrechtliche Situation korrekt?
+
+- A) Sie darf alle drei Methoden anbieten, da alle zur psychotherapeutischen Praxis gehören.
+- B) Hypnose und KVT sind erlaubt; Akupunktur gehört zur Körpermedizin und liegt außerhalb des erlaubten Tätigkeitsbereichs eines HPP. ✅
+- C) Nur die KVT ist erlaubt; Hypnose ist grundsätzlich verboten, da sie die Patientenautonomie einschränkt.
+- D) Akupunktur ist erlaubt; Hypnose hingegen nur in Gruppen, nicht als Einzelbehandlung.
+- E) Keine der drei Methoden ist für einen HPP bei der Raucherentwöhnung zugelassen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Methoden darf ein Heilpraktiker beschränkt auf Psychotherapie (HPP) bei der Raucherentwöhnung nach entsprechender Ausbildung anbieten?
+
+1. Einzelhypnose
+2. Gruppenhypnose in der eigenen Praxis
+3. Verordnung von Bupropion oder Vareniclin
+4. Kognitive Verhaltenstherapie
+
+- A) Nur die Aussage 4 ist richtig
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Sie sind als Heilpraktikerin/Heilpraktiker beschränkt auf das Gebiet der Psychotherapie tätig und möchten eine Raucherentwöhnung anbieten. Welche der folgenden Maßnahmen sind Ihnen nach entsprechender Ausbildung erlaubt?
+
+1. Einzelhypnose
+2. Gruppenhypnose in Ihrer Praxis
+3. Verordnung einer Medikation wie z. B. Bupropion oder Vareniclin
+4. Akupunktur
+5. Kognitive Verhaltenstherapie
+
+- A) Nur die Aussage 5 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Sie möchten eine Raucherentwöhnung als Heilpraktikerin/Heilpraktiker, beschränkt auf das Gebiet der Psychotherapie, anbieten. Welche/s der folgenden Therapien – nach entsprechender Ausbildung – darf/dürfen Sie unterstützend anbieten?
+
+1. Einzelhypnose
+2. Gruppenhypnose in Ihrer Praxis
+3. Verordnung einer Medikation wie z.B. Buprion, Varencelin oder Cystin
+4. Akupunktur
+5. Kognitive Verhaltenstherapie
+
+- A) Nur die Aussage 5 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+
+---
+
+## Frage 17 — Paranoide Schizophrenie: Erstrangsymptome
+*Wissenskern: Ich-Störungen (z. B. Gedankeneingebung, Gedankenentzug, Gemachtes Erleben) und inhaltliche sowie formale Denkstörungen sind Kernsymptome, die für sich allein das Vorliegen einer Schizophrenie begründen können. Orientierungsstörungen, Affektstörungen und Impulskontrollstörungen sind dagegen unspezifisch.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Symptom gilt als typisches Erstrangsymptom der Schizophrenie nach Kurt Schneider?
+
+- A) Hypomanie
+- B) Ich-Störung (z. B. Gedankeneingebung) ✅
+- C) Geringe Frustrationstoleranz
+- D) Ausgeprägte Schlafstörungen
+- E) Dissoziative Amnesie
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Welche Aussage beschreibt den Unterschied zwischen schizophrenie-spezifischen Kernsymptomen und unspezifischen psychopathologischen Befunden am treffendsten?
+
+- A) Orientierungsstörungen und Affektstörungen gelten als schizophrenie-spezifische Erstrangsymptome, während Ich-Störungen unspezifisch sind.
+- B) Ich-Störungen sowie inhaltliche und formale Denkstörungen sprechen für sich allein bereits für eine Schizophrenie; Orientierungsstörungen und Affektstörungen sind hingegen unspezifisch. ✅
+- C) Impulskontrollstörungen und Affektstörungen sind die einzigen Symptome, die für sich allein das Vorliegen einer Schizophrenie belegen.
+- D) Alle genannten Symptome – Ich-Störungen, Affektstörungen, Orientierungsstörungen – sind gleichermaßen spezifisch für Schizophrenie.
+- E) Nur Wahnerleben, nicht aber Ich-Störungen oder Denkstörungen, gilt als schizophrenie-spezifisches Merkmal.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Merkmale sprechen für sich allein bereits für das Vorliegen einer paranoiden Schizophrenie?
+
+1. Orientierungsstörungen in mehreren Modalitäten
+2. Ich-Störungen (z. B. Gedankeneingebung, Gedankenentzug, Gemachtes Erleben)
+3. Störungen der Affektivität
+4. Inhaltliche und formale Denkstörungen (z. B. Wahn, Denkzerfahrenheit)
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Mehrfachauswahl )*
+
+Welche der folgenden Merkmale sprechen für sich allein bereits für das Vorliegen einer paranoiden Schizophrenie? Wählen Sie zwei Antworten!
+
+- A) Orientierungsstörungen in allen Modalitäten
+- B) Ich-Störungen (z. B. Gedankeneingebung, Gedankenentzug) ✅
+- C) Ausgeprägte Störungen der Affektivität
+- D) Störung der Impulskontrolle
+- E) Inhaltliche und formale Denkstörungen ✅
+
+*Lösung: B, E*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche der folgenden Merkmale sprechen für sich allein bereits für das Vorliegen einer paranoiden Schizophrenie? Wählen Sie zwei Antworten!
+
+- A) Orientierungsstörungen in allen Modalitäten
+- B) Ich-Störungen ✅
+- C) Störungen der Affektivität
+- D) Störung der Impulskontrolle
+- E) Inhaltliche und formale Denkstörungen ✅
+
+*Lösung: B, E*
+
+
+---
+
+## Frage 18 — Substanzwirkungen: Miosis durch Opioide
+*Wissenskern: Opioide und Opiate verursachen durch parasympathomimetische Wirkung eine Miosis (Pupillenverengung). Stimulanzien wie Amphetamine und Kokain sowie Psychedelika wie Psilocybin bewirken eine Mydriasis (Pupillenerweiterung). Cannabis verursacht typischerweise gerötete Augen, aber keine ausgeprägte Miosis.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche Substanzgruppe verursacht beim Konsum typischerweise eine Miosis (Pupillenverengung)?
+
+- A) Amphetamine
+- B) Kokain
+- C) Opioide ✅
+- D) Psilocybin
+- E) Benzodiazepine
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein bewusstloser Patient wird mit stecknadelkopfgroßen Pupillen eingeliefert. Der Notarzt fragt nach der wahrscheinlichsten Substanz. Welche Aussage trifft am ehesten zu und warum?
+
+- A) Wahrscheinlich Kokain, da Stimulanzien regelmäßig eine Pupillenverengung auslösen.
+- B) Wahrscheinlich ein Opioid/Opiat, da diese Substanzen parasympathomimetisch wirken und eine Miosis verursachen. ✅
+- C) Wahrscheinlich Psilocybin, da Psychedelika die Pupillen verengen, nicht erweitern.
+- D) Wahrscheinlich Amphetamine, da sie über Sympathikusaktivierung zur Miosis führen.
+- E) Wahrscheinlich Cannabis, da Cannabinoide als einzige Substanzgruppe eine ausgeprägte Miosis erzeugen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Pupillenreaktion bei Substanzkonsum treffen zu?
+
+1. Opioide und Opiate verursachen durch ihre parasympathomimetische Wirkung eine Miosis.
+2. Amphetamine und Kokain führen über Sympathikusaktivierung zu einer Mydriasis.
+3. Psilocybin verursacht eine Miosis durch direkte Wirkung auf den Parasympathikus.
+4. Cannabis führt typischerweise zu einer ausgeprägten Miosis als Leitsymptom des Konsums.
+
+- A) Nur die Aussage 1 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Einfachauswahl )*
+
+Ein Patient wird bewusstlos mit deutlicher Miosis (stecknadelkopfgroße Pupillen), verlangsamter Atmung und Bradykardie aufgefunden. Welche der folgenden Substanzen kommt als Ursache am ehesten in Frage?
+
+- A) Amphetamine
+- B) Opioide/Opiate ✅
+- C) Kokain
+- D) Psilocybin
+- E) Cannabis
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welche der folgenden Substanzen verursacht im Rahmen des Konsums eine Miosis?
+
+- A) Amphetamine
+- B) Opioide/Opiate ✅
+- C) Kokain
+- D) Psilocybin
+- E) Cannabis
+
+*Lösung: B*
+
+
+---
+
+## Frage 19 — Phasen der Sucht- und Abhängigkeitstherapie
+*Wissenskern: Die Therapie von Alkohol- und Drogenabhängigkeit gliedert sich in vier Phasen: Kontakt- und Motivationsphase, Entgiftungsphase, Entwöhnungsphase und Nachsorgephase. Eine eigenständige Remissionsphase ist kein anerkannter Bestandteil dieser Vierphasengliederung.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche der folgenden Phasen ist ein anerkannter Bestandteil der Vierphasengliederung in der Therapie von Alkohol- und Drogenabhängigkeit?
+
+- A) Remissionsphase
+- B) Stabilisierungsphase
+- C) Entwöhnungsphase ✅
+- D) Rückfallphase
+- E) Abstinenzphase
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Kollege beschreibt das Phasenmodell der Suchttherapie und nennt: Kontakt- und Motivationsphase, Entgiftungsphase, Remissionsphase und Nachsorgephase. Was ist daran falsch?
+
+- A) Die Kontakt- und Motivationsphase gehört nicht in das Modell; sie findet vor der eigentlichen Therapie statt.
+- B) Die Remissionsphase ist kein Bestandteil dieses Modells; korrekt ist die Entwöhnungsphase. ✅
+- C) Die Nachsorgephase gehört nicht dazu; das Modell endet mit der Entgiftungsphase.
+- D) Das Modell hat nur zwei Phasen: Entgiftung und Nachsorge; alle anderen Bezeichnungen sind falsch.
+- E) Alle vier genannten Phasen sind korrekt; der Kollege liegt richtig.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Phasenmodell der Therapie von Abhängigkeitserkrankungen treffen zu?
+
+1. Die Kontakt- und Motivationsphase ist die erste Phase des Modells.
+2. Die Entgiftungsphase umfasst die medizinisch begleitete Behandlung des körperlichen Entzugs.
+3. Die Remissionsphase ist eine eigenständige vierte Phase innerhalb des anerkannten Vierphasenmodells.
+4. Die Nachsorgephase schließt die Behandlung ab und dient der Rückfallprävention und Stabilisierung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Einfachauswahl )*
+
+Die Therapie von Alkohol- und Drogenabhängigkeit lässt sich in vier Phasen einteilen. Welche der folgenden Phasen gehört nicht zu diesem Vierphasenmodell?
+
+- A) Kontakt- und Motivationsphase
+- B) Entgiftungsphase
+- C) Entwöhnungsphase
+- D) Rückfallpräventionsphase ✅
+- E) Nachsorgephase
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Die Therapie von Alkohol- und Drogenabhängigkeit lässt sich in vier Phasen einteilen. Welche der folgenden Phasen gehört nicht dazu?
+
+- A) Kontakt- und Motivationsphase
+- B) Entgiftungsphase
+- C) Entwöhnungsphase
+- D) Remissionsphase ✅
+- E) Nachsorgephase
+
+*Lösung: D*
+
+
+---
+
+## Frage 20 — Delegation: psychoanalytisch-systemisches Konzept
+*Wissenskern: Das Konzept der Delegation (Helm Stierlin) beschreibt, wie Eltern unbewusste Wünsche, Aufträge oder Lebensthemen bewusst oder unbewusst an ihre Kinder weitergeben. Davon abzugrenzen sind: Parentifizierung (Rollentausch Kind/Elternteil), Elektrakomplex (ödipale Dynamik), Doppelbindungstheorie (kommunikative Widersprüche) und Reaktionsbildung (Abwehrmechanismus).*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches psychoanalytische Konzept beschreibt, dass Eltern unbewusste Wünsche oder Aufträge an ihre Kinder weitergeben, die diese dann erfüllen?
+
+- A) Reaktionsbildung
+- B) Parentifizierung
+- C) Delegation ✅
+- D) Projektion
+- E) Sublimation
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Mutter verspürt unbewusst Bewunderung für die Magersucht ihrer Tochter, da sie selbst gerne schlank wäre. Ein Therapeut vermutet, die Tochter könnte einen ungelebten Wunsch der Mutter erfüllen. Wie lässt sich das Konzept der Delegation von der Parentifizierung abgrenzen?
+
+- A) Delegation und Parentifizierung sind dasselbe Konzept; beide beschreiben die unbewusste Weitergabe von Wünschen an das Kind.
+- B) Bei der Delegation überträgt ein Elternteil unbewusste eigene Wünsche oder Aufträge auf das Kind; bei der Parentifizierung hingegen übernimmt das Kind die Elternrolle und trägt Verantwortung für die emotionalen Bedürfnisse der Eltern. ✅
+- C) Die Parentifizierung beschreibt die unbewusste Weitergabe von Lebensthemen; die Delegation meint den Rollentausch zwischen Eltern und Kind.
+- D) Das Delegations-Konzept beschreibt kommunikative Widersprüche in der Familie; Parentifizierung beschreibt ödipale Entwicklungskonflikte.
+- E) Delegation ist ein behaviorales Konzept der Verstärkungstheorie; Parentifizierung dagegen ein tiefenpsychologisches Konzept.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Konzept der Delegation (nach Stierlin) treffen zu?
+
+1. Delegation bezeichnet die bewusste oder unbewusste Weitergabe von innerfamiliären Aufträgen und Wünschen von Eltern an ihre Kinder.
+2. Das Kind kann den Delegationsauftrag annehmen und unbewusst den ungelebten Wunsch eines Elternteils erfüllen.
+3. Die Delegation ist gleichbedeutend mit der Parentifizierung, da in beiden Konzepten das Kind Elternfunktionen übernimmt.
+4. Delegation gehört zu den psychoanalytischen und systemischen Konzepten der Familientherapie.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Einfachauswahl )*
+
+Eine übergewichtige Mutter berichtet, dass sie trotz der Sorge um ihre anorektische Tochter eine gewisse Bewunderung für deren Schlankheit empfindet. Ein Therapeut vermutet, die Tochter könnte einen von der Mutter ungelebten Wunsch unbewusst erfüllen. Welches psychoanalytisch-systemische Konzept beschreibt dieses Phänomen?
+
+- A) Delegation ✅
+- B) Parentifizierung
+- C) Elektrakomplex
+- D) Doppelbindungstheorie
+- E) Reaktionsbildung
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Eine übergewichtige Mutter berichtet Ihnen von ihrer anorektischen Tochter. Diese werde aufgrund des krankhaften Untergewichts derzeit in einer psychosomatischen Klinik behandelt. Die Dame berichtet Ihnen, trotz der Sorge um das eigene Kind, auch eine gewisse Bewunderung zu verspüren, da sie selbst gerne schlank wäre. Sie stellen die Hypothese auf, dass die Tochter einen von der Mutter ungelebten Wunsch unbewusst erfüllen könnte. Wie nennt man das psychoanalytische/systemische Konzept, durch welches innerfamiliäre Aufträge und Vermächtnisse wie in der Hypothese beschrieben bewusst oder unbewusst weitergegeben werden?
+
+- A) Delegation ✅
+- B) Parentifizierung
+- C) Elektrakomplex
+- D) Doppelbindungstheorie
+- E) Reaktionsbildung
+
+*Lösung: A*
+
+
+---
+
+## Frage 21 — Geschützte psychiatrische Unterbringung Minderjähriger nach § 1631b BGB
+*Wissenskern: Minderjährige können nach § 1631b BGB durch die Erziehungsberechtigten mit Zustimmung des Familiengerichts geschützt psychiatrisch untergebracht werden – auch gegen ihren Willen. Die Unterbringung ist nicht auf akute Eigengefährdung beschränkt und erfordert keine eigenständige Einwilligung der Minderjährigen.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche rechtliche Grundlage ermöglicht die geschützte psychiatrische Unterbringung Minderjähriger in Deutschland?
+
+- A) § 63 StGB
+- B) § 1631b BGB ✅
+- C) § 1906 BGB
+- D) § 35 BtMG
+- E) § 20 PsychKG
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eltern eines 14-jährigen Jungen möchten ihren Sohn gegen seinen Willen stationär psychiatrisch unterbringen. Welche Aussage beschreibt die rechtliche Situation korrekt?
+
+- A) Eine Unterbringung gegen den Willen eines Minderjährigen ist grundsätzlich nicht möglich.
+- B) Die Erziehungsberechtigten können eine Unterbringung nach § 1631b BGB beantragen; diese bedarf jedoch der Zustimmung des Familiengerichts. ✅
+- C) Erziehungsberechtigte können eine Unterbringung allein und ohne richterliche Kontrolle anordnen.
+- D) Eine Unterbringung gegen den Willen des Minderjährigen ist nur zulässig, wenn akute Fremdgefährdung vorliegt.
+- E) Das Amtsgericht muss die Unterbringung genehmigen; Erziehungsberechtigte haben kein Antragsrecht.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur geschützten psychiatrischen Unterbringung Minderjähriger nach § 1631b BGB treffen zu?
+
+1. Eine Unterbringung ist ausschließlich bei akuter Eigengefährdung zulässig.
+2. Das Familiengericht muss der Unterbringung zustimmen.
+3. Die Erziehungsberechtigten können eine Unterbringung nach § 1631b BGB beantragen.
+4. Minderjährige können nicht gegen ihren Willen geschützt psychiatrisch untergebracht werden.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur geschützten psychiatrischen Unterbringung nicht einwilligender Minderjähriger sind richtig?
+
+1. Eine Unterbringung kann nur bei akuter Eigengefährdung stattfinden.
+2. Das Familiengericht muss der Unterbringung zustimmen.
+3. Die Erziehungsberechtigten können eine Unterbringung nach § 1631b BGB beantragen.
+4. Eine Unterbringung kann nur mit dem Einverständnis der Erziehungsberechtigten erfolgen.
+5. Minderjährige können grundsätzlich nicht gegen ihren Willen geschützt psychiatrisch untergebracht werden.
+
+- A) Nur die Aussagen 2 und 3 sind richtig ✅
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Wie kann man Minderjährige geschützt psychiatrisch unterbringen, die nicht freiwillig stationär aufgenommen werden wollen?
+
+1. Eine Unterbringung kann nur bei akuter Eigengefährdung stattfinden.
+2. Das Familiengericht muss der Unterbringung zustimmen.
+3. Die Erziehungsberechtigten können eine Unterbringung nach §1631b BGB beantragen.
+4. Eine Unterbringung kann nur mit dem Einverständnis der Erziehungsberechtigten erfolgen.
+5. Man kann Minderjährige nicht gegen ihren Willen geschützt psychiatrisch unterbringen.
+
+- A) Nur die Aussagen 2 und 3 sind richtig ✅
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+
+---
+
+## Frage 22 — Entspannungsverfahren
+*Wissenskern: Entspannungsverfahren: physiologische Wirkungen, Indikationen, Kontraindikationen und Abgrenzung der Verfahren (AT, MBSR, imaginative Verfahren)*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches der folgenden Entspannungsverfahren arbeitet mit standardisierten Suggestionen wie Schwere- und Wärmeübungen, um einen Zustand tiefer Entspannung herbeizuführen?
+
+- A) Progressive Muskelrelaxation nach Jacobson
+- B) MBSR (Mindfulness-Based Stress Reduction)
+- C) Autogenes Training ✅
+- D) Imaginative Konfrontationstherapie
+- E) Biofeedback
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Therapeutin möchte einem Patienten mit chronischen Schmerzen und anhaltend erhöhtem Stressniveau ein achtsamkeitsbasiertes Gruppenkonzept empfehlen. Welche der folgenden Aussagen trifft auf MBSR am ehesten zu?
+
+- A) MBSR ist ein autosuggestives Verfahren, das auf Schwere- und Wärmesuggestionen basiert und zur schnellen Akutentspannung geeignet ist.
+- B) MBSR ist ein strukturiertes, achtsamkeitsbasiertes Gruppentraining zur Stressreduktion und nicht auf Autosuggestion gegründet. ✅
+- C) MBSR ist identisch mit dem Autogenen Training, jedoch für Gruppen adaptiert.
+- D) MBSR ist primär für die Akutbehandlung von Psychosen entwickelt worden.
+- E) MBSR setzt hauptsächlich auf kognitive Umstrukturierung und Exposition, nicht auf Achtsamkeitssübungen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Entspannungsverfahren sind richtig?
+
+1. Entspannungsverfahren bewirken physiologisch u. a. eine Abnahme der Herzfrequenz, einen verringerten Muskeltonus und periphere Vasodilatation.
+2. Imaginative Entspannungsverfahren sind bei Patienten mit Schizophrenie kontraindiziert, da sie die Realitätsprüfung zusätzlich beeinträchtigen können.
+3. Eine stark ausgeprägte Hypotonie gilt als Kontraindikation für Entspannungsverfahren.
+4. MBSR basiert auf Schwere- und Wärmesuggestionen und ist besonders für Akutsituationen geeignet.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Entspannungsverfahren werden in der psychotherapeutischen Praxis vielseitig eingesetzt. Welche der folgenden Aussagen zu Entspannungsverfahren sind korrekt?
+
+1. Entspannungsverfahren führen zu verringertem Muskeltonus, Abnahme der Herzfrequenz sowie peripherer Gefäßerweiterung.
+2. Imaginative Entspannungsverfahren haben sich bei PTBS als hilfreich erwiesen, sind jedoch bei Schizophrenie wegen des Risikos einer Verstärkung psychotischer Symptome nicht geeignet.
+3. Eine stark ausgeprägte Hypotonie gilt als Kontraindikation für Entspannungsverfahren.
+4. MBSR ist ein achtsamkeitsbasiertes, kein autosuggestives Verfahren und wird nicht primär in Akutsituationen eingesetzt.
+5. Entspannungsverfahren finden u. a. Anwendung bei nicht-organischen Schlafstörungen, Ängsten und Hypertonie.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2, 3 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3, 4 und 5 sind richtig ✅
+- E) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Entspannungsverfahren haben einen breitgefächerten therapeutischen Anwendungsbereich, sowohl bei Kindern und Jugendlichen als auch bei Erwachsenen. Welche der folgenden Aussagen sind nicht richtig? Wählen Sie zwei Antworten!
+
+- A) Entspannungsverfahren führen zu verringertem Muskeltonus, Abnahme der Herzfrequenz sowie periphere Gefäßerweiterungen.
+- B) Imaginative Entspannungsverfahren haben sich bei posttraumatischen Belastungsstörungen und Schizophrenie als wirksames Therapiewerkzeug etabliert. ✅
+- C) MBSR (Mindfulness-Based Stress Reduction) ist ein autosuggestives Entspannungsverfahren, dass in Akutsituationen eingesetzt wird, um intrapsychischen Stress zu reduzieren. Über standardisierte Suggestionen wie Schwere- und Wärmesuggestionen kann schnell ein Zustand tiefer Entspannung herbeigeführt werden. ✅
+- D) Eine stark ausgeprägte Hypotonie gilt als Kontraindikation.
+- E) Therapeutische Anwendungsbereiche für Entspannungsverfahren sind u.a. nicht-organische In- und Parasomnien, Ängste und Hypertonie.
+
+*Lösung: B, C*
+
+
+---
+
+## Frage 23 — Expositionstherapie bei Zwangsstörungen
+*Wissenskern: Expositionstherapie mit Reaktionsmanagement bei Zwangsstörungen: Prinzipien der Habituation, Indikation auch bei Zwangsgedanken, in vivo bevorzugt, wiederholte Durchführung, Einbeziehung aversiver Situationen*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches therapeutische Verfahren gilt als Methode der ersten Wahl bei Zwangsstörungen?
+
+- A) Systematische Desensibilisierung
+- B) Expositionstherapie mit Reaktionsmanagement ✅
+- C) Hypnotherapie
+- D) Tiefenpsychologisch fundierte Langzeittherapie
+- E) EMDR (Eye Movement Desensitization and Reprocessing)
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient mit Waschzwang soll mit Exposition und Reaktionsmanagement behandelt werden. Welche der folgenden Aussagen beschreibt das korrekte Vorgehen und grenzt es gleichzeitig von einem häufigen Denkfehler ab?
+
+- A) Expositionen sollten ausschließlich in sensu durchgeführt werden, da In-vivo-Expositionen bei Zwangsstörungen kontraindiziert sind.
+- B) Die Exposition wird einmalig in höchster Intensität durchgeführt; Wiederholungen verringern die Wirksamkeit.
+- C) Expositionstherapie ist nur bei Zwangshandlungen wirksam; bei reinen Zwangsgedanken sind keine therapeutischen Effekte nachgewiesen.
+- D) Die gezielte, wiederholte Konfrontation mit angstauslösenden Reizen ohne Ausführung der Zwangshandlung fördert die Habituation und ist auch bei Zwangsgedanken wirksam. ✅
+- E) Das Reaktionsmanagement erlaubt dem Patienten, die Zwangshandlung in reduzierter Form auszuführen, um die Angst schrittweise zu senken.
+
+*Lösung: D*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Expositionstherapie mit Reaktionsmanagement bei Zwangsstörungen sind richtig?
+
+1. Die Exposition sollte gezielt wiederholt werden, um eine bestmögliche Habituation an die angstauslösenden Reize zu ermöglichen.
+2. Expositionstherapie ist nur bei manifesten Zwangshandlungen wirksam; bei reinen Zwangsgedanken sind keine signifikanten Effekte zu erwarten.
+3. Um die Effektivität zu steigern, sollten Expositionen hauptsächlich in sensu und nicht in vivo durchgeführt werden.
+4. Auch außergewöhnliche oder extrem aversive Situationen, die nicht zum Alltag gehören, können sinnvoll in die Expositionstherapie einbezogen werden.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein Patient mit schwerem Waschzwang wird expositionstherapeutisch behandelt. Neben kognitiven Techniken soll gezielt Exposition mit Reaktionsmanagement eingesetzt werden. Welche der folgenden Aussagen zur Exposition mit Reaktionsmanagement bei Zwangsstörungen treffen zu?
+
+1. Wiederholte gezielte Expositionen fördern die Habituation an angstauslösende Reize und sind therapeutisch sinnvoll.
+2. Expositionen sind ausschließlich bei sichtbaren Zwangshandlungen wirksam und zeigen bei reinen Zwangsgedanken keine signifikanten Effekte.
+3. In-sensu-Expositionen sind In-vivo-Expositionen bei Zwangsstörungen grundsätzlich überlegen und sollten bevorzugt eingesetzt werden.
+4. Bei Zwangsstörungen kann sowohl ein massiertes als auch ein graduiertes Vorgehen angewendet werden.
+5. Auch extrem aversive oder ungewöhnliche, nicht alltagsnahe Situationen können in die Expositionstherapie einbezogen werden, sofern therapeutisch sinnvoll.
+
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 2 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Ein 34-jähriger Patient mit einem schweren Waschzwang sucht therapeutische Hilfe. Neben kognitiven Methoden planen Sie Expositionstherapie mit Reaktionsmanagement einzusetzen. Welche der folgenden zur Expositionstherapie mit Reaktionsmanagement sind dabei am ehesten zutreffend? Wählen Sie zwei Antworten!
+
+- A) Die Exposition sollte gezielt oft wiederholt werden, um eine bestmögliche Habituation an die angstauslösenden Reize zu ermöglichen. ✅
+- B) Expositionen sind nur bei sichtbaren Zwangshandlungen wirksam und zeigen bei Zwangsgedanken keine signifikanten Effekte.
+- C) Um die Effektivität zu steigern, sollten Expositionen hauptsächlich in-sensu durchgeführt werden.
+- D) Bei Zwangsstörungen ist eine massierte Vorgehensweise angeraten, während ein graduierter Ansatz nicht zielführend ist.
+- E) Auch extrem aversive und ungewöhnliche Situationen, die nicht zum normalen Alltag gehören, können in die Expositionstherapie einbezogen werden, um eine möglichst umfassende Konfrontation mit den Ängsten zu ermöglichen. ✅
+
+*Lösung: A, E*
+
+
+---
+
+## Frage 24 — Operante Konditionierung
+*Wissenskern: Konzepte der operanten Konditionierung: positive/negative Verstärkung, direkte/indirekte Bestrafung und Löschung präzise voneinander abgrenzen*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was versteht man unter „negativerVerstärkung“ in der operanten Konditionierung?
+
+- A) Die Bestrafung eines unerwünschten Verhaltens durch Hinzufügen eines aversiven Reizes
+- B) Das Entziehen eines angenehmen Reizes nach einem unerwünschten Verhalten
+- C) Das Entfernen eines aversiven Reizes nach einem erwünschten Verhalten, wodurch dieses Verhalten wahrscheinlicher wird ✅
+- D) Das vollständige Ausbleiben von Konsequenzen, bis ein Verhalten erlischt
+- E) Die Kopplung eines neutralen Reizes mit einem unkonditionierten Reiz
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Kind räumt sein Zimmer auf — woraufhin die Eltern es von der ungeliebten Hausaufgabenpflicht befreien. Das Aufräumen wird dadurch häufiger. Welches Prinzip der operanten Konditionierung liegt vor, und wie unterscheidet es sich von der indirekten Bestrafung?
+
+- A) Positive Verstärkung: Ein angenehmer Reiz wird hinzugefügt. Die indirekte Bestrafung fügt ebenfalls einen angenehmen Reiz hinzu, jedoch nach unerwünschtem Verhalten.
+- B) Negative Verstärkung: Ein aversiver Reiz wird nach erwünschtem Verhalten entfernt, was das Verhalten stärkt. Indirekte Bestrafung entzieht dagegen einen angenehmen Reiz nach unerwünschtem Verhalten, was das Verhalten schwächt. ✅
+- C) Indirekte Bestrafung: Ein angenehmer Reiz wird nach erwünschtem Verhalten entzogen. Die negative Verstärkung entfernt hingegen einen aversiven Reiz.
+- D) Löschung: Das Verhalten wird durch Ausbleiben jeder Konsequenz abgeschwächt.
+- E) Negative Verstärkung und indirekte Bestrafung sind in diesem Beispiel gleichwertig, da beide Hausaufgaben betreffen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur operanten Konditionierung sind richtig?
+
+1. Negative Verstärkung erhöht die Auftretenswahrscheinlichkeit eines Verhaltens, indem nach diesem Verhalten ein aversiver Reiz entfernt wird.
+2. Indirekte Bestrafung bezeichnet das Entziehen eines angenehmen Reizes nach unerwünschtem Verhalten.
+3. Löschung tritt auf, wenn ein zuvor verstärktes Verhalten dauerhaft ohne jede Konsequenz bleibt und dadurch seltener wird.
+4. Direkte Bestrafung und negative Verstärkung haben denselben Effekt: Beide schwächen ein Verhalten ab.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Die operante Konditionierung unterscheidet verschiedene Formen von Konsequenzen, die Verhalten stärken oder abschwächen. Welche der folgenden Aussagen treffen zu?
+
+1. Positive Verstärkung erhöht die Auftretenswahrscheinlichkeit eines Verhaltens durch Hinzufügen eines angenehmen Reizes.
+2. Negative Verstärkung schwächt ein Verhalten ab, indem ein angenehmer Reiz entzogen wird.
+3. Indirekte Bestrafung bezeichnet das Entziehen eines angenehmen Reizes nach unerwünschtem Verhalten.
+4. Wird ein unangenehmer Reiz nach einem unerwünschten Verhalten entzogen, spricht man von indirekter Bestrafung.
+5. Löschung beschreibt das Abschwächen eines Verhaltens durch konsequentes Ausbleiben jeder Verstärkung.
+
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 1, 3 und 5 sind richtig ✅
+- C) Nur die Aussagen 2, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Die operante Konditionierung ist ein wesentliches Konzept im Bereich der Verhaltenstherapie. Wie bezeichnet man es, wenn ein unangenehmer Reiz entzogen wird, nachdem ein unerwünschtes Verhalten gezeigt wurde.
+
+- A) Direkte Bestrafung
+- B) Negative Verstärkung
+- C) Indirekte Bestrafung ✅
+- D) Positive Verstärkung
+- E) Löschung
+
+*Lösung: C*
+
+
+---
+
+## Frage 25 — Reaktanz und Resilienz
+*Wissenskern: Reaktanz (Widerstand gegen wahrgenommene Freiheitseinschränkung) und Resilienz (psychische Widerstandsfähigkeit gegenüber Belastungen) als psychologische Konzepte voneinander abgrenzen*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welcher Begriff bezeichnet die psychische Widerstandsfähigkeit, die es einer Person ermöglicht, trotz schwieriger Lebensumstände und Belastungen psychisch stabil zu bleiben?
+
+- A) Compliance
+- B) Reaktanz
+- C) Renitenz
+- D) Resilienz ✅
+- E) Kognitive Dissonanz
+
+*Lösung: D*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Klient betont im Gespräch, dass er sich weder vom Arbeitgeber noch vom Ehepartner einschränken lässt und auf seiner Autonomie besteht, sobald er Druck von außen spürt. Dieses Verhalten ist am treffendsten welchem Konzept zuzuordnen — und wie unterscheidet es sich von Resilienz?
+
+- A) Resilienz: Der Klient bleibt trotz Belastungen stabil. Reaktanz hingegen bezeichnet nur passiven Rückzug.
+- B) Reaktanz: Er reagiert auf wahrgenommene Freiheitseinschränkungen mit aktivem Widerstand. Resilienz bezeichnet dagegen die allgemeine Fähigkeit, Belastungen ohne spezifischen Freiheitsbezug zu bewältigen. ✅
+- C) Compliance: Er kommuniziert klar seine Grenzen, was therapeutisch erwünscht ist.
+- D) Kognitive Dissonanz: Innere Überzeugungen und äußere Anforderungen klaffen auseinander.
+- E) Renitenz und Reaktanz sind hier synonym; beide beschreiben grundsätzliche Kooperationsunfähigkeit.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Ein Klient zeigt trotz vieler belastender Lebensereignisse eine starke innere Stärke. Gleichzeitig betont er, auf Druck von außen mit aktivem Widerstand gegen Einschränkungen seiner Selbstbestimmtheit zu reagieren. Welche der folgenden Aussagen treffen zu?
+
+1. Das Bestehen auf Selbstbestimmtheit als Reaktion auf wahrgenommene Freiheitseinschränkungen wird als Reaktanz bezeichnet.
+2. Die Fähigkeit, trotz belastender Lebensereignisse psychisch stabil zu bleiben, wird als Resilienz bezeichnet.
+3. Reaktanz und Resilienz beschreiben dasselbe Phänomen, da beide auf Belastungen mit Widerstand reagieren.
+4. Compliance bezeichnet die Bereitschaft eines Patienten, therapeutische Empfehlungen zu befolgen, und steht damit im Gegensatz zur Reaktanz.
+
+- A) Nur die Aussagen 3 und 4 sind richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- D) Nur die Aussagen 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein Klient kommt zur Beratung und schildert trotz vieler belastender Lebensbereiche und schwieriger lebensgeschichtlicher Ereignisse eine starke Selbstwirksamkeit und innere Stärke. Er betont mehrfach, dass ihm Freiheit und Selbstbestimmtheit sehr wichtig seien und er sich weder von schwierigen Lebensereignissen noch von äußeren Umständen wie Beruf und Ehepartner einschränken lasse. Welche der folgenden Aussagen beschreiben dieses Verhalten am treffendsten?
+
+1. Das Erleben innerer Stärke und Stabilität trotz widriger Lebensumstände wird als Resilienz bezeichnet.
+2. Der aktive Widerstand gegen wahrgenommene Einschränkungen der persönlichen Freiheit und Selbstbestimmtheit wird als Reaktanz bezeichnet.
+3. Compliance beschreibt dasselbe Verhalten wie Reaktanz, nur aus therapeutischer Perspektive.
+4. Renitenz und Reaktanz sind synonyme Begriffe, die beide aktiven Widerstand gegen äußere Einflüsse beschreiben.
+5. Kognitive Dissonanz entsteht, wenn Überzeugungen und Verhalten in Widerspruch geraten, und ist von Reaktanz klar abzugrenzen.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 2, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Ein Klient kommt zu Ihnen und zeigt, trotz vieler belastender Lebensbereiche und schwieriger lebensgeschichtlicher Ereignisse, eine starke Selbstwirksamkeit und innere Stärke. Er betont im Gespräch mehrfach, dass ihm die Freiheit und Selbstbestimmtheit sehr wichtig sei und sich weder von schwierigen Lebensereignissen noch von äußeren Umständen wie Beruf und Ehepartner einschränken lasse. Durch welche Begriffe werden diese Verhaltensweisen am besten charakterisiert? Wählen Sie zwei Antworten!
+
+- A) Compliance
+- B) Kognitive Dissonanz
+- C) Reaktanz ✅
+- D) Renitenz
+- E) Resilienz ✅
+
+*Lösung: C, E*
+
+
+---
+
+## Frage 26 — Sekundärer Krankheitsgewinn
+*Wissenskern: Sekundärer Krankheitsgewinn: externe Vorteile (Zuwendung, Entlastung) durch Krankheit, meist nicht bewusst gesteuert — Abgrenzung vom primären Krankheitsgewinn und von Simulation*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was versteht man unter dem sekundären Krankheitsgewinn?
+
+- A) Die unbewusste Symptombildung, die einen intrapsychischen Konflikt löst
+- B) Das bewusste Vortäuschen von Krankheitssymptomen zur finanziellen Bereicherung
+- C) Externe Vorteile — wie vermehrte Zuwendung oder Entlastung von Pflichten — die eine Person durch ihre Erkrankung erlangt ✅
+- D) Die Verstärkung von Symptomen durch medizinische Überbehandlung
+- E) Die Chronifizierung einer Erkrankung durch mangelnde Therapiemotivation
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin mit chronischen Rückenschmerzen erhält durch ihre Erkrankung mehr Aufmerksamkeit von der Familie und ist von Haushaltsaufgaben befreit — ohne sich dieser Vorteile bewusst zu sein. Welche der folgenden Aussagen beschreibt die Situation korrekt und grenzt sie von Simulation ab?
+
+- A) Es handelt sich um primären Krankheitsgewinn, da die Symptome einen inneren Konflikt lösen.
+- B) Es handelt sich um Simulation, da die Patientin Vorteile aus ihrer Erkrankung zieht.
+- C) Es handelt sich um sekundären Krankheitsgewinn: externe Vorteile durch die Erkrankung, unbewusst entstanden. Simulation setzt dagegen bewusstes Täuschen voraus. ✅
+- D) Sekundärer Krankheitsgewinn kann nur bei psychosomatischen, nicht bei organischen Erkrankungen auftreten.
+- E) Sekundärer Krankheitsgewinn und Simulation sind gleichzusetzen, da beide zu Entlastung führen.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum sekundären Krankheitsgewinn sind richtig?
+
+1. Sekundärer Krankheitsgewinn bezeichnet externe Vorteile — wie Zuwendung oder Entlastung von Pflichten — die eine Person durch ihre Erkrankung erlangt.
+2. Im Gegensatz zum primären Krankheitsgewinn bezieht sich der sekundäre Krankheitsgewinn auf externe Vorteile, die durch die Krankheit entstehen.
+3. Der sekundäre Krankheitsgewinn ist ein bewusst gesteuertes Verhalten und damit gleichbedeutend mit Simulation.
+4. Sekundärer Krankheitsgewinn tritt ausschließlich bei psychosomatischen Erkrankungen auf; bei organischen Erkrankungen ist er nicht relevant.
+
+- A) Nur die Aussagen 3 und 4 sind richtig
+- B) Nur die Aussagen 1 und 2 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Das Konzept des sekundären Krankheitsgewinns ist in der psychotherapeutischen Praxis von diagnostischer und therapeutischer Bedeutung. Welche der folgenden Aussagen zum sekundären Krankheitsgewinn sind korrekt?
+
+1. Der sekundäre Krankheitsgewinn beschreibt das bewusste Täuschen über Krankheitssymptome, um finanzielle Vorteile oder rechtliche Vergünstigungen zu erhalten.
+2. Im Gegensatz zum primären Krankheitsgewinn bezieht sich der sekundäre Krankheitsgewinn auf externe Vorteile, die durch die Krankheit entstehen.
+3. Der sekundäre Krankheitsgewinn ist ein bewusst gesteuertes Verhalten, das vorrangig in der Simulation vorkommt.
+4. Der sekundäre Krankheitsgewinn ist nur bei psychosomatischen Erkrankungen relevant und spielt bei organischen Erkrankungen keine Rolle.
+5. Ein sekundärer Krankheitsgewinn liegt vor, wenn eine Person aus ihrer Erkrankung einen persönlichen Vorteil zieht, beispielsweise durch vermehrte Zuwendung oder Entlastung von Pflichten.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche der folgenden Aussagen zum sekundären Krankheitsgewinn sind korrekt? Wählen Sie zwei Antworten!
+
+- A) Der sekundäre Krankheitsgewinn beschreibt das bewusste Täuschen über Krankheitssymptome, um finanzielle Vorteile oder rechtliche Vergünstigungen zu erhalten.
+- B) Im Gegensatz zum primären Krankheitsgewinn bezieht sich der sekundäre Krankheitsgewinn auf externe Vorteile, die durch die Krankheit entstehen. ✅
+- C) Der sekundäre Krankheitsgewinn ist ein bewusst gesteuertes Verhalten, das vorrangig in der Simulation vorkommt.
+- D) Der sekundäre Krankheitsgewinn ist nur bei psychosomatischen Erkrankungen relevant und spielt bei organischen Erkrankungen keine Rolle.
+- E) Ein sekundärer Krankheitsgewinn liegt vor, wenn eine Person aus ihrer Erkrankung einen persönlichen Vorteil zieht, beispielsweise durch vermehrte Zuwendung oder Entlastung von Pflichten. ✅
+
+*Lösung: B, E*
+
+
+---
+
+## Frage 27 — Posttraumatische Belastungsstörung (PTBS)
+*Wissenskern: PTBS: Diagnosekriterien (Intrusionen, Vermeidungsverhalten, ggf. Depersonalisation/Derealisation), Abgrenzung von Depression als erschwerend, Behandlungsprinzipien (Stabilisierung vor Traumakonfrontation)*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches der folgenden Symptome gehört zu den Diagnosekriterien der posttraumatischen Belastungsstörung (PTBS)?
+
+- A) Euphorie und gehobene Stimmung
+- B) Intrusionen (unwillkürliche, belastende Wiedererinnerungen) ✅
+- C) Hypersomnie als einziges Leitsymptom
+- D) Manische Episoden
+- E) Formale Denkstörungen
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Therapeut behandelt einen Patienten mit PTBS, der gleichzeitig eine depressive Episode zeigt. Welche der folgenden Aussagen zur Diagnosestellung und Behandlung ist korrekt — und grenzt dabei einen typischen Denkfehler zur Therapieplanung ab?
+
+- A) Die frühe, direkte Traumakonfrontation ist die Standardmethode und sollte möglichst in der ersten Therapiestunde beginnen.
+- B) Das Vorliegen einer komorbiden Depression erleichtert die PTBS-Diagnosestellung, da depressive Symptome die PTBS-Symptome klar voneinander abgrenzen.
+- C) Bei PTBS sucht der Betroffene aktiv traumaassoziierte Situationen auf, da dies die Verarbeitung fördert.
+- D) Depersonalisation und Derealisation schließen die Diagnose einer PTBS aus.
+- E) Eine komorbide Depression kann die PTBS-Diagnostik erschweren; traumakonfrontative Techniken setzen in der Regel eine vorherige Stabilisierungsphase voraus. ✅
+
+*Lösung: E*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur posttraumatischen Belastungsstörung (PTBS) sind richtig?
+
+1. Intrusionen gehören zu den Diagnosekriterien der PTBS.
+2. Charakteristisch für die PTBS ist das aktive Aufsuchen von Situationen, die an das traumatisierende Ereignis erinnern.
+3. Zusätzlich zu den Kernsymptomen der PTBS können Anzeichen einer Depersonalisation oder Derealisation auftreten.
+4. Das Vorliegen einer komorbiden Depression kann die Diagnosestellung einer PTBS erschweren.
+
+- A) Nur die Aussagen 2 und 4 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur posttraumatischen Belastungsstörung (PTBS) und ihrer Behandlung treffen zu?
+
+1. Intrusionen gehören zu den Diagnosekriterien der PTBS.
+2. Betroffene mit PTBS suchen typischerweise die Nähe zu Situationen, die an das traumatisierende Ereignis erinnern.
+3. Zusätzlich zu den Kernsymptomen der PTBS können Anzeichen einer Depersonalisation oder Derealisation auftreten.
+4. Die Diagnose einer PTBS ist bei gleichzeitigem Vorliegen einer Depression erschwert.
+5. Ein wesentliches Behandlungsprinzip bei PTBS ist die frühe und möglichst unmittelbare Konfrontation mit dem traumatisierenden Erlebnis.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2, 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 2 und 3 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Antworten zur posttraumatischen Belastungsstörung (PTBS) sind richtig?
+
+1. Intrusionen gehören zu den Diagnosekriterien der PTBS.
+2. Der Betroffene sucht die Nähe zu Situationen, die an das traumatisierende Ereignis erinnern.
+3. Es kann zusätzlich zu Anzeichen einer Depersonalisation oder Derealisation kommen.
+4. Die Diagnose einer PTBS ist erschwert bei Vorliegen einer Depression.
+5. Wichtiges Kriterium in der Behandlung ist die frühe Konfrontation mit dem traumatisierenden Erlebnis.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+
+---
+
+## Frage 28 — Extrapyramidale Nebenwirkungen von Neuroleptika
+*Wissenskern: Extrapyramidale Nebenwirkungen (EPS) von Neuroleptika: Dyskinesien, Akathisie, Glossopharyngospasmus gehören dazu — Miktionsstörungen und Mydriasis sind anticholinerge, keine extrapyramidalen Nebenwirkungen*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches der folgenden Symptome ist eine typische extrapyramidale Nebenwirkung (EPS) von Neuroleptika?
+
+- A) Mydriasis (Pupillenerweiterung)
+- B) Miktionsstörungen
+- C) Akathisie (motorische Unruhe mit Bewegungsdrang) ✅
+- D) Arteriell Hypotonie
+- E) Gewichtszunahme
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient nimmt seit Wochen ein typisches Neuroleptikum und klagt über unwillkürliche Zungenbewegungen sowie innere motorische Unruhe. Eine Akte vermerkt zusätzlich Miktionsstörungen und Pupillenerweiterung. Wie sind diese Symptomgruppen einzuordnen?
+
+- A) Alle genannten Symptome sind extrapyramidale Nebenwirkungen.
+- B) Unwillkürliche Zungenbewegungen und motorische Unruhe sind extrapyramidal bedingt; Miktionsstörungen und Mydriasis sind anticholinerge Nebenwirkungen und keine EPS. ✅
+- C) Miktionsstörungen und Mydriasis sind extrapyramidale Nebenwirkungen; Zungenbewegungen sind anticholinerge Effekte.
+- D) Alle genannten Symptome sind anticholinerge Nebenwirkungen.
+- E) Motorische Unruhe ist ein Residualsymptom der Schizophrenie, keine Nebenwirkung der Neuroleptika.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Symptome können im Rahmen extrapyramidaler Nebenwirkungen (EPS) von Neuroleptika auftreten?
+
+1. Dyskinesien (unwillkürliche, repetitive Bewegungen)
+2. Miktionsstörungen
+3. Akathisie (motorische Unruhe mit Bewegungsdrang)
+4. Mydriasis (Pupillenerweiterung)
+
+- A) Nur die Aussagen 1 und 3 sind richtig ✅
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Neuroleptika können neben erwünschten Wirkungen verschiedene Nebenwirkungsgruppen hervorrufen. Welche der folgenden Symptome zählen zu den extrapyramidalen Nebenwirkungen (EPS) von Neuroleptika?
+
+1. Dyskinesien
+2. Miktionsstörungen
+3. Akathisie
+4. Glossopharyngospasmus
+5. Mydriasis
+
+- A) Nur die Aussagen 1, 2 und 4 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Die Gabe von Neuroleptika kann zu starken extrapyramidalen Nebenwirkungen führen. Welche Symptome können im Rahmen extrapyramidaler Nebenwirkungen auftreten?
+
+1. Dyskinesien
+2. Miktionsstörungen
+3. Akathisie
+4. Glossopharyngospasmus
+5. Mydriasis
+
+- A) Nur die Aussagen 1, 2 und 4 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
