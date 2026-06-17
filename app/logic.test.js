@@ -60,3 +60,33 @@ test("anzeigeOptionen: Labels A.. in Reihenfolge, original + text korrekt", () =
     { label: "C", original: "B", text: "Bravo" },
   ]);
 });
+
+test("addTage: ISO-Datum korrekt verschoben (auch Monatsgrenze)", () => {
+  assert.strictEqual(L.addTage("2026-06-17", 1), "2026-06-18");
+  assert.strictEqual(L.addTage("2026-06-30", 2), "2026-07-02");
+});
+
+test("istFaellig: due <= heute", () => {
+  assert.strictEqual(L.istFaellig("2026-06-17", "2026-06-17"), true);
+  assert.strictEqual(L.istFaellig("2026-06-16", "2026-06-17"), true);
+  assert.strictEqual(L.istFaellig("2026-06-18", "2026-06-17"), false);
+});
+
+test("werteKarteLogik: falsch -> Streak 0, morgen fällig", () => {
+  assert.deepStrictEqual(L.werteKarteLogik(2, false, "2026-06-17"),
+    { streak: 0, due: "2026-06-18", gemeistert: false });
+});
+
+test("werteKarteLogik: richtig -> Streak+1, Intervall 2/4/8", () => {
+  assert.deepStrictEqual(L.werteKarteLogik(0, true, "2026-06-17"),
+    { streak: 1, due: "2026-06-19", gemeistert: false });
+  assert.deepStrictEqual(L.werteKarteLogik(1, true, "2026-06-17"),
+    { streak: 2, due: "2026-06-21", gemeistert: false });
+  assert.deepStrictEqual(L.werteKarteLogik(2, true, "2026-06-17"),
+    { streak: 3, due: "2026-06-25", gemeistert: false });
+});
+
+test("werteKarteLogik: 4. richtig in Folge -> gemeistert (due null)", () => {
+  assert.deepStrictEqual(L.werteKarteLogik(3, true, "2026-06-17"),
+    { streak: 4, due: null, gemeistert: true });
+});

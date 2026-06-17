@@ -48,6 +48,32 @@
     });
   }
 
+  var MASTER_STREAK = 4;
+  var SRS_INTERVALE = { 1: 2, 2: 4, 3: 8 };
+
+  function addTage(iso, n) {
+    var d = new Date(iso + "T00:00:00Z");
+    d.setUTCDate(d.getUTCDate() + n);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function istFaellig(dueIso, heuteIso) {
+    return dueIso <= heuteIso;
+  }
+
+  function werteKarteLogik(streak, richtig, heuteIso) {
+    var neu = richtig ? streak + 1 : 0;
+    if (richtig && neu >= MASTER_STREAK) {
+      return { streak: neu, due: null, gemeistert: true };
+    }
+    var tage = richtig ? SRS_INTERVALE[neu] : 1;
+    return { streak: neu, due: addTage(heuteIso, tage), gemeistert: false };
+  }
+
+  function heuteIso() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
   var api = {
     GUERTEL: GUERTEL,
     ANZAHL_FRAGEN: ANZAHL_FRAGEN,
@@ -59,6 +85,12 @@
     erwarteMehrfach: erwarteMehrfach,
     mischen: mischen,
     anzeigeOptionen: anzeigeOptionen,
+    MASTER_STREAK: MASTER_STREAK,
+    SRS_INTERVALE: SRS_INTERVALE,
+    addTage: addTage,
+    istFaellig: istFaellig,
+    werteKarteLogik: werteKarteLogik,
+    heuteIso: heuteIso,
   };
 
   if (typeof module !== "undefined" && module.exports) {
