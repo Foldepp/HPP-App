@@ -82,3 +82,13 @@ button { font: inherit; cursor: pointer; }
 .erg-unlock { text-align: center; font-size: 17px; }
 .erg-foot { display: flex; gap: 10px; }
 .erg-foot .btn { flex: 1; }
+
+.rev { display: flex; flex-direction: column; flex: 1; min-height: 100vh; padding-top: 14px; }
+.rev-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.rev-mark.ok { color: var(--accent); font-weight: 700; }
+.rev-mark.fail { color: var(--warn); font-weight: 700; }
+.ex-opt.loesung { border-color: var(--accent); background: var(--accent-soft); }
+.ex-opt.falschgewaehlt { border-color: var(--warn); background: #fdf0ea; }
+.ex-opt .haken { margin-left: auto; font-weight: 700; }
+.rev-kern { background: #faf9f6; border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-top: 16px; font-size: 15px; line-height: 1.5; }
+.rev-foot { display: flex; justify-content: space-between; gap: 10px; margin-top: auto; padding: 14px 0; }

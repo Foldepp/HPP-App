@@ -195,7 +195,48 @@
     app.querySelector("#erg-review").addEventListener("click", function () { zeigeDurchsicht(0); });
   }
 
-  function zeigeDurchsicht() { alert("Durchsicht — kommt in Task 9"); }
+  function zeigeDurchsicht(idx) {
+    leeren();
+    var p = state.pruefung;
+    var frage = EXAM.fragen[idx];
+    var stufe = frage.stufen[p.guertel];
+    var gewaehlt = p.antworten[frage.nr] || [];
+    var richtig = L.istRichtig(gewaehlt, stufe.loesung);
+
+    var html = '<div class="rev">' +
+      '<div class="rev-top"><span class="ex-count">' + (idx + 1) + ' / ' + L.ANZAHL_FRAGEN + '</span>' +
+      '<span class="rev-mark ' + (richtig ? "ok" : "fail") + '">' + (richtig ? "✓ richtig" : "✗ falsch") + '</span></div>';
+    html += '<p class="ex-stamm">' + escape(stufe.stamm) + '</p>';
+    if (stufe.aussagen) {
+      html += '<ol class="aussagen">';
+      Object.keys(stufe.aussagen).forEach(function (k) {
+        html += '<li><b>' + k + '.</b> ' + escape(stufe.aussagen[k]) + '</li>';
+      });
+      html += '</ol>';
+    }
+    html += '<div class="ex-opts">';
+    Object.keys(stufe.optionen).forEach(function (b) {
+      var istLoesung = stufe.loesung.indexOf(b) >= 0;
+      var warGewaehlt = gewaehlt.indexOf(b) >= 0;
+      var cls = istLoesung ? " loesung" : (warGewaehlt ? " falschgewaehlt" : "");
+      html += '<div class="ex-opt' + cls + '"><span class="ltr">' + b + '</span>' +
+        '<span class="t">' + escape(stufe.optionen[b]) + '</span>' +
+        (istLoesung ? '<span class="haken">✓</span>' : (warGewaehlt ? '<span class="haken">✗</span>' : "")) + '</div>';
+    });
+    html += '</div>';
+    if (frage.kern) html += '<div class="rev-kern"><b>Wissenskern:</b> ' + escape(frage.kern) + '</div>';
+    html += '<div class="rev-foot">' +
+      (idx > 0 ? '<button class="btn" id="rev-prev">‹</button>' : '<span></span>') +
+      '<button class="btn" id="rev-home">Fertig</button>' +
+      (idx < L.ANZAHL_FRAGEN - 1 ? '<button class="btn btn-primary" id="rev-next">›</button>' : '<span></span>') +
+      '</div></div>';
+    app.innerHTML = html;
+    var prev = app.querySelector("#rev-prev");
+    if (prev) prev.addEventListener("click", function () { zeigeDurchsicht(idx - 1); });
+    var next = app.querySelector("#rev-next");
+    if (next) next.addEventListener("click", function () { zeigeDurchsicht(idx + 1); });
+    app.querySelector("#rev-home").addEventListener("click", zeigeGuertelauswahl);
+  }
   function zeigeUebersicht() {
     leeren();
     var p = state.pruefung;
