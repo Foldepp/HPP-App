@@ -1,5 +1,11 @@
 {
-  "guertel": ["gelb", "gruen", "blau", "braun", "schwarz"],
+  "guertel": [
+    "gelb",
+    "gruen",
+    "blau",
+    "braun",
+    "schwarz"
+  ],
   "guertel_labels": {
     "gelb": "Level 1",
     "gruen": "Level 2",
@@ -24,7 +30,7 @@
       "id": "2025-03",
       "titel": "März 2025",
       "datei": "fragen_2025-03.json",
-      "guertel_komplett": false
+      "guertel_komplett": true
     }
   ],
   "hinweis": "Weitere 43 Original-Prüfungen liegen in fragen_original.json und werden nach derselben Rezeptur (siehe Projektplan, Rezeptur v5) über alle Gürtel übersetzt."
