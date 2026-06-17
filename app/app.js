@@ -48,12 +48,22 @@
   function starteValidierung(guertel) {
     state.pruefung = {
       guertel: guertel,
-      antworten: {},      // { nr: [Buchstaben] }
+      antworten: {},      // { nr: [Original-Buchstaben] }
       index: 0,           // aktueller Frageindex 0..27
+      reihenfolge: baueReihenfolge(guertel), // { nr: [Original-Buchstaben gemischt] }
     };
     state.restSekunden = 60 * 60;
     starteTimer();
     zeigeFrage();
+  }
+
+  function baueReihenfolge(guertel) {
+    var r = {};
+    EXAM.fragen.forEach(function (frage) {
+      var stufe = frage.stufen[guertel];
+      r[frage.nr] = L.mischen(Object.keys(stufe.optionen));
+    });
+    return r;
   }
 
   function aktuelleStufe() {
@@ -87,10 +97,10 @@
     if (mehrfach) html += '<p class="ex-hint">Wählen Sie zwei Antworten!</p>';
     html += '</div>';
     html += '<div class="ex-opts">';
-    Object.keys(stufe.optionen).forEach(function (b) {
-      var sel = gewaehlt.indexOf(b) >= 0 ? " sel" : "";
-      html += '<button class="ex-opt' + sel + '" data-opt="' + b + '">' +
-        '<span class="ltr">' + b + '</span><span class="t">' + escape(stufe.optionen[b]) + '</span></button>';
+    L.anzeigeOptionen(stufe.optionen, p.reihenfolge[frage.nr]).forEach(function (o) {
+      var sel = gewaehlt.indexOf(o.original) >= 0 ? " sel" : "";
+      html += '<button class="ex-opt' + sel + '" data-opt="' + o.original + '">' +
+        '<span class="ltr">' + o.label + '</span><span class="t">' + escape(o.text) + '</span></button>';
     });
     html += '</div></div>';
     html += '<div class="ex-foot">' +
@@ -220,12 +230,12 @@
       html += '</ol>';
     }
     html += '<div class="ex-opts">';
-    Object.keys(stufe.optionen).forEach(function (b) {
-      var istLoesung = stufe.loesung.indexOf(b) >= 0;
-      var warGewaehlt = gewaehlt.indexOf(b) >= 0;
+    L.anzeigeOptionen(stufe.optionen, p.reihenfolge[frage.nr]).forEach(function (o) {
+      var istLoesung = stufe.loesung.indexOf(o.original) >= 0;
+      var warGewaehlt = gewaehlt.indexOf(o.original) >= 0;
       var cls = istLoesung ? " loesung" : (warGewaehlt ? " falschgewaehlt" : "");
-      html += '<div class="ex-opt' + cls + '"><span class="ltr">' + b + '</span>' +
-        '<span class="t">' + escape(stufe.optionen[b]) + '</span>' +
+      html += '<div class="ex-opt' + cls + '"><span class="ltr">' + o.label + '</span>' +
+        '<span class="t">' + escape(o.text) + '</span>' +
         (istLoesung ? '<span class="haken">✓</span>' : (warGewaehlt ? '<span class="haken">✗</span>' : "")) + '</div>';
     });
     html += '</div>';
