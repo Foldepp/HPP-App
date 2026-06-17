@@ -70,23 +70,38 @@
 
   function zeigeGuertelauswahl() {
     leeren();
+    state.session = null;
+    if (!state.modus) state.modus = "pruefung";
     var hoechster = state.fortschritt.hoechsterGuertel;
     var html = '<header class="kopf"><h1>HPP-Prüfungstraining</h1>' +
       '<p class="sub">' + EXAM.titel + ' · 28 Fragen</p></header>' +
+      '<div class="seg">' +
+      '<button class="' + (state.modus === "pruefung" ? "on" : "") + '" data-modus="pruefung">Prüfung</button>' +
+      '<button class="' + (state.modus === "ueben" ? "on" : "") + '" data-modus="ueben">Üben</button>' +
+      '</div>' +
       '<p class="sub2">Wähle dein Level</p><div class="guertelliste">';
+    var heute = L.heuteIso();
     L.GUERTEL.forEach(function (g) {
       var frei = L.istFreigeschaltet(g, hoechster);
+      var badge = "";
+      if (frei && state.modus === "ueben") {
+        var n = window.HPP_SRS.anzahlFaellig(srs, g, heute);
+        badge = '<span class="badge' + (n > 0 ? "" : " zero") + '">' + n + ' fällig</span>';
+      } else if (!frei) { badge = '<span class="lock">🔒</span>'; }
       html += '<button class="guertel' + (frei ? "" : " locked") + '" ' +
         (frei ? 'data-guertel="' + g + '"' : "disabled") + '>' +
         '<span class="punkt" style="background:var(--g-' + g + ')"></span>' +
-        '<span class="gname">' + LABELS[g] + '</span>' +
-        (frei ? "" : '<span class="lock">🔒</span>') + '</button>';
+        '<span class="gname">' + LABELS[g] + '</span>' + badge + '</button>';
     });
     html += "</div>";
     app.innerHTML = html;
+    app.querySelectorAll("[data-modus]").forEach(function (el) {
+      el.addEventListener("click", function () { state.modus = el.getAttribute("data-modus"); zeigeGuertelauswahl(); });
+    });
     app.querySelectorAll("[data-guertel]").forEach(function (el) {
       el.addEventListener("click", function () {
-        starteValidierung(el.getAttribute("data-guertel"));
+        var g = el.getAttribute("data-guertel");
+        if (state.modus === "ueben") zeigeDashboard(g); else starteValidierung(g);
       });
     });
   }
@@ -493,6 +508,50 @@
     se.aktFeedback = null;
     if (se.pos >= se.queue.length) { se.zurueck(); return; }
     zeigeKarte();
+  }
+
+  function zeigeDashboard(level) {
+    leeren();
+    var heute = L.heuteIso();
+    var faellig = window.HPP_SRS.anzahlFaellig(srs, level, heute);
+    var html = '<div class="dash">' +
+      '<div class="ov-top">' + homeButtonHtml(level) + '<h2 class="ov-title">' + LABELS[level] + ' üben</h2></div>';
+    if (faellig > 0) {
+      html += '<div class="hero"><div><div class="hero-big">' + faellig + '</div><div class="hero-lbl">heute fällig</div></div>' +
+        '<button class="hero-btn" id="dash-due">Jetzt üben ›</button></div>';
+    } else {
+      html += '<div class="hero hero-leer"><div><div class="hero-lbl2">Heute nichts fällig 🎉</div></div>' +
+        '<button class="hero-btn" id="dash-due">Trotzdem üben ›</button></div>';
+    }
+    html += '<button class="row" id="dash-alle">Alle Fragen durchgehen <span class="chev">›</span></button>';
+    html += '<div class="sec">Themenbereiche</div><div class="thlist">';
+    THEMEN.forEach(function (t) {
+      var nf = window.HPP_SRS.anzahlFaellig(srs, level, heute, t.id);
+      var q = window.HPP_SRS.trefferquote(srs, level, t.id);
+      var qtxt = (q === null) ? "—" : Math.round(q * 100) + "%";
+      html += '<button class="th" data-thema="' + t.id + '"><span class="th-nm">' + escape(t.label) + '</span>' +
+        '<span class="th-meta"><span class="th-due' + (nf > 0 ? "" : " zero") + '">' + nf + ' fällig</span>' +
+        '<span class="th-q">' + qtxt + '</span></span></button>';
+    });
+    html += '</div></div>';
+    app.innerHTML = html;
+    app.querySelector("#dash-due").addEventListener("click", function () {
+      var karten = window.HPP_SRS.faellige(srs, level, L.heuteIso());
+      if (!karten.length) karten = alleKartenDesLevels(level);
+      starteSession(karten, level, "faellig", function () { zeigeDashboard(level); });
+    });
+    app.querySelector("#dash-alle").addEventListener("click", function () {
+      starteSession(alleKartenDesLevels(level), level, "alle", function () { zeigeDashboard(level); });
+    });
+    app.querySelectorAll("[data-thema]").forEach(function (el) {
+      el.addEventListener("click", function () {
+        var tid = el.getAttribute("data-thema");
+        var karten = window.HPP_SRS.faellige(srs, level, L.heuteIso(), tid);
+        if (!karten.length) karten = alleKartenDesLevels(level, tid);
+        starteSession(karten, level, "thema:" + tid, function () { zeigeDashboard(level); });
+      });
+    });
+    bindHome();
   }
 
   // Export fuer spaetere Tasks
