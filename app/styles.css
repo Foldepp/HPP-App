@@ -72,3 +72,13 @@ button { font: inherit; cursor: pointer; }
 .ovc.cur { box-shadow: 0 0 0 2px var(--accent); color: var(--ink); }
 .ov-foot { display: flex; gap: 10px; margin-top: auto; padding: 12px 0; }
 .ov-foot .btn-dark { flex: 1; }
+
+.erg { display: flex; flex-direction: column; flex: 1; min-height: 100vh; justify-content: center; gap: 20px; }
+.erg-badge { text-align: center; padding: 32px 20px; border-radius: 20px; border: 2px solid; }
+.erg-badge.ok { border-color: var(--accent); background: var(--accent-soft); }
+.erg-badge.fail { border-color: var(--warn); background: #fdf0ea; }
+.erg-zahl { font-size: 44px; font-weight: 800; }
+.erg-txt { color: var(--muted); font-weight: 600; margin-top: 6px; }
+.erg-unlock { text-align: center; font-size: 17px; }
+.erg-foot { display: flex; gap: 10px; }
+.erg-foot .btn { flex: 1; }

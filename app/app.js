@@ -139,8 +139,63 @@
     });
   }
 
-  // Platzhalter bis Task 8/7 (in spaeteren Tasks ersetzt)
-  function abgeben() { alert("Abgeben — kommt in Task 8"); }
+  function zaehleRichtige() {
+    var p = state.pruefung, richtig = 0;
+    EXAM.fragen.forEach(function (frage) {
+      var stufe = frage.stufen[p.guertel];
+      var gewaehlt = p.antworten[frage.nr] || [];
+      if (L.istRichtig(gewaehlt, stufe.loesung)) richtig++;
+    });
+    return richtig;
+  }
+
+  function heute() {
+    var d = new Date();
+    return d.getFullYear() + "-" +
+      String(d.getMonth() + 1).padStart(2, "0") + "-" +
+      String(d.getDate()).padStart(2, "0");
+  }
+
+  function abgeben() {
+    var p = state.pruefung;
+    var offen = L.ANZAHL_FRAGEN - Object.keys(p.antworten).filter(function (nr) {
+      return (p.antworten[nr] || []).length > 0;
+    }).length;
+    if (offen > 0 && !window.confirm(offen + " Frage(n) noch offen. Wirklich abgeben?")) return;
+
+    if (state.timerId) { clearInterval(state.timerId); state.timerId = null; }
+    var richtig = zaehleRichtige();
+    var bestanden = L.bestanden(richtig);
+    var vorher = state.fortschritt.hoechsterGuertel;
+    var neu = L.naechsterHoechster(vorher, p.guertel, richtig);
+    var freigeschaltet = neu !== vorher;
+    state.fortschritt.hoechsterGuertel = neu;
+    state.fortschritt.ergebnisse = (state.fortschritt.ergebnisse || []).concat([
+      { guertel: p.guertel, richtig: richtig, datum: heute() }
+    ]);
+    speichereFortschritt(state.fortschritt);
+    zeigeAuswertung(richtig, bestanden, freigeschaltet, neu);
+  }
+
+  function zeigeAuswertung(richtig, bestanden, freigeschaltet, neu) {
+    leeren();
+    var html = '<div class="erg">' +
+      '<div class="erg-badge ' + (bestanden ? "ok" : "fail") + '">' +
+      '<div class="erg-zahl">' + richtig + ' / ' + L.ANZAHL_FRAGEN + '</div>' +
+      '<div class="erg-txt">' + (bestanden ? "Bestanden" : "Nicht bestanden") +
+      ' · Grenze ' + L.BESTEHENSGRENZE + '</div></div>';
+    if (freigeschaltet) {
+      html += '<p class="erg-unlock">🎉 Neuer Gürtel freigeschaltet: <b>' + LABELS[neu] + '</b></p>';
+    }
+    html += '<div class="erg-foot">' +
+      '<button class="btn" id="erg-review">Durchsicht</button>' +
+      '<button class="btn btn-primary" id="erg-home">Zur Gürtelauswahl</button></div></div>';
+    app.innerHTML = html;
+    app.querySelector("#erg-home").addEventListener("click", zeigeGuertelauswahl);
+    app.querySelector("#erg-review").addEventListener("click", function () { zeigeDurchsicht(0); });
+  }
+
+  function zeigeDurchsicht() { alert("Durchsicht — kommt in Task 9"); }
   function zeigeUebersicht() {
     leeren();
     var p = state.pruefung;
@@ -175,6 +230,7 @@
     state: state,
     speichereFortschritt: speichereFortschritt,
     zeigeGuertelauswahl: zeigeGuertelauswahl,
+    zaehleRichtige: zaehleRichtige,
   };
 
   zeigeGuertelauswahl();
