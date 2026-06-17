@@ -81,33 +81,24 @@ def validate(exams):
                 if not set(st[s]["loesung"]).issubset(set(st[s]["optionen"].keys())):
                     errors.append(f"{eid} F{nr}/{s}: Loesung nicht in Optionen")
 
-    # 2) Cross-Pruefungs-Dubletten (untere Stufen/thema)
-    # Map: Feldwert -> Liste von (eid, nr, feldname)
-    seen = {}
+    # 2) Cross-Pruefungs-Dubletten anhand INHALTS-Signatur (nicht nur Stamm/Thema).
+    # Eine untere Stufe gilt als kopiert, wenn ihr kompletter Inhalt (Stamm + Aussagen
+    # + Optionen, normalisiert) identisch in einer ANDEREN Pruefung vorkommt.
+    # Rein generische Staemme ("Welche Aussagen zu X treffen zu?") loesen KEINEN Treffer
+    # aus, weil Aussagen/Optionen sich unterscheiden.
+    sig_map = {}
     for eid, exam in exams.items():
         for q in exam["fragen"]:
-            for fname, val in _felder(q).items():
-                if val:
-                    seen.setdefault(val, []).append((eid, q["nr"], fname))
-    # Zaehle pro Frage-Paar (verschiedene Pruefungen) wie viele Felder kollidieren
-    paar = {}  # (eidA,nrA,eidB,nrB) -> set(feldnamen)
-    for val, vorkommen in seen.items():
-        if len(vorkommen) < 2:
-            continue
-        for i in range(len(vorkommen)):
-            for j in range(i + 1, len(vorkommen)):
-                a, b = vorkommen[i], vorkommen[j]
-                if a[0] == b[0]:
-                    continue  # gleiche Pruefung -> egal
-                key = tuple(sorted([(a[0], a[1]), (b[0], b[1])]))
-                paar.setdefault(key, set()).add(a[2])
-    for (qa, qb), felder in sorted(paar.items()):
-        msg = (f"Cross-Dublette: {qa[0]} F{qa[1]} <-> {qb[0]} F{qb[1]} "
-               f"in Feld(ern): {', '.join(sorted(felder))}")
-        if len(felder) >= 2:
-            errors.append(msg + "  => wahrscheinlich kopiert")
-        else:
-            warnings.append(msg + "  (evtl. generischer Stamm, bitte sichten)")
+            for belt in UNTERE:
+                st = q["stufen"][belt]
+                auss = " ".join((st.get("aussagen") or {}).values())
+                opts = " ".join(st.get("optionen", {}).values())
+                sig = _norm(st["stamm"]) + " || " + _norm(auss) + " || " + _norm(opts)
+                sig_map.setdefault(sig, []).append((eid, q["nr"], belt))
+    for sig, vork in sig_map.items():
+        if len({v[0] for v in vork}) >= 2:  # in >=2 verschiedenen Pruefungen
+            ds = ", ".join(f"{e} F{n}/{b}" for e, n, b in sorted(vork))
+            errors.append(f"Cross-Dublette (identischer Inhalt): {ds}  => kopiert")
 
     return errors, warnings
 

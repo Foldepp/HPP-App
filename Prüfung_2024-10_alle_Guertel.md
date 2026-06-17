@@ -1,0 +1,2229 @@
+# Heilpraktikerprüfung Psychotherapie — Oktober 2024
+## Komplett über alle fünf Gürtel (Gelb → Grün → Blau → Braun → Schwarz)
+
+*Übersetzungs-Rezeptur v5. Schwarz = Originalfrage; übrige Stufen neu formuliert.*
+
+
+---
+
+## Frage 1 — Agoraphobie
+*Wissenskern: Hauptmerkmale der Agoraphobie: Angst im öffentlichen Raum und Vermeidungsverhalten*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches ist das zentrale Merkmal der Agoraphobie?
+
+- A) Beschränkung der Angst auf Prüfungssituationen
+- B) Angst vor engen, geschlossenen Räumen
+- C) Angst im öffentlichen Raum mit Vermeidungsverhalten ✅
+- D) Ausgeprägte Furcht vor sozialer Bewertung durch andere
+- E) Anhaltende depressive Verstimmung
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient berichtet, seit Monaten keine Busse oder Züge mehr zu benutzen und Einkaufszentren zu meiden, weil er dort starke Angst bekommt. Er beschreibt aber keine besondere Angst vor anderen Menschen oder sozialer Bewertung. Welche Aussage trifft auf dieses klinische Bild am ehesten zu?
+
+- A) Es handelt sich um eine soziale Phobie, da öffentliche Orte gemieden werden.
+- B) Das Bild entspricht einer Agoraphobie, bei der Angst und Vermeidung öffentlicher oder schwer entkommlicher Situationen im Vordergrund stehen, nicht die Angst vor Bewertung. ✅
+- C) Eine spezifische Phobie liegt vor, da die Angst auf Fahrzeuge beschränkt ist.
+- D) Es handelt sich um eine generalisierte Angststörung mit situativer Auslösung.
+- E) Das Bild entspricht einer Panikstörung ohne phobisches Vermeidungsverhalten.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Agoraphobie treffen zu?
+
+1. Agoraphobie ist durch Angst und Vermeidung von Situationen gekennzeichnet, aus denen eine Flucht schwierig wäre oder in denen Hilfe nicht verfügbar wäre.
+2. Agoraphobie und soziale Phobie unterscheiden sich dadurch, dass bei der Agoraphobie die Angst vor negativer Bewertung durch andere im Vordergrund steht.
+3. Depressive Störungen sind ein Hauptmerkmal der Agoraphobie.
+4. Vermeidungsverhalten kann sowohl aktuell als auch in der Vergangenheit als diagnostisches Kriterium der Agoraphobie gewertet werden.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Was sind die Hauptmerkmale einer Agoraphobie? Welche Aussagen sind richtig?
+
+1. Eine komorbide depressive Störung ist definierendes Hauptmerkmal der Agoraphobie.
+2. Stottern gehört zum Kernsymptombild der Agoraphobie.
+3. Angst im öffentlichen Raum ist ein Hauptmerkmal der Agoraphobie.
+4. Die Agoraphobie beschränkt sich per Definition auf Prüfungssituationen.
+5. Vermeidungsverhalten gegenüber bestimmten Situationen — aktuell oder in der Vergangenheit — ist ein Hauptmerkmal der Agoraphobie.
+
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 3 und 5 sind richtig ✅
+- E) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Was sind die Hauptmerkmale einer Agoraphobie?
+
+1. Das Vorliegen einer depressiven Störung
+2. Stottern
+3. Angst im öffentlichen Raum
+4. Beschränkung der Angst auf Prüfungssituationen
+5. Vermeidungsverhalten bestimmter Situationen aktuell oder in der Vergangenheit
+
+- A) Nur die Aussagen 1 und 5 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 3 und 5 sind richtig ✅
+- E) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 2 — Neue psychoaktive Stoffe (NPS)
+*Wissenskern: NPS sind nicht harmlos, werden als Kräutermischungen angeboten, Verbote erschweren neue NPS, Beispiele: synthetische Cannabinoide, Phenethylamine, Cathinone*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Unter welcher Bezeichnung werden Neue psychoaktive Stoffe (NPS) im Handel häufig angeboten?
+
+- A) Als rezeptpflichtige Arzneimittel in der Apotheke
+- B) Als klassische illegale Drogen auf dem Schwarzmarkt
+- C) Als ‚Kräutermischung' oder ‚Badesalz' ✅
+- D) Als freiverkäufliche Nahrungsergänzungsmittel
+- E) Ausschließlich als synthetische Cannabinoide
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin berichtet, ihr Sohn habe eine legal erworbene „Kräutermischung“ geraucht und daraufhin starke psychotische Symptome entwickelt. Sie fragt, ob solche Substanzen nicht harmlos seien, weil sie ja legal seien. Welche Antwort ist fachlich korrekt?
+
+- A) Legale Substanzen sind grundsätzlich sicher, da sie behördlich zugelassen sind.
+- B) NPS sind harmlos, solange sie nicht mit Alkohol kombiniert werden.
+- C) NPS können trotz legaler Verfügbarkeit erhebliche und unvorhersehbare psychische sowie körperliche Risiken haben, da ihre Zusammensetzung und Wirkung oft unbekannt sind. ✅
+- D) Synthetische Cannabinoide sind weniger gefährlich als natürliches Cannabis, da sie gezielt hergestellt werden.
+- E) Der legale Status einer Substanz garantiert, dass ausreichende Sicherheitsstudien vorliegen.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen über Neue psychoaktive Stoffe (NPS) treffen zu?
+
+1. NPS sind in der Regel harmlos, weil es sich nicht um klassische Drogen handelt.
+2. NPS werden häufig als „Kräutermischung“ oder „Badesalz“ angeboten.
+3. Durch das Verbot ganzer Stoffgruppen wird die legale Einführung neuer NPS erschwert.
+4. Als NPS finden unter anderem synthetische Cannabinoide, Phenethylamine und Cathinone Anwendung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 1, 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen über „Neue psychoaktive Stoffe“ (NPS) treffen zu?
+
+1. NPS sind in der Regel harmlos, weil sie nicht zu den klassischen Drogen zählen.
+2. NPS werden häufig als „Kräutermischung“ oder „Badesalz“ angeboten.
+3. Durch das Verbot ganzer Stoffgruppen wird die legale Einführung neuer NPS erschwert.
+4. NPS sind eine sichere Ergänzung zur Psychotherapie, da sie tranceähnliche Zustände auslösen können.
+5. Als NPS finden unter anderem synthetische Cannabinoide, Phenethylamine und Cathinone Anwendung.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 3 und 5 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3 und 5 sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen über „Neue psychoaktive Stoffe“ (NPS) treffen zu?
+
+1. NPS sind in der Regel harmlos, weil es sich nicht um klassische Drogen handelt.
+2. NPS werden häufig als „Kräutermischung“ oder „Badesalz“ angeboten.
+3. Durch das Verbot ganzer Stoffgruppen wird die legale Einführung neuer NPS erschwert.
+4. NPS gelten als sichere Ergänzung einer Psychotherapie, da sie tranceähnliche Zustände auslösen können.
+5. Als NPS finden unter anderem synthetische Cannabinoide, Phenethylamine und Cathinone Anwendung.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 3 und 5 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3 und 5 sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 3 — Abhängigkeit und Substanzen — ICD-10, Abhängigkeitspotenzial
+*Wissenskern: ICD-10 unterscheidet NICHT zwischen körperlicher und psychischer Abhängigkeit als separate Kategorie; Opioide hohes Potenzial; Ketamin bei therapieresistenten Depressionen; MDMA = XTC-Wirkstoff; Halluzinogene < Benzodiazepine Abhängigkeitspotenzial*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welcher Wirkstoff liegt der Partydroge „XTC“ (Ecstasy) üblicherweise zugrunde?
+
+- A) LSD (Lysergsäurediethylamid)
+- B) THC (Tetrahydrocannabinol)
+- C) MDMA (3,4-Methylendioxy-N-methylamphetamin) ✅
+- D) Ketamin
+- E) Psilocybin
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Studentin fragt, warum Benzodiazepine so streng reguliert werden, obwohl sie doch keine „richtigen Drogen“ seien. Welche Aussage erklärt den Unterschied im Abhängigkeitspotenzial am treffendsten?
+
+- A) Benzodiazepine haben kein Abhängigkeitspotenzial, da sie medizinisch zugelassen sind.
+- B) Halluzinogene wie LSD haben ein höheres Abhängigkeitspotenzial als Benzodiazepine, weshalb Benzodiazepine weniger reguliert werden müssten.
+- C) Benzodiazepine weisen ein höheres Abhängigkeitspotenzial als Halluzinogene auf, was ihre strenge Regulierung erklärt. ✅
+- D) Halluzinogene und Benzodiazepine haben identisches Abhängigkeitspotenzial.
+- E) Benzodiazepine werden nur wegen ihres Missbrauchspotenzials in der Bevölkerung reguliert, nicht wegen körperlicher Abhängigkeit.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Abhängigkeit und psychoaktiven Substanzen sind korrekt?
+
+1. Die ICD-10-Klassifikation unterscheidet zwischen einer körperlichen und psychischen Abhängigkeit als eigenständige diagnostische Kategorien.
+2. Opioide verfügen über ein besonders hohes Abhängigkeitspotenzial.
+3. Ketamin kann bei therapieresistenten Depressionen eingesetzt werden.
+4. Das Abhängigkeitspotenzial von Halluzinogenen ist geringer als das von Benzodiazepinen.
+
+- A) Nur die Aussage 2 ist richtig
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Abhängigkeit und psychoaktiven Substanzen ist falsch?
+
+1. Die ICD-10-Klassifikation unterscheidet zwischen einer körperlichen und psychischen Abhängigkeit.
+2. Opioide verfügen über ein besonders hohes Abhängigkeitspotenzial.
+3. Ketamin kann bei therapieresistenten Depressionen eingesetzt werden.
+4. Die empathogene Partydroge „XTC“ liegt meistens in Form des Wirkstoffes MDMA vor.
+5. Das Abhängigkeitspotenzial von Halluzinogenen ist geringer als das von Benzodiazepinen.
+
+- A) Nur Aussage 1 ist falsch ✅
+- B) Nur Aussage 3 ist falsch
+- C) Nur Aussage 4 ist falsch
+- D) Nur Aussage 5 ist falsch
+- E) Alle Aussagen sind korrekt
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welche Aussage ist falsch?
+
+- A) Die ICD-10 Klassifikation unterscheidet zwischen einer körperlichen und psychischen Abhängigkeit. ✅
+- B) Opioide verfügen über ein besonderes hohes Abhängigkeitspotenzial.
+- C) Ketamin kann bei therapieresistenten Depressionen eingesetzt werden.
+- D) Die empathogene Partydroge „XTC“ liegt meistens in Form des Wirkstoffes MDMA (3,4-MethylendioxyN-methylamphetamin) vor.
+- E) Das Abhängigkeitspotenzial von Halluzinogenen ist geringer als das von Benzodiazepinen.
+
+*Lösung: A*
+
+
+---
+
+## Frage 4 — Beginnende Demenz — Frühsymptome
+*Wissenskern: Frühestes und typischstes Symptom einer beginnenden Demenz ist die affektive Veränderung (Stimmungsveränderung, Wesensveränderung)*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Symptom ist typischerweise das erste Anzeichen einer beginnenden Demenz?
+
+- A) Harninkontinenz
+- B) Gangstörung
+- C) Affektive Veränderung ✅
+- D) Paranoider Wahn
+- E) Bewusstlosigkeit
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Die Tochter eines 72-jährigen Mannes berichtet, ihr Vater sei in letzter Zeit „irgendwie anders“ — reizbarer, apathischer und weniger am Familienleben interessiert. Motorisch und orientiert wirke er unauffällig. Welche Einschätzung ist am treffendsten?
+
+- A) Da keine Gedächtnisausfälle beschrieben werden, kann eine Demenz ausgeschlossen werden.
+- B) Gangstörungen und Inkontinenz wären frühzeitigere Hinweise auf eine Demenz als die geschilderte Wesensveränderung.
+- C) Die geschilderte affektive Veränderung (Reizbarkeit, Apathie, Interessenverlust) kann ein frühes Leitsymptom einer beginnenden Demenz sein. ✅
+- D) Eine beginnende Demenz zeigt sich zuerst durch paranoide Wahnsymptome.
+- E) Bewusstseinsveränderungen sind das erste zu erwartende Symptom einer beginnenden Demenz.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche Aussagen zum Frühbild einer Demenz sind korrekt?
+
+1. Gangstörungen gehören zu den frühesten Symptomen einer beginnenden Demenz.
+2. Affektive Veränderungen wie Reizbarkeit, Apathie oder Stimmungsschwankungen können frühe Leitsymptome einer beginnenden Demenz sein.
+3. Stuhl- und Harninkontinenz treten typischerweise im Frühstadium einer Demenz auf.
+4. Paranoider Wahn ist seltener als affektive Veränderungen das erste klinische Zeichen einer Demenz.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welches Symptom lässt am ehesten an eine beginnende Demenz denken? Welche Aussage zum Demenzfrühbild ist richtig?
+
+1. Gangstörungen sind das typische Frühzeichen einer beginnenden Demenz.
+2. Affektive Veränderungen wie Apathie, Reizbarkeit oder depressive Verstimmung können die ersten Symptome einer beginnenden Demenz sein.
+3. Paranoider Wahn ist das häufigste Erstsymptom einer Demenz.
+4. Bewusstseinsverschiebungen treten typischerweise als Frühsymptom der Demenz auf.
+5. Stuhl- und Harninkontinenz sind charakteristische Frühzeichen einer Demenzerkrankung.
+
+- A) Nur Aussage 1 ist richtig
+- B) Nur Aussage 2 ist richtig ✅
+- C) Nur Aussage 3 ist richtig
+- D) Nur Aussage 4 ist richtig
+- E) Nur Aussage 5 ist richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welches Symptom lässt am ehesten an eine beginnende Demenz denken?
+
+- A) Gangstörung
+- B) Affektive Veränderung ✅
+- C) Paranoider Wahn
+- D) Bewusstseinsverschiebung
+- E) Stuhl- und Harninkontinenz
+
+*Lösung: B*
+
+
+---
+
+## Frage 5 — Pavor nocturnus (Nachtangst)
+*Wissenskern: Pavor nocturnus beginnt mit Panikschrei, vegetative Symptome, tritt im ersten Nachtdrittel auf (Tiefschlaf), Kind erinnert sich nicht, gehört zu Parasomnien, keine Standardtherapie mit Beruhigungsmitteln*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Womit beginnen Episoden des Pavor nocturnus (Nachtangst) typischerweise?
+
+- A) Mit einem leisen Wimmern und anschließendem ruhigen Erwachen
+- B) Mit einem Panikschrei und vegetativen Symptomen ✅
+- C) Mit lebhaften, gut erinnerten Albträumen
+- D) Mit Schlafwandeln und Verlassen des Bettes
+- E) Mit Einschlafzuckungen und Muskelkrämpfen
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eltern berichten, ihr 6-jähriger Sohn wache nachts mit lautem Schreien auf, sei kaum ansprechbar, schwitze stark und habe tachykarden Herzschlag. Am nächsten Morgen erinnere er sich an nichts. Welche Aussage grenzt Pavor nocturnus am treffendsten von einem Albtraum ab?
+
+- A) Beim Pavor nocturnus erinnert sich das Kind lebhaft an den Trauminhalt, beim Albtraum nicht.
+- B) Albträume beginnen mit einem Panikschrei und vegetativen Zeichen, Pavor nocturnus verläuft ruhig.
+- C) Pavor nocturnus tritt im Tiefschlaf des ersten Nachtdrittels auf und hinterlässt keine Erinnerung; Albträume treten im REM-Schlaf auf und werden erinnert. ✅
+- D) Pavor nocturnus ist auf das Jugendalter beschränkt, während Albträume nur bei Kindern unter 5 Jahren vorkommen.
+- E) Pavor nocturnus und Albträume sind klinisch nicht unterscheidbar und werden identisch behandelt.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Pavor nocturnus (Nachtangst) treffen zu?
+
+1. Die Episoden beginnen typischerweise mit einem Panikschrei und werden von vegetativen Symptomen wie Tachykardie und Schwitzen begleitet.
+2. Pavor nocturnus tritt meist im letzten Drittel des Nachtschlafs auf, kurz vor dem Erwachen.
+3. Das Kind hat nach der Episode keine oder kaum eine Erinnerung an das Ereignis.
+4. Pavor nocturnus wird den Parasomnien zugeordnet.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Eine Mutter stellt ihre 7-jährige Tochter vor, die nachts mit lautem Schreien aufwacht und kaum zu beruhigen ist. Sie vermutet Pavor nocturnus. Welche Aussagen sind richtig?
+
+1. Die Ereignisse beginnen mit einem Panikschrei und werden von vegetativen Symptomen begleitet.
+2. Die Episoden treten meist im letzten Drittel des Nachtschlafs auf, kurz bevor der Wecker klingelt.
+3. Das Kind erinnert sich lebhaft an den Traum und hat deshalb Angst, wieder einzuschlafen.
+4. Die Störung gehört zu den Dyssomnien.
+5. Eine medikamentöse Behandlung mit Beruhigungsmitteln gehört nicht zum therapeutischen Standard.
+
+- A) Nur die Aussagen 1 und 5 sind richtig ✅
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Eine Mutter kommt in ihre Praxis mit ihrer 7-jährigen Tochter und berichtet von Auffälligkeiten des Schlafs ihrer Tochter, sodass Sie vermuten, dass das Mädchen unter Nachtangst (Pavor nocturnus) leidet. Welche Aussage ist richtig?
+
+- A) Die Ereignisse beginnen mit einem Panikschrei und werden oft von vegetativen Symptomen begleitet. ✅
+- B) Die Episoden treten meist auf im letzten Drittel des Nachtschlafs auf, kurz bevor der Wecker klingelt.
+- C) Das Kind erinnert sich lebhaft an den Traum und hat demzufolge Angst wieder einzuschlafen.
+- D) Die Störung gehört zu den Dyssomnien.
+- E) Eine medikamentöse Behandlung mit Beruhigungsmitteln gehört zum therapeutischen Standard.
+
+*Lösung: A*
+
+
+---
+
+## Frage 6 — § 1831 BGB — freiheitsentziehende Unterbringung
+*Wissenskern: § 1831 BGB: Unterbringung zur Suizidabwendung/erheblichen Gesundheitsschaden; nur mit Genehmigung des Betreuungsgerichts (außer Gefahr im Verzug); möglich auch ohne akute psychiatrische Diagnose; möglich in Pflegeheimen; Patientenverfügung schließt Unterbringung nicht aus*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wer muss nach § 1831 BGB eine freiheitsentziehende Unterbringung eines Betreuten genehmigen?
+
+- A) Die behandelnde Ärztin oder der behandelnde Arzt
+- B) Das Betreuungsgericht ✅
+- C) Die Polizei
+- D) Die Krankenkasse des Betreuten
+- E) Ein Ethikkomitee der Klinik
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein rechtlicher Betreuer möchte seinen Betreuten wegen akuter Suizidgefahr in einer Einrichtung unterbringen. Der Betreute hat in seiner Patientenverfügung erklärt, keine Zwangsunterbringung zu wollen. Welche Aussage beschreibt die Rechtslage nach § 1831 BGB am zutreffendsten?
+
+- A) Die Patientenverfügung schließt eine Unterbringung nach § 1831 BGB grundsätzlich aus.
+- B) Eine freiheitsentziehende Unterbringung ist nach § 1831 BGB auch dann möglich, wenn eine gegenteilige Patientenverfügung vorliegt, sofern das Betreuungsgericht zustimmt. ✅
+- C) Eine Unterbringung ist ausschließlich in psychiatrischen Kliniken zulässig, nicht in Pflegeheimen.
+- D) Die Unterbringung erfordert immer eine vorherige Genehmigung — eine Notunterbringung ohne Gerichtsbeschluss ist ausnahmslos unzulässig.
+- E) Nur eine akute psychiatrische Diagnose rechtfertigt nach § 1831 BGB eine Unterbringung.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu § 1831 BGB (freiheitsentziehende Unterbringung nach BGB) treffen zu?
+
+1. Eine Unterbringung zur Abwendung eines Suizides oder eines drohenden erheblichen gesundheitlichen Schadens ist auf Antrag des rechtlichen Betreuers zulässig.
+2. Die Unterbringung ist grundsätzlich nur mit Genehmigung des Betreuungsgerichts zulässig; ohne Genehmigung ist sie nur bei Gefahr im Verzug möglich.
+3. Eine Unterbringung ist nur in psychiatrischen Kliniken, nicht aber in Pflegeheimen möglich.
+4. Eine Unterbringung nach § 1831 BGB ist auch dann möglich, wenn beim Betreuten keine akute psychiatrische Erkrankung diagnostiziert wurde.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu § 1831 BGB (freiheitsentziehende Unterbringung nach BGB) treffen zu?
+
+1. Eine Unterbringung des Betreuten, die mit Freiheitsentziehung verbunden ist, ist zur Abwendung eines Suizides oder eines drohenden erheblichen gesundheitlichen Schadens zulässig.
+2. Die Unterbringung ist nur mit Genehmigung des Betreuungsgerichts zulässig; ohne Genehmigung ist sie nur bei Gefahr im Verzug zulässig.
+3. Eine Unterbringung ist nur in psychiatrischen Kliniken, nicht aber in Pflegeheimen möglich.
+4. Liegt eine entsprechende Patientenverfügung vor, so ist eine Unterbringung nach BGB nicht möglich.
+5. Eine Unterbringung ist auch dann möglich, wenn beim Betreuten keine akute psychiatrische Erkrankung diagnostiziert wurde.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 1, 3 und 5 sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu § 1831 BGB (freiheitsentziehende Unterbringung nach BGB) treffen zu?
+
+1. Eine Unterbringung des Betreuten auf Antrag des rechtlichen Betreuers, die mit Freiheitsentziehung verbunden ist, ist zur Abwendung eines Suizides oder eines drohenden erheblichen gesundheitlichen Schadens zulässig.
+2. Die Unterbringung ist nur mit Genehmigung des Betreuungsgerichts zulässig. Ohne die Genehmigung ist die Unterbringung zulässig, wenn mit dem Aufschub Gefahr verbunden ist.
+3. Eine Unterbringung ist nur in psychiatrischen Kliniken, nicht aber in Pflegeheimen möglich.
+4. Liegt eine entsprechende Patientenverfügung vor, so ist eine Unterbringung nach BGB nicht möglich.
+5. Eine Unterbringung ist auch dann möglich, wenn beim Betreuten keine akute psychiatrische Erkrankung diagnostiziert wurde.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 1, 3 und 5 sind richtig
+
+*Lösung: B*
+
+
+---
+
+## Frage 7 — Intelligenzminderung
+*Wissenskern: IQ < 70 (nicht < 100) = Intelligenzminderung; IQ 35–49 entspricht Intelligenzalter 6 bis unter 9 Jahre; keine Ausschluss für VT oder Medikation; Dyskalkulie/Asperger sind keine Sonderformen der Intelligenzminderung; Demenz kann auch bei Intelligenzminderung auftreten*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Ab welchem Intelligenzquotienten (IQ) spricht man von einer Intelligenzminderung?
+
+- A) IQ < 100
+- B) IQ < 85
+- C) IQ < 70 ✅
+- D) IQ < 50
+- E) IQ < 35
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Heilpraktikerin für Psychotherapie fragt sich, ob sie einen Patienten mit leichter Intelligenzminderung (IQ 62) verhaltenstherapeutisch behandeln kann. Welche Aussage ist korrekt?
+
+- A) Eine Intelligenzminderung schließt eine Verhaltenstherapie grundsätzlich aus.
+- B) Verhaltenstherapie ist bei Intelligenzminderung zwar denkbar, medikamentöse Behandlung jedoch nicht.
+- C) Eine Intelligenzminderung stellt weder für die Verhaltenstherapie noch für eine medikamentöse Behandlung ein grundsätzliches Ausschlusskriterium dar. ✅
+- D) Nur schwere Intelligenzminderungen (IQ < 35) schließen eine Verhaltenstherapie aus.
+- E) Bei Intelligenzminderung ist ausschließlich eine medikamentöse Behandlung indiziert.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Intelligenzminderung treffen zu?
+
+1. Von einer Intelligenzminderung spricht man, wenn der IQ unterhalb von 70 liegt, nicht bereits ab IQ < 100.
+2. Ein IQ-Bereich von 35–49 entspricht bei Erwachsenen einem Intelligenzalter von 6 bis unter 9 Jahren.
+3. Eine Intelligenzminderung stellt kein absolutes Ausschlusskriterium für eine Verhaltenstherapie oder eine medikamentöse Behandlung dar.
+4. Menschen mit einer Intelligenzminderung können aufgrund unterschiedlicher Genese keine Demenz entwickeln.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Mehrfachauswahl )*
+
+Welche Aussagen treffen auf den Begriff Intelligenzminderung zu? Wählen Sie zwei Antworten!
+
+- A) Von einer Intelligenzminderung spricht man, wenn der IQ unterhalb der Norm liegt, also ab einem IQ < 100.
+- B) Ein IQ-Bereich von 35–49 entspricht bei Erwachsenen einem Intelligenzalter von 6 bis unter 9 Jahren. ✅
+- C) Eine Intelligenzminderung stellt kein Ausschlusskriterium für eine Verhaltenstherapie oder eine medikamentöse Behandlung dar. ✅
+- D) Zu den Sonderformen einer Intelligenzminderung zählen Dyskalkulie oder das Asperger-Syndrom.
+- E) Da es sich um verschiedene Genesen handelt, können Menschen mit einer Intelligenzminderung keine Demenz entwickeln.
+
+*Lösung: B, C*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche Aussagen treffen auf den Begriff Intelligenzminderung zu? Wählen Sie zwei Antworten!
+
+- A) Von einer Intelligenzminderung spricht man, wenn der Intelligenzquotient (IQ) unterhalb der Norm liegt, das heißt ab einem IQ < 100.
+- B) Ein IQ-Bereich von 35-49 entspricht bei Erwachsenen einem normalen Intelligenzalter von 6 bis unter 9 Jahren. ✅
+- C) Eine Intelligenzminderung stellt kein Ausschlusskriterium für eine Verhaltenstherapie oder eine medikamentöse Behandlung dar. ✅
+- D) Zu den Sonderformen einer Intelligenzminderung zählen Dyskalkulie oder das Asperger-Syndrom.
+- E) Da es sich um verschiedene Genesen handelt, können Menschen mit einer Intelligenzminderung keine Demenz entwickeln.
+
+*Lösung: B, C*
+
+
+---
+
+## Frage 8 — Multiple Sklerose – psychiatrische und neurologische Symptome
+*Wissenskern: MS kann neben körperlichen Symptomen auch psychiatrische Auffälligkeiten verursachen: Stimmungsveränderungen (Euphorie, Affektverflachung), kognitive/dementielle Störungen, Sehstörungen sowie paranoide Symptome; Flashbacks sind kein typisches MS-Symptom.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche der folgenden Erscheinungen ist ein typisches psychiatrisches Symptom der multiplen Sklerose?
+
+- A) Flashbacks
+- B) Stimmungsveränderungen (z. B. Euphorie oder Affektverflachung) ✅
+- C) Konversionssymptome
+- D) Zwangsgedanken
+- E) Agoraphobie
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine 38-jährige Patientin kommt zu Ihnen mit Sehstörungen, Erschöpfung und plötzlichen euphorischen Stimmungsepisoden. Die Neurologin hat eine multiple Sklerose diagnostiziert. Welche Aussage zu den psychischen Symptomen bei MS trifft am ehesten zu?
+
+- A) Flashbacks und Intrusionen sind typische psychiatrische Leitsymptome der MS und müssen differenzialdiagnostisch zur PTBS abgegrenzt werden.
+- B) Psychiatrische Symptome wie Stimmungsveränderungen oder dementielle Einbußen können unmittelbar durch die Erkrankung verursacht sein und sind daher als organisch bedingt einzuordnen. ✅
+- C) Paranoide Symptome kommen bei MS nicht vor; sie sprechen immer für eine eigenständige schizophrene Psychose.
+- D) Stimmungsveränderungen bei MS sind ausschließlich reaktiver Natur und haben keine neuropathologische Grundlage.
+- E) Da MS vor allem das motorische System betrifft, sind kognitive Einbußen kein anerkanntes Symptom der Erkrankung.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu psychiatrischen und neurologischen Symptomen der multiplen Sklerose treffen zu?
+
+1. Sehstörungen, insbesondere eine Optikusneuritis, gehören zu den häufigen Frühsymptomen.
+2. Euphorie sowie affektive Verflachung können direkte Folge der demyelinisierenden Prozesse sein.
+3. Flashbacks sind ein charakteristisches und häufiges psychiatrisches Symptom der MS.
+4. Paranoide Symptome können im Verlauf einer MS auftreten.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Symptome können im Rahmen einer multiplen Sklerose auftreten?
+
+1. Euphorische Stimmungslage sowie verflachter Affekt
+2. Dementielle Einbußen
+3. Flashbacks und Intrusionen
+4. Sehstörungen (z. B. Optikusneuritis)
+5. Paranoide Symptome
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1, 2 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Symptome treten im Rahmen einer multiplen Sklerose auf?
+
+1. euphorische Stimmung sowie verflachter Affekt
+2. Dementielle Symptome
+3. Flashbacks
+4. Sehstörungen
+5. paranoide Symptome
+
+- A) Nur die Aussage 2 ist richtig
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 9 — Psychopharmaka – Neuroleptika, Johanniskraut, Benzodiazepine
+*Wissenskern: Neuroleptika wirken antipsychotisch, angstlösend und dämpfend; Johanniskraut ist bei Depression zugelassen, hat aber relevante Wechselwirkungen (darf NICHT als unbedenklich mit allen Arzneimitteln kombiniert werden); Benzodiazepine verursachen Tagesmüdigkeit.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche Wirkung wird Neuroleptika (Antipsychotika) zugeschrieben?
+
+- A) Stimmungsaufhellend und antriebssteigernd
+- B) Antipsychotisch, angstlösend und psychomotorisch dämpfend ✅
+- C) Anxiolytisch durch Bindung an Opioidrezeptoren
+- D) Antimanisch durch ausschließliche Serotonin-Wiederaufnahmehemmung
+- E) Sedierend durch Hemmung der Acetylcholinesterase
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin mit einer leichten depressiven Episode möchte wissen, ob sie Johanniskraut-Präparate nehmen darf, denn sie nimmt bereits ein Antikoagulans. Welche Aussage ist in dieser Situation korrekt?
+
+- A) Johanniskraut ist als nicht verschreibungspflichtiges Mittel grundsätzlich unbedenklich und kann bedenkenlos mit allen anderen Medikamenten kombiniert werden.
+- B) Johanniskraut darf bei depressiven Episoden eingesetzt werden, kann aber durch Induktion von CYP-Enzymen die Wirkung anderer Arzneimittel – darunter Antikoagulanzien – abschwächen. ✅
+- C) Johanniskraut ist nur bei schweren depressiven Episoden zugelassen und in leichten Fällen kontraindiziert.
+- D) Neuroleptika sind das Mittel der ersten Wahl bei leichten Depressionen und sollten Johanniskraut vorgezogen werden.
+- E) Benzodiazepine sind bei leichten Depressionen indiziert, da sie stimmungsaufhellend und antipsychotisch wirken.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Psychopharmaka sind korrekt?
+
+1. Neuroleptika wirken antipsychotisch, angstlösend und psychomotorisch dämpfend.
+2. Johanniskraut ist bei depressiven Episoden zugelassen, kann jedoch klinisch relevante Wechselwirkungen mit anderen Arzneimitteln aufweisen.
+3. Johanniskraut kann als nicht verschreibungspflichtiges Präparat unbedenklich mit allen anderen Arzneimitteln eingenommen werden.
+4. Angstlösende Arzneimittel wie Benzodiazepine führen häufig zu Tagesmüdigkeit.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zu Psychopharmaka sind korrekt?
+
+1. Neuroleptika wirken antipsychotisch, angstlösend und psychomotorisch dämpfend.
+2. Johanniskraut darf bei depressiven Episoden angewendet werden.
+3. Johanniskraut ist als standardisiertes Phytopharmakon klinisch äquivalent zu trizyklischen Antidepressiva bei schweren Depressionen.
+4. Johanniskraut kann als nicht verschreibungspflichtiges Präparat unbedenklich mit allen anderen Arzneimitteln zusammen eingenommen werden.
+5. Angstlösende Arzneimittel wie Benzodiazepine führen oft zu Tagesmüdigkeit.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 5 sind richtig
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Aussagen zu Psychopharmaka sind korrekt?
+
+1. Neuroleptika wirken antipsychotisch, angstlösend und psychomotorisch dämpfend.
+2. Echtes Johanniskraut darf bei depressiven Episoden angewendet werden.
+4. Echtes Johanniskraut kann als nicht verschreibungspflichtiges Präparat unbedenklich mit allen anderen Arzneimitteln zusammen eingenommen werden.
+5. Angstlösende Arzneimittel wie Benzodiazepine führen oft zu Tagesmüdigkeit.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 5 sind richtig
+- C) Nur die Aussagen 2, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 10 — Neuroanatomie – Großhirn, Hirnstamm, Limbisches System, vegetatives Nervensystem
+*Wissenskern: Die beiden Großhirnhälften sind über den Balken (Corpus callosum) miteinander verbunden. Der Sympathikus (nicht der Parasympathikus) ist für Kampf-oder-Flucht-Reaktionen zuständig. Die Hypophyse ist eine endokrine Drüse, kein motorisches Koordinationszentrum. Das Regulationszentrum für Atmung und Kreislauf liegt im Hirnstamm.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wie sind die beiden Hälften des Großhirns miteinander verbunden?
+
+- A) Über das Kleinhirn
+- B) Über den Balken (Corpus callosum) ✅
+- C) Über den Hirnstamm
+- D) Über das Limbische System
+- E) Über die Hypophyse
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Welche Aussage zu Aufbau und Funktion des Gehirns sowie des vegetativen Nervensystems ist korrekt?
+
+- A) Der Parasympathikus koordiniert die Kampf-oder-Flucht-Reaktion; der Sympathikus ist für Erholung und Verdauung zuständig.
+- B) Die Hypophyse koordiniert die motorischen Aktionen des Körpers.
+- C) Die beiden Großhirnhälften sind über den Balken (Corpus callosum) miteinander verbunden. ✅
+- D) Das Regulationszentrum für Atmung und Kreislauf liegt im Limbischen System.
+- E) Bei Ausfällen im Hippocampus entstehen vor allem Gangstörungen und Dysarthrie.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Neuroanatomie und zum vegetativen Nervensystem sind richtig?
+
+1. Die beiden Hälften des Großhirns sind über den Balken (Corpus callosum) verbunden.
+2. Der Sympathikus ist entwicklungsgeschichtlich mit Kampf- und Fluchtreaktionen assoziiert.
+3. Das Regulationszentrum für Atmung und Kreislauf liegt im Limbischen System.
+4. Die Hypophyse ist eine endokrine Drüse und kein motorisches Koordinationszentrum.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Funktion von Gehirnstrukturen und vegetativem Nervensystem sind korrekt?
+
+1. Von der Hypophyse werden die motorischen Aktionen des Körpers koordiniert.
+2. Die beiden Hälften des Großhirns sind über den Balken miteinander verbunden.
+3. Der Parasympathikus ist für die Aktivierung von Kampf-und-Flucht-Zuständen zuständig.
+4. Im Limbischen System liegt das Regulationszentrum von Atmung und Kreislauf.
+5. Bei Ausfällen im Hippocampus kommt es vor allem zu Gedächtnisstörungen.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 5 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welche Aussage ist richtig?
+
+- A) Von der Hypophyse werden die motorischen Aktionen des Körpers koordiniert.
+- B) Die beiden Hälften des Großhirns sind über den Balken verbunden. ✅
+- C) Der Parasympathikus ist für die Aktivierung von Körperzuständen zuständig (entwicklungsgeschichtlich Flucht und Kampf).
+- D) Im Limbischen System liegt das Regulationszentrum von Atmung und Kreislauf.
+- E) Bei Ausfällen im Hippocampus kommt es z. B. zu Gangunsicherheit oder verwaschener Sprache.
+
+*Lösung: B*
+
+
+---
+
+## Frage 11 — Einsicht in Krankenunterlagen – rechtliche Gründe für Verweigerung
+*Wissenskern: Ein Patient hat grundsätzlich ein Recht auf Einsicht in seine Krankenunterlagen. Die Einsicht darf nur begründet verweigert werden, wenn erhebliche therapeutische Gründe dagegensprechen oder wenn die Rechte Dritter verletzt würden. Eine grundlose Verweigerung oder eine Verweigerung wegen rein mündlicher Antragstellung ist nicht zulässig.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wann darf einem Patienten die Einsicht in seine Krankenunterlagen rechtmäßig verweigert werden?
+
+- A) Niemals – der Patient hat ein uneingeschränktes Recht auf vollständige Einsicht.
+- B) Wenn erhebliche therapeutische Gründe gegen die Einsichtnahme sprechen. ✅
+- C) Wenn der Patient den Antrag nur mündlich und nicht schriftlich stellt.
+- D) Wenn der Behandler keine Zeit für die Aufbereitung der Unterlagen hat.
+- E) Wenn der Patient minderjährig ist.
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient fordert Einsicht in seine Krankenakten. Die Heilpraktikerin überlegt, ob und unter welchen Umständen sie die Einsicht verweigern darf. Welche Aussage beschreibt die Rechtslage korrekt?
+
+- A) Die Einsicht darf grundlos verweigert werden, wenn die Heilpraktikerin dies für sinnvoll hält – eine Begründungspflicht besteht nicht.
+- B) Die Einsicht darf verweigert werden, wenn der Antrag nicht schriftlich gestellt wird.
+- C) Die Einsicht darf begründet verweigert werden, wenn erhebliche therapeutische Gründe entgegenstehen oder wenn durch die Einsichtnahme Rechte Dritter verletzt würden. ✅
+- D) Sobald der Patient eine Diagnose erhalten hat, entfällt sein Recht auf Akteneinsicht automatisch.
+- E) Die Einsicht darf verweigert werden, wenn der Behandler selbst der Meinung ist, dass die Unterlagen für den Patienten nicht verständlich sind.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Einsicht in Krankenunterlagen durch den Patienten sind rechtlich korrekt?
+
+1. Einem Patienten darf die Einsicht aus keinem Grund verweigert werden.
+2. Die Einsicht darf begründet verweigert werden, wenn erhebliche therapeutische Gründe entgegenstehen.
+3. Die Einsicht darf begründet verweigert werden, wenn durch die Einsichtnahme Rechte Dritter verletzt würden.
+4. Die Einsicht darf ohne Angabe von Gründen verweigert werden, wenn der Antrag nur mündlich gestellt wird.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 1 und 2 sind richtig
+- D) Nur die Aussagen 1, 2 und 3 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Aus welchen Gründen kann dem Patienten die Einsicht in seine Krankenunterlagen rechtmäßig verweigert werden?
+
+1. Einem Patienten darf aus keinem Grund die Einsicht in seine Krankenunterlagen verweigert werden.
+2. Einem Patienten darf auch ohne Nennung von Gründen die Einsicht in seine Krankenunterlagen verweigert werden.
+3. Einsicht darf begründet verweigert werden, wenn die Rechte Dritter durch die Einsichtnahme verletzt werden.
+4. Einsicht darf begründet verweigert werden, wenn erhebliche therapeutische Gründe entgegenstehen.
+5. Einsicht darf begründet verweigert werden, wenn der Patient den Antrag nur mündlich stellt.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Nur die Aussagen 3, 4 und 5 sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Aus welchem Grund/aus welchen Gründen kann dem Patienten die Einsicht in seine Krankenunterlagen verweigert werden? Wählen Sie zwei Antworten!
+
+- A) Einem Patienten darf aus keinem Grund die Einsicht in seine Krankenunterlagen verweigert werden.
+- B) Einem Patienten darf auch ohne Nennung von Gründen die Einsicht in seine Krankenunterlagen verweigert werden.
+- C) Einsicht in die Krankenunterlagen darf dem Patienten dann begründet verweigert werden, wenn die Rechte Dritter durch die Einsichtnahme verletzt werden. ✅
+- D) Einsicht in die Krankenunterlagen darf dem Patienten dann begründet verweigert werden, wenn dem erhebliche therapeutische Gründe entgegenstehen. ✅
+- E) Einsicht in die Krankenunterlagen darf dem Patienten dann begründet verweigert werden, wenn die Einsichtnahme nur mündlich beantragt wird.
+
+*Lösung: C, D*
+
+
+---
+
+## Frage 12 — Panikstörung – Symptomatik und Abgrenzung
+*Wissenskern: Typische Symptome einer Panikattacke: Herzrasen, Zittern, Schwindel/Schwäche, Depersonalisation/Derealisation, Hitzewallungen, Brustschmerz, Erstickungsgefühl. NICHT typisch sind echte Bewusstseins- oder Orientierungsstörungen – diese sprechen gegen eine reine Panikstörung.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches der folgenden Symptome ist ein anerkanntes Merkmal einer Panikattacke?
+
+- A) Bewusstlosigkeit
+- B) Orientierungsstörung
+- C) Starkes Herzrasen und Herzklopfen ✅
+- D) Anhaltende Amnesie
+- E) Epileptische Anfälle
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin schildert anfallsweise auftretendes starkes Herzklopfen, Zittern der Hände, Schwindel und das Gefühl, sich selbst von außen zu beobachten (Depersonalisation). Welche Aussage zur Diagnose einer Panikstörung ist korrekt?
+
+- A) Die geschilderten Symptome sprechen gegen eine Panikstörung, da Depersonalisation ausschließlich bei dissoziativen Störungen auftritt.
+- B) Schwindel und Schwächegefühl sind keine anerkannten Symptome einer Panikattacke.
+- C) Die geschilderten Symptome sind typisch für eine Panikstörung; Bewusstseins- und Orientierungsstörungen hingegen wären nicht charakteristisch und würden auf eine andere Ursache hinweisen. ✅
+- D) Eine Panikstörung ist nur dann zu diagnostizieren, wenn Bewusstlosigkeit auftritt.
+- E) Depersonalisation und Derealisation schließen die Diagnose einer Panikstörung aus.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Symptomatik der Panikstörung sind richtig?
+
+1. Starkes Herzklopfen und Herzrasen können im Rahmen einer Panikattacke auftreten.
+2. Depersonalisation und Derealisation sind anerkannte Symptome einer Panikattacke.
+3. Bewusstseins- und Orientierungsstörungen sind charakteristische Leitsymptome der Panikstörung.
+4. Schwindel, Schwäche und Benommenheit können im Rahmen einer Panikattacke vorkommen.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Symptome können im Rahmen einer Panikattacke auftreten?
+
+1. Starkes Herzklopfen und Herzrasen
+2. Zittern der Hände, Arme und Beine
+3. Gefühl von Schwindel, Schwäche und Benommenheit
+4. Entfremdungsgefühle (Depersonalisation oder Derealisation)
+5. Bewusstseins- und Orientierungsstörungen
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2, 3 und 4 sind richtig ✅
+- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welches der nachgenannten Krankheitszeichen gehört nicht zu einer Panikstörung?
+
+- A) Starkes Herzklopfen und Herzrasen
+- B) Zittern der Hände, Arme und Beine
+- C) Gefühl von Schwindel, Schwäche, Unsicherheit, Benommenheit
+- D) Entfremdungsgefühle (Depersonalisation oder Derealisation)
+- E) Bewusstseins- und/oder Orientierungsstörungen ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 13 — Tourette-Syndrom – Charakteristika, Manifestationsalter, Symptome
+*Wissenskern: Das Tourette-Syndrom ist durch motorische UND vokale Tics gekennzeichnet. Das Hauptmanifestationsalter liegt im 3. Lebensjahrzehnt (Schulalter, ca. 6.–7. Lebensjahr). Koprolalie (Schimpfwörter) und Echolalie können vorkommen. Es zählt NICHT zu den Epilepsien.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was kennzeichnet das Tourette-Syndrom am treffendsten?
+
+- A) Ausschließlich motorische Tics ohne vokale Komponente
+- B) Kombiniertes Auftreten von motorischen und vokalen Tics ✅
+- C) Anfallsweise Bewusstlosigkeit mit anschließender Amnesie
+- D) Zwangshandlungen ohne unwillkürliche Bewegungen
+- E) Halluzinationen und paranoide Wahngedanken
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Die Mutter eines 7-jährigen Jungen berichtet, ihr Kind rufe plötzlich ungewollt Schimpfwörter (Koprolalie) und zeige wiederholte Schulterzuckungen. Welche Aussage zum Tourette-Syndrom ist korrekt?
+
+- A) Das Tourette-Syndrom ist durch ausschließlich vokale Tics definiert; motorische Tics sprechen gegen diese Diagnose.
+- B) Das Hauptmanifestationsalter liegt im 3. Lebensjahr; ein Beginn im Schulalter wäre atypisch.
+- C) Das Tourette-Syndrom umfasst sowohl motorische als auch vokale Tics; Koprolalie ist ein bekanntes, wenn auch nicht obligates Symptom. ✅
+- D) Das Tourette-Syndrom zählt zu den epileptischen Erkrankungen und wird mit Antikonvulsiva behandelt.
+- E) Echolalie ist kein mögliches Symptom des Tourette-Syndroms.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Tourette-Syndrom sind richtig?
+
+1. Das Tourette-Syndrom ist durch das kombinierte Auftreten von motorischen und vokalen Tics gekennzeichnet.
+2. Das Hauptmanifestationsalter liegt typischerweise im Schulalter (ca. 6.–7. Lebensjahr).
+3. Koprolalie und Echolalie sind beide mögliche Symptome des Tourette-Syndroms.
+4. Das Tourette-Syndrom zählt zu den Epilepsien und wird entsprechend klassifiziert.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 1, 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1 und 3 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zum Tourette-Syndrom treffen zu?
+
+1. Das Tourette-Syndrom ist ausschließlich durch vokale Tics gekennzeichnet.
+2. Das Hauptmanifestationsalter liegt typischerweise im Schulalter, nicht im frühen Kleinkindalter.
+3. Zum Tourette-Syndrom können sowohl Koprolalie als auch Echolalie gehören.
+4. Das Tourette-Syndrom zählt zu den Epilepsien.
+5. Die Tics beim Tourette-Syndrom können kurzzeitig willentlich unterdrückt werden, was zu einem Anspannungsgefühl führt.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 2, 3 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Welche Aussage zum Tourette-Syndrom ist richtig?
+
+- A) Tourette-Syndrom ist ausschließlich durch vokale Tics gekennzeichnet.
+- B) Das Hauptmanifestationsalter ist im 3. Lebensjahr. ✅
+- C) Zum Tourette-Syndrom gehört die Koprolalie, nicht aber die Echolalie.
+- E) Das Tourette-Syndrom zählt zu den Epilepsien.
+
+*Lösung: B*
+
+
+---
+
+## Frage 14 — Depressive Episode und Dysthymia – Klassifikation, Schweregrade, Differenzierung
+*Wissenskern: Bei der depressiven Episode unterscheidet man leichte, mittelschwere und schwere Ausprägungen. Die Dysthymia ist eine chronische, weniger intensive depressive Verstimmung; Betroffene sind in der Regel noch arbeitsfähig. Hauptsymptome einer depressiven Episode sind gedrückte Stimmung, Antriebsminderung und Freudlosigkeit – nicht Schlaflosigkeit/Appetitmangel (das sind Zusatzsymptome). Lichttherapie ist kein Standard bei allen Depressionen, sondern primär bei saisonaler Depression.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche Schweregradeinteilung gilt für die depressive Episode gemäß ICD-10?
+
+- A) Akut, subakut und chronisch
+- B) Leicht, mittelschwer und schwer ✅
+- C) Stadium I, II und III
+- D) Primär, sekundär und tertiär
+- E) Mild, moderat und therapieresistent
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin berichtet, sie fühle sich seit zwei Jahren fast durchgehend traurig und erschöpft, könne aber ihren Alltag – wenn auch mit Mühe – bewältigen. Akut fehlten die typischen Hauptsymptome einer schweren depressiven Episode. Welche Aussage grenzt die Dysthymia von der depressiven Episode am treffendsten ab?
+
+- A) Bei einer Dysthymia können keine depressiven Symptome auftreten; das ist ein Ausschlusskriterium.
+- B) Die Dysthymia ist durch episodisches Auftreten mit vollständiger Remission zwischen den Episoden definiert.
+- C) Bei einer Dysthymia besteht eine chronische depressive Verstimmung, bei der Betroffene in der Regel noch in der Lage sind, mit den wesentlichen Anforderungen des täglichen Lebens zurechtzukommen. ✅
+- D) Die Schweregrade der depressiven Episode (leicht, mittelschwer, schwer) gelten ebenso für die Dysthymia.
+- E) Eine Lichttherapie ist bei Dysthymia die Therapie der ersten Wahl.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu depressiven Störungen sind korrekt?
+
+1. Bei der depressiven Episode unterscheidet man leichte, mittelschwere und schwere Ausprägungen.
+2. Schlaflosigkeit und Appetitmangel gehören zu den Hauptsymptomen der depressiven Episode.
+3. Bei einer Dysthymia sind die Betroffenen in der Regel noch in der Lage, mit den wesentlichen Alltagsanforderungen zurechtzukommen.
+4. Eine Lichttherapie ist bei jeder depressiven Episode als Standardtherapie notwendig.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zu depressiven Störungen sind richtig?
+
+1. Zu den sogenannten Hauptsymptomen einer depressiven Episode zählen Schlaflosigkeit und Appetitmangel.
+2. Bei einer depressiven Episode unterscheidet man leichte, mittelschwere und schwere Ausprägungen.
+3. Die Dysthymia ist durch episodisches Auftreten mit vollständiger Remission zwischen den Episoden charakterisiert.
+4. Bei einer Dysthymia fühlen sich Patientinnen und Patienten vornehmlich erschöpft und depressiv, sind aber in der Regel fähig, mit den wesentlichen Anforderungen des täglichen Lebens zurechtzukommen.
+5. Bei einer depressiven Episode ist eine Lichttherapie notwendig.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche Aussage ist richtig? Wählen Sie zwei Antworten!
+
+- A) Zu den sogenannten Hauptsymptomen einer depressiven Episode zählen die Schlaflosigkeit und der Appetitmangel.
+- B) Bei einer depressiven Episode unterscheidet man leichte, mittelschwere und schwere Ausprägungen. ✅
+- D) Bei einer Dysthymia fühlen sich die Patientinnen und Patienten vornehmlich erschöpft und depressiv, sind aber in der Regel fähig, mit den wesentlichen Anforderungen des täglichen Lebens zurechtzukommen. ✅
+- E) Bei einer depressiven Episode ist eine Lichttherapie notwendig.
+
+*Lösung: B, D*
+
+
+---
+
+## Frage 15 — Suizidalität – Umgang, Antisuizidvertrag, Schweigepflicht
+*Wissenskern: Bei Suizidalität: Antisuizidvertrag sinnvoll bei nicht akuter Suizidalität; Äußerung von Suizidgedanken entbindet nicht automatisch von der Schweigepflicht. Latente Suizidgedanken erfordern therapeutisches Handeln; nicht nur psychisch Kranke begehen Suizidversuche.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Wann ist die Vereinbarung eines Antisuizidvertrags sinnvoll?
+
+- A) Nur bei akuter, unmittelbarer Suizidgefahr
+- B) Bei nicht akuter Suizidalität ✅
+- C) Ausschließlich in stationären psychiatrischen Settings
+- D) Niemals – Antisuizidverträge sind rechtlich unwirksam und daher sinnlos
+- E) Nur wenn die Schweigepflicht aufgehoben wurde
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient äußert in der Sitzung beiläufig Suizidgedanken, wirkt aber nicht akut gefährdet. Was trifft auf den therapeutischen Umgang am ehesten zu?
+
+- A) Da die Gedanken nicht akut sind, besteht kein Handlungsbedarf; der Therapeut wartet die nächste Sitzung ab.
+- B) Die bloße Äußerung von Suizidgedanken verpflichtet den Therapeuten automatisch zur Aufhebung der Schweigepflicht.
+- C) Bei nicht akuter Suizidalität kann ein Antisuizidvertrag sinnvoll sein; die Äußerung von Suizidgedanken allein hebt die Schweigepflicht nicht zwangsläufig auf. ✅
+- D) Nur Menschen mit einer psychischen Erkrankung können suizidal werden; bei diesem Patienten liegt daher kein Risiko vor.
+- E) Die Exploration früherer Suizidversuche ist in der Akutsituation zu unterlassen, um den Patienten nicht zu destabilisieren.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum Umgang mit suizidalen Patientinnen und Patienten sind richtig?
+
+1. Latente Suizidgedanken erfordern kein unmittelbares therapeutisches Vorgehen.
+2. Die Vereinbarung eines Antisuizidvertrags ist sinnvoll bei nicht akuter Suizidalität.
+3. Die Äußerung von Suizidgedanken entbindet nicht zwangsläufig von der Schweigepflicht.
+4. Nur Menschen mit einer psychischen Erkrankung begehen einen Suizidversuch.
+
+- A) Nur die Aussagen 1 und 4 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen im Umgang mit suizidalen Patientinnen/Patienten sind richtig?
+
+1. Latente Suizidgedanken erfordern kein unmittelbares therapeutisches Vorgehen.
+2. Nur Menschen mit einer psychischen Erkrankung begehen einen Suizidversuch.
+3. Die Exploration früherer suizidaler Episoden ist in der Akutsituation unerlässlich.
+4. Die Vereinbarung eines Antisuizidvertrags ist sinnvoll bei nicht akuter Suizidalität.
+5. Die Äußerung von Suizidgedanken entbindet nicht zwangsläufig von der Schweigepflicht.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 3 und 5 sind richtig
+- D) Nur die Aussagen 4 und 5 sind richtig ✅
+- E) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Aussagen im Umgang mit suizidalen Patientinnen/Patienten sind richtig?
+
+1. Latente Suizidgedanken erfordern kein unmittelbares therapeutisches Vorgehen.
+2. Nur Menschen mit einer psychischen Erkrankung begehen einen Suizidversuch.
+3. Die Exploration der jetzigen und früheren Umstände, die zu Suizidalität geführt haben, ist unerlässlich in der Akutsituation.
+4. Die Vereinbarung eines Antisuizidvertrags ist sinnvoll bei nicht akuter Suizidalität.
+5. Die Äußerung von Suizidgedanken entbindet nicht zwangsläufig von der Schweigepflicht.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 2 und 5 sind richtig
+- D) Nur die Aussagen 4 und 5 sind richtig ✅
+- E) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 16 — Gesprächsführung – offene Fragen, Suggestivfragen, Anamnesegespräch
+*Wissenskern: Im Anamnesegespräch: Suggestivfragen vermeiden; abwertende Bemerkungen meiden; allgemeine Aussagen durch Nachfragen eingrenzen. Am Gesprächsbeginn besser offene Fragen stellen. Offene Fragen sind üblich und wichtig.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche Art von Fragen sollte im Anamnesegespräch vermieden werden?
+
+- A) Offene Fragen
+- B) Präzisierende Nachfragen
+- C) Suggestivfragen ✅
+- D) Klärende Rückfragen
+- E) Hypothetische Fragen
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Heilpraktiker beginnt jede Erstsitzung mit der Frage: ‚Sie haben doch sicher Schlafprobleme, oder?' Welche Aussage zur Gesprächsführung ist in dieser Situation korrekt?
+
+- A) Der Einsatz von Suggestivfragen am Gesprächsbeginn ist zulässig, da er eine schnelle Orientierung ermöglicht.
+- B) Offene Fragen sind im Anamnesegespräch unüblich und sollten durch geschlossene Fragen ersetzt werden.
+- C) Suggestivfragen sind zu vermeiden; allgemeine Patientenaussagen sollten durch gezieltes Nachfragen präzisiert werden. ✅
+- D) Abwertende Bemerkungen sind im Erstgespräch akzeptabel, sofern sie therapeutisch begründet sind.
+- E) Geschlossene Fragen sind zu Beginn des Gesprächs vorzuziehen, um rasch zur Diagnose zu gelangen.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Gesprächsführung in der psychotherapeutischen Praxis sind richtig?
+
+1. Zu Beginn des Gesprächs sollten offene Fragen gestellt werden, um dem Patienten Raum zu geben.
+2. Suggestivfragen sind im Anamnesegespräch zu vermeiden.
+3. Abwertende Bemerkungen sollten gemieden werden.
+4. Allgemeine Patientenaussagen wie ‚Ich habe überall Schmerzen' müssen durch gezieltes Nachfragen eingegrenzt werden.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zur Gesprächsführung mit Patientinnen/Patienten treffen zu?
+
+1. Zu Beginn des Gesprächs sollten zunächst geschlossene Fragen gestellt werden, um rasch zu erfahren, weshalb die Patientin/der Patient aufsucht.
+2. Offene Fragen sind im Anamnesegespräch nicht üblich.
+3. Suggestivfragen sind zu vermeiden.
+4. Abwertende Bemerkungen sollten gemieden werden.
+5. Allgemeine Aussagen müssen durch gezieltes Nachfragen eingegrenzt werden.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 4 und 5 sind richtig
+- C) Nur die Aussagen 3, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3 und 5 sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Aussagen zur Gesprächsführung mit Patientinnen/Patienten treffen zu?
+
+1. Zu Beginn des Gesprächs sollten zunächst geschlossene Fragen gestellt werden, um rasch zu erfahren, weshalb die Patientin/der Patient eine Heilpraktikerin/einen Heilpraktiker aufsucht.
+2. Offene Fragen sind im Anamnesegespräch nicht üblich.
+3. Suggestivfragen sind zu vermeiden.
+4. Abwertende Bemerkungen sollten gemieden werden.
+5. Allgemeine Aussagen wie „Ich habe überall Schmerzen“ müssen durch gezieltes Nachfragen eingegrenzt werden.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 4 und 5 sind richtig
+- C) Nur die Aussagen 3, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3 und 5 sind richtig
+
+*Lösung: C*
+
+
+---
+
+## Frage 17 — Fatigue – Symptomatik, Neurasthenie
+*Wissenskern: Fatigue: anhaltende Erschöpfung mit Verschlechterung schon nach leichter Anstrengung. Synonym: Neurasthenie. Typische Beschwerden NICHT Einschlafattacken/Muskelkrämpfe.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Merkmal kennzeichnet das Syndrom der Fatigue am treffendsten?
+
+- A) Plötzliche Einschlafattacken am Tag
+- B) Anhaltende Erschöpfung mit Verschlechterung bereits nach leichter Anstrengung ✅
+- C) Schwere Muskelschwäche mit Lähmungserscheinungen
+- D) Ausgeprägte Schlaflosigkeit mit nächtlichen Panikattacken
+- E) Episodisch auftretende Bewusstlosigkeit
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin berichtet, sie sei seit Wochen völlig erschöpft und könne schon nach dem Treppensteigen nicht mehr weiterarbeiten. Ihr Arzt hat den Begriff Fatigue verwendet. Welche Aussage ist korrekt?
+
+- A) Fatigue und Neurasthenie beschreiben völlig verschiedene Störungsbilder und sind nicht synonym verwendbar.
+- B) Zu den Leitsymptomen der Fatigue gehören vor allem Einschlafattacken und Muskelkrämpfe.
+- C) Fatigue ist synonym mit Neurasthenie verwendbar; betroffene Personen leiden typischerweise unter Erschöpfung und Leistungseinbruch schon nach leichter Anstrengung. ✅
+- D) Fatigue tritt ausschließlich im Kontext von Krebserkrankungen auf.
+- E) Fatigue entspricht klinisch dem Burnout-Syndrom und wird nach denselben Kriterien diagnostiziert.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Fatigue sind richtig?
+
+1. Betroffene leiden oft unter Erschöpfung und Leistungseinbruch bereits nach leichter Anstrengung.
+2. Zu den häufigsten Beschwerden bei Fatigue zählen Einschlafattacken und Muskelkrämpfe.
+3. Fatigue tritt ausschließlich bei Krebserkrankungen auf.
+4. Fatigue ist synonym mit der Diagnose Neurasthenie verwendbar.
+
+- A) Nur die Aussagen 1 und 4 sind richtig ✅
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1 und 2 sind richtig
+- D) Nur die Aussagen 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zu Fatigue sind richtig?
+
+1. Betroffene leiden oft unter einem Gefühl der Erschöpfung und Verschlechterung schon nach leichter Anstrengung.
+2. Zu den häufigsten Beschwerden bei Fatigue zählen Einschlafattacken und Muskelkrämpfe.
+3. Die Erfassung der Fatigue-Belastung ist im klinischen Alltag durch validierte Fragebögen ausreichend gesichert.
+4. Fatigue tritt bei rezidivierenden oder progredienten Krebserkrankungen auf.
+5. Fatigue ist synonym verwendbar mit der Diagnose Neurasthenie.
+
+- A) Nur die Aussagen 1 und 5 sind richtig ✅
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche Aussagen zu „Fatigue“ sind richtig? Wählen Sie zwei Antworten!
+
+- A) Die betroffenen Patienten leiden oft unter einem Gefühl der Erschöpfung und Verschlechterung schon nach leichter Anstrengung. ✅
+- B) Zu den häufigsten Beschwerden bei Fatigue zählen Einschlafattacken und Muskelkrämpfe.
+- C) Die Erfassung der Belastung der Patienten durch eine Fatigue ist im klinischen Alltag durch die routinemäßige Nutzung validierter Fragebögen gesichert.
+- D) Fatigue tritt bei rezidivierenden oder progredienten Krebserkrankungen auf.
+- E) Fatigue ist synonym verwendbar mit der Diagnose Neurasthenie ✅
+
+*Lösung: A, E*
+
+
+---
+
+## Frage 18 — Schizophrenie – Symptomatik, Verlauf, Behandlung, Jugendalter
+*Wissenskern: Schizophrenie kann auch im Kindes- und Jugendalter diagnostiziert werden. Kennzeichen: Störungen in Wahrnehmung, Denken, Ich-Funktionen, Affektivität, Antrieb, Psychomotorik. Bei 10–30 % Ausheilung ohne Rückfall. Kombinierte pharmakologisch-psychotherapeutische Behandlung empfohlen. Typische Nebenwirkungen: Dyskinesien, Gewichtszunahme.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche typische Nebenwirkung ist bei einer Behandlung mit Antipsychotika bekannt?
+
+- A) Bradykardie und Blutdruckabfall
+- B) Dyskinesien und Gewichtszunahme ✅
+- C) Hyperthyreose und Haarausfall
+- D) Nierenversagen und Polydipsie
+- E) Alopezie und Myopathie
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Die Eltern eines 15-Jährigen fragen, ob eine Schizophrenie in diesem Alter möglich sei und ob Medikamente alleine ausreichen. Welche Aussage ist korrekt?
+
+- A) Eine schizophrene Erkrankung kann im Kindes- und Jugendalter nicht diagnostiziert werden; die Diagnose ist erst ab dem 18. Lebensjahr zulässig.
+- B) Schizophrenie heilt bei der Mehrheit der Betroffenen ohne Rückfall vollständig aus; Medikamente sind daher nur kurzfristig nötig.
+- C) Schizophrenie kann auch im Jugendalter diagnostiziert werden; neben der medikamentösen Therapie ist eine psychotherapeutische und psychosoziale Begleitung sinnvoll. ✅
+- D) Atypische Antipsychotika verursachen keine Gewichtszunahme und gelten daher als nebenwirkungsarm.
+- E) Psychotherapeutische Begleitung ist bei Schizophrenie kontraindiziert.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Schizophrenie sind richtig?
+
+1. Die Diagnose einer schizophrenen Erkrankung darf im Kindes- und Jugendalter nicht gestellt werden.
+2. Schizophrenie ist durch Störungen in Wahrnehmung, Denken, Ich-Funktionen, Affektivität, Antrieb und Psychomotorik gekennzeichnet.
+3. Bei ca. 10–30 % der Betroffenen heilt die Erkrankung ohne Rückfall aus.
+4. Zu typischen Nebenwirkungen der antipsychotischen Therapie gehören Dyskinesien und Gewichtszunahme.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 2, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Ein 16-Jähriger mit akuter Psychose erhält Risperidon und Olanzapin. Welche der folgenden Aussagen zur Schizophrenie und ihrer Behandlung sind richtig?
+
+1. Die Diagnose einer schizophrenen Erkrankung darf im Kindes- und Jugendalter nicht gestellt werden.
+2. Schizophrenie ist durch ein charakteristisches Muster von Störungen in Wahrnehmung, Denken, Ich-Funktionen, Affektivität, Antrieb und Psychomotorik gekennzeichnet.
+3. Bei etwa 10–30 % der Betroffenen heilt die Erkrankung ohne Rückfall aus.
+4. Neben der medikamentösen Behandlung ist eine psychotherapeutische und psychosoziale Begleitung sinnvoll.
+5. Zu wichtigen Nebenwirkungen gehören Dyskinesien sowie Gewichtszunahme.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3, 4 und 5 sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Ein 16-jähriger junger Mann steht seit drei Monaten in Ihrer psychotherapeutischen Behandlung. Sie behandeln auch die Mutter psychotherapeutisch. Zuvor war er erstmals aufgefallen, weil er aggressiv war, körperlich und verbal gegen seine Mutter und weil er Möbelstücke und Gegenstände aus der Wohnung in der ersten Etage auf die Straße geworfen hatte. Er wurde nach dem PsychKG in eine psychiatrische Klinik überwiesen und steht jetzt in ambulanter psychiatrischer Behandlung. Man hat ihm • Risperidon 2 mg Filmtablette 1-0-0-0/Tag • Olanzapin 2,5 mg Tablette 1-0-0-0/Tag verordnet. Mutter und Sohn leben in einem Haushalt, die Mutter überwacht die Medikamenteneinnahme. Welche der folgenden Aussagen sind richtig?
+
+1. Die Diagnose einer schizophrenen Erkrankung darf im Kindes- und Jugendalter nicht gestellt werden.
+2. Schizophrenie ist durch ein charakteristisches psychopathologisches Muster von Störungen in den Funktionsbereich Wahrnehmung, Denken, Ich-Funktionen, Affektivität, Antrieb und Psychomotorik gekennzeichnet.
+3. Bei etwa 10-30 % der Betroffenen heilt die Erkrankung ohne Rückfall aus.
+4. Neben der medikamentösen Behandlung ist eine psychotherapeutische und psychosoziale Begleitung sinnvoll.
+5. Zu wichtigen Nebenwirkungen einer psychopharmakologischen Therapie gehören Dyskinesien sowie Gewichtszunahme.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Nur die Aussagen 2, 3, 4 und 5 sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 19 — Lithium – Wirkungen, Nebenwirkungen, therapeutische Breite
+*Wissenskern: Lithium wirkt antimanisch, antidepressiv und antisuizidal. Typische Nebenwirkungen: Tremor, Gewichtszunahme, Polydipsie. Wichtig: Lithium hat eine ENGE (nicht hohe) therapeutische Breite.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welche der folgenden Wirkungen wird Lithium zugeschrieben?
+
+- A) Ausschließlich antimanisch
+- B) Antimanisch, antidepressiv und antisuizidal ✅
+- C) Antipsychotisch und sedierend
+- D) Anxiolytisch und muskelrelaxierend
+- E) Stimulierend und antriebssteigernd
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Patientin mit bipolarer Störung erhält Lithium und berichtet von häufigem Durstgefühl. Sie fragt, ob das normal sei und ob Lithium sicher sei. Welche Aussage ist korrekt?
+
+- A) Lithium hat eine hohe therapeutische Breite; Veränderungen im Trinkverhalten sind klinisch unbedeutend.
+- B) Lithium kann zu gesteigertem Durstempfinden (Polydipsie) führen; da Lithium eine enge therapeutische Breite hat, sind regelmäßige Spiegelkontrollen wichtig. ✅
+- C) Gesteigerter Durst ist eine seltene Nebenwirkung, die einen sofortigen Abbruch erfordert.
+- D) Lithium wirkt ausschließlich antimanisch; antidepressive Wirkungen sind nicht belegt.
+- E) Tremor ist keine bekannte Nebenwirkung von Lithium.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Behandlung mit Lithium sind korrekt?
+
+1. Lithium kann zu einem Tremor führen.
+2. Lithium hat eine hohe therapeutische Breite.
+3. Lithium wirkt antimanisch, antidepressiv und antisuizidal.
+4. Lithium kann zu Gewichtszunahme und gesteigertem Durstempfinden führen.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 3 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu einer Behandlung mit Lithium sind korrekt?
+
+1. Lithium kann zu einem Tremor führen.
+2. Lithium hat eine hohe therapeutische Breite.
+3. Lithium wirkt antimanisch, antidepressiv und antisuizidal.
+4. Unter Lithium kann es zu einer Gewichtszunahme kommen.
+5. Lithium kann zu einem gesteigerten Durstempfinden (Polydipsie) führen.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu einer Behandlung mit Lithium sind korrekt?
+
+1. Lithium kann zu einem Tremor führen.
+2. Lithium hat eine hohe therapeutische Breite.
+3. Lithium wirkt antimanisch, antidepressiv und antisuizidal.
+4. Unter Lithium kann es zu einer Gewichtszunahme kommen.
+5. Lithium kann zu einem gesteigerten Durstempfinden (= Polydipsie) führen.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1 und 4 sind richtig
+- C) Nur die Aussagen 1, 3, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+
+---
+
+## Frage 20 — Dissoziale Persönlichkeitsstörung – Kernmerkmale
+*Wissenskern: Kennzeichen der dissozialen Persönlichkeitsstörung: sehr niedrige Frustrationstoleranz, Mangel an Schuldbewusstsein. Nicht typisch: soziale Überanpassung, ängstliche Vermeidung, Beziehungsangst.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Merkmal ist typisch für die dissoziale Persönlichkeitsstörung?
+
+- A) Ausgeprägte Angst, Beziehungen zu knüpfen
+- B) Mangel an Schuldbewusstsein ✅
+- C) Sozial überangepasstes Verhalten
+- D) Starke Abhängigkeit von sozialer Bestätigung
+- E) Vermeidung unbekannter Aktivitäten aus Angst
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein junger Mann bereut wiederholte Schlägereien nicht, gibt anderen die Schuld und reagiert bei jeder Frustration sofort aggressiv. Welche Aussage grenzt die dissoziale von der ängstlich-vermeidenden Persönlichkeitsstörung am treffendsten ab?
+
+- A) Die dissoziale Persönlichkeitsstörung ist durch extreme Angst vor neuen Situationen und sozialer Bewertung gekennzeichnet.
+- B) Soziale Überanpassung und Beziehungsangst sind Kernmerkmale der dissozialen Persönlichkeitsstörung.
+- C) Die dissoziale Persönlichkeitsstörung ist durch niedrige Frustrationstoleranz und Mangel an Schuldbewusstsein gekennzeichnet; bei der ängstlich-vermeidenden stehen Beziehungsangst und Überanpassung im Vordergrund. ✅
+- D) Mangel an Schuldbewusstsein trifft auf beide Störungen gleichermaßen zu.
+- E) Die dissoziale Persönlichkeitsstörung ist durch Rückzug und soziale Vermeidung charakterisiert.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Merkmale gehören zur dissozialen Persönlichkeitsstörung?
+
+1. Sehr niedrige Frustrationstoleranz
+2. Sozial überangepasstes Verhalten
+3. Mangel an Schuldbewusstsein
+4. Extreme Angst, Beziehungen zu knüpfen
+
+- A) Nur die Aussagen 1 und 3 sind richtig ✅
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1 und 2 sind richtig
+- D) Nur die Aussagen 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Merkmale gehören zur dissozialen Persönlichkeitsstörung?
+
+1. Sehr niedrige Frustrationstoleranz
+2. Sozial überangepasstes Verhalten
+3. Mangel an Schuldbewusstsein
+4. Vermeidung unbekannter Aktivitäten oder Situationen
+5. Extreme Angst, Beziehungen zu knüpfen
+
+- A) Nur die Aussagen 1 und 3 sind richtig ✅
+- B) Nur die Aussagen 2 und 5 sind richtig
+- C) Nur die Aussagen 1, 2 und 3 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche Merkmale gehören zu der dissozialen Persönlichkeitsstörung?
+
+- A) Sehr niedrige Frustrationstoleranz ✅
+- B) Sozial überangepasstes Verhalten
+- C) Mangel an Schuldbewusstsein ✅
+- D) Vermeidung unbekannter Aktivitäten oder Situationen
+- E) Extreme Angst Beziehungen zu knüpfen
+
+*Lösung: A, C*
+
+
+---
+
+## Frage 21 — Zwangsstörung – Zwangshandlungen, Einsicht, Anspannung
+*Wissenskern: Häufigste Zwangshandlungen: Kontroll-, Wasch- und Zählrituale. Patienten haben Einsicht in die Sinnlosigkeit, können aber nicht aufhören. Unterdrückte Zwangshandlungen verstärken die Anspannung.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was gehört zu den häufigsten Zwangshandlungen bei der Zwangsstörung?
+
+- A) Flashbacks und Intrusionen
+- B) Kontrollrituale, Waschrituale und Zählzwänge ✅
+- C) Dissoziativer Stupor und Fugue
+- D) Panikattacken mit Herzrasen
+- E) Somatoforme Schmerzsymptome
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein Patient wäscht sich täglich über zwei Stunden die Hände. Er weiß, dass das unsinnig ist, kann aber nicht aufhören. Was trifft auf das Verhältnis von Einsicht und Anspannung bei Zwangsstörungen zu?
+
+- A) Patienten mit Zwangsstörungen haben keine Einsicht in die Sinnlosigkeit ihres Verhaltens.
+- B) Das Unterdrücken von Zwangshandlungen führt zu einer Reduktion der Anspannung.
+- C) Patienten haben grundsätzlich Einsicht in die Sinnlosigkeit der Zwänge, können diese aber dennoch nicht unterlassen; das Unterdrücken verstärkt die Anspannung. ✅
+- D) Zwangshandlungen sind angenehm und ichsynton; der Patient leidet nicht darunter.
+- E) Kontrollrituale sind nicht als Zwangshandlung einzustufen.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Zwangshandlungen und Zwangsstörungen sind richtig?
+
+1. Zu den häufigsten Zwangshandlungen zählen Kontrollrituale, Waschrituale und Zählzwänge.
+2. Obwohl Patienten die Sinnlosigkeit einsehen, können Zwangshandlungen nicht oder nur schwer unterlassen werden.
+3. Werden Zwangshandlungen unterdrückt, nimmt die Anspannung ab.
+4. In der Differenzialdiagnostik muss abgegrenzt werden, ob Symptome z. B. als Sorgen im Rahmen einer generalisierten Angststörung einzuordnen sind.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 1 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Zwangshandlungen sind richtig?
+
+1. Zu den häufigsten Zwangshandlungen zählen Kontrollrituale, Waschrituale und Zählzwänge.
+2. In der Differenzialdiagnostik muss abgegrenzt werden, ob die Symptome im Rahmen einer Zwangsstörung oder einer anderen Störung einzuordnen sind.
+3. Patienten leiden unter den Zwangsgedanken und -handlungen und werden in ihrer Leistungsfähigkeit behindert.
+4. Obwohl Patienten die Sinnlosigkeit einsehen, können Zwangshandlungen nicht oder nur schwer unterlassen werden.
+5. Werden Zwangshandlungen unterdrückt, verstärkt sich die Anspannung deutlich.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Zwangshandlungen sind richtig?
+
+1. Zu den häufigsten Zwangshandlungen zählen Kontrollrituale, Waschrituale und Zählzwänge.
+2. In der Differenzialdiagnostik muss darüber entschieden werden, ob die aktuellen Symptome im Rahmen einer Zwangsstörung oder im Rahmen einer anderen Störung einzuordnen sind. Dies kann der Fall sein, wenn Zwangssymptome zum Symptombild einer anderen Störung gehören oder wenn die Symptome zwar Zwangssymptomen ähneln, aber bei genauer Diagnostik anders einzuordnen sind, zum Beispiel als Sorgen im Rahmen einer generalisierten Angststörung.
+3. Die Patientinnen/Patienten leiden unter den Zwangsgedanken und Zwangshandlungen und werden in ihrer sozialen oder individuellen Leistungsfähigkeit behindert.
+4. Obwohl die Patientinnen/Patienten grundsätzlich einsehen, dass ihr Zwang und ihre daraus sich ergebenden Handlungen unsinnig sind, können sie nicht oder nur schwer unterlassen werden.
+5. Werden Zwangshandlungen unterdrückt, verstärkt sich die Anspannung deutlich.
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3, 4 und 5 sind richtig
+- D) Nur die Aussagen 2, 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 22 — Delir
+*Wissenskern: Ein Delir ist ein akutes organisch begründetes Syndrom, das Störungen des Bewusstseins und der Aufmerksamkeit, der Kognition und Wahrnehmung, des Schlaf-Wach-Rhythmus, der Psychomotorik und des Affekts umfassen kann – alle fünf Merkmalsbereiche können betroffen sein.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welcher Bereich ist beim Delir typischerweise gestört?
+
+- A) Langzeitgedächtnis für Kindheitserlebnisse
+- B) Sprachproduktion (Broca-Aphasie)
+- C) Bewusstsein und Aufmerksamkeit ✅
+- D) Motorische Koordination (Kleinhirnataxie)
+- E) Visuelle Raumwahrnehmung (Neglect)
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein 72-jähriger Patient wird nach einer Operation auf der Normalstation beobachtet. Er ist zeitlich desorientiert, schläft tagsüber und ist nachts wach und unruhig, greift nach nicht vorhandenen Gegenständen und ist kaum ansprechbar. Welche Aussage zur Einordnung dieses Zustandsbildes ist richtig?
+
+- A) Das Bild passt zur beginnenden Alzheimer-Demenz, da Desorientierung und Schlafstörungen typisch sind und postoperativ häufig auftreten.
+- B) Es handelt sich am ehesten um ein Delir, weil Bewusstseinsstörung, Umkehr des Schlaf-Wach-Rhythmus und Wahrnehmungsstörungen gleichzeitig als akutes Syndrom auftreten. ✅
+- C) Die Symptome sprechen für eine manische Episode, da Schlafstörung und psychomotorische Unruhe Kernsymptome der Manie sind.
+- D) Das Delir ist ausschließlich durch Bewusstseinsstörung definiert; Wahrnehmungsstörungen und Schlaf-Wach-Umkehr gehören nicht zum Bild.
+- E) Es liegt eine akute Belastungsreaktion vor, da postoperative Situationen starke psychische Stressoren darstellen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Symptomen des Delirs sind richtig?
+
+1. Störungen des Schlaf-Wach-Rhythmus, zum Beispiel nächtliche Unruhe mit Umkehr des Tag-Nacht-Rhythmus, können auftreten.
+2. Das Delir ist auf Bewusstseinsstörungen beschränkt; psychomotorische Auffälligkeiten und Affektstörungen gehören nicht zum Bild.
+3. Störungen der Kognition und der Wahrnehmung, wie Halluzinationen oder Illusionen, können im Delir vorkommen.
+4. Psychomotorische Störungen – sowohl Hyperaktivität als auch hypoaktive Formen – sind mögliche Symptome des Delirs.
+
+- A) Nur die Aussage 1 ist richtig
+- B) Nur die Aussagen 1 und 3 sind richtig
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Symptombereiche können beim Delir auftreten?
+
+1. Störungen der Psychomotorik (z. B. Agitiertheit oder hypoaktive Verlaufsform)
+2. Störungen des Schlaf-Wach-Rhythmus
+3. Störungen des Bewusstseins und der Aufmerksamkeit
+4. Störungen des Affekts (z. B. Angst, Reizbarkeit)
+5. Störungen der Kognition und Wahrnehmung (z. B. Halluzinationen, Desorientierung)
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Symptome können bei einem Delir auftreten?
+
+1. Störungen der Psychomotorik
+2. Störungen des Schlaf-Wach-Rhythmus
+3. Störungen des Bewusstseins und der Aufmerksamkeit
+4. Störung des Affekts
+5. Störung der Kognition und Wahrnehmung
+
+- A) Nur die Aussagen 1, 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 4 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig ✅
+
+*Lösung: E*
+
+
+---
+
+## Frage 23 — Somatoforme Störungen
+*Wissenskern: Zu den somatoformen Störungen gehören u. a. somatoforme autonome Funktionsstörungen (z. B. Da-Costa-Syndrom) und die Hypochondrie; bei der Behandlung kommen auch Psychopharmaka in Betracht; Entspannungsverfahren sind nicht kontraindiziert.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was versteht man unter dem Da-Costa-Syndrom?
+
+- A) Eine organisch bedingte Herzrhythmusstörung
+- B) Eine somatoforme autonome Funktionsstörung mit funktionellen Herzbeschwerden ✅
+- C) Eine Panikstörung mit ausschließlich kardialen Symptomen
+- D) Eine Hypochondrie mit fixierter Überzeugung einer Herzerkrankung
+- E) Eine dissoziative Störung mit Konversionssymptomen
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine 45-jährige Patientin berichtet seit Jahren von Herzklopfen, Brustenge und Erschöpfung, für die keine organische Ursache gefunden wurde. Sie ist überzeugt, herzkrank zu sein. Ihre Therapeutin schlägt progressiver Muskelrelaxation vor. Die Patientin lehnt ab – sie fürchtet, dabei auf ihre Körpersymptome aufmerksam zu werden, was die Beschwerden verschlimmern würde. Welche Aussage zu somatoformen Störungen und ihrer Behandlung ist richtig?
+
+- A) Entspannungsverfahren sind bei somatoformen Störungen kontraindiziert, da sie die Körperwahrnehmung intensivieren und Symptome verstärken.
+- B) Die Hypochondrie gehört nicht zu den somatoformen Störungen und ist daher hier differenzialdiagnostisch nicht relevant.
+- C) Entspannungsverfahren sind bei somatoformen Störungen grundsätzlich nicht kontraindiziert; ihre Ablehnung durch die Patientin beruht auf einem verbreiteten Missverständnis. ✅
+- D) Der Einsatz von Psychopharmaka ist bei somatoformen Störungen grundsätzlich nicht indiziert, da es sich um ein rein psychologisches Geschehen handelt.
+- E) Das Da-Costa-Syndrom beschreibt eine organisch gesicherte Herzerkrankung und ist damit keine somatoforme Störung.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu somatoformen Störungen sind richtig?
+
+1. Das Da-Costa-Syndrom (Herzneurose) ist einer der somatoformen autonomen Funktionsstörungen zuzuordnen.
+2. Entspannungsverfahren sind bei somatoformen Störungen kontraindiziert, weil sie eine Fokussierung und Verstärkung der Schmerzwahrnehmung bewirken.
+3. Die Hypochondrie zählt gemäß ICD-10 zu den somatoformen Störungen (F45.2).
+4. Der Einsatz von Psychopharmaka kann bei somatoformen Störungen therapeutisch sinnvoll sein.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu somatoformen Störungen treffen zu?
+
+1. Das Da-Costa-Syndrom (Herzneurose) gehört zu den somatoformen autonomen Funktionsstörungen.
+2. Entspannungsverfahren sind kontraindiziert, da sie eine Fokussierung und damit eine Verstärkung der Schmerzwahrnehmung bewirken.
+3. Die Hypochondrie gehört nicht zu den somatoformen Störungen.
+4. Die dysmorphophische Störung (körperdysmorphe Störung) wird zu den somatoformen Störungen gezählt.
+5. Der Einsatz von Psychopharmaka kommt bei somatoformen Störungen in Betracht.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 5 sind richtig
+- C) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- D) Nur die Aussagen 1, 3 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: C*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche folgenden Aussagen in Bezug auf die somatoformen Störungen sind zutreffend? Wählen Sie zwei Antworten!
+
+- A) Das Da-Costa-Syndrom (Herzneurose) gehört zu den somatoformen autonomen Funktionsstörungen. ✅
+- B) Entspannungsverfahren sind kontraindiziert, da sie eine Fokussierung und damit eine Verstärkung der Schmerzwahrnehmung bewirken.
+- C) Die Hypochondrie gehört nicht zu den somatoformen Störungen.
+- D) Die dysmorphophische Störung, auch körperdysmorphe Störung, wird zu den Essstörungen gezählt.
+- E) Der Einsatz von Psychopharmaka kommt bei somatoformen Störungen in Betracht. ✅
+
+*Lösung: A, E*
+
+
+---
+
+## Frage 24 — Heilpraktikergesetz – geregelte Verbote und Pflichten
+*Wissenskern: Das Heilpraktikergesetz (HeilprG) regelt das Verbot der Ausübung der Heilkunde im Umherziehen (§ 4 Abs. 2). Geburtshilfeverbot, Meldepflichten, Zahnbehandlungsverbot und Heilversprechen-Verbot sind in anderen Gesetzen oder Vorschriften verankert, nicht im HeilprG selbst.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Welches Verbot ist ausdrücklich im Heilpraktikergesetz (HeilprG) geregelt?
+
+- A) Das Verbot, Geburtshilfe zu leisten
+- B) Das Verbot von Heilversprechen
+- C) Das Verbot der Ausübung der Heilkunde im Umherziehen ✅
+- D) Das Verbot zur Untersuchung von Zahnkrankheiten
+- E) Die Verpflichtung zur Hilfe im medizinischen Notfall
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine Heilpraktikerin für Psychotherapie überlegt, ob sie als fahrende Therapeutin in einem Wohnmobil von Stadt zu Stadt reisen und Patienten an wechselnden Orten behandeln darf. Welche Aussage ist korrekt?
+
+- A) Dies ist erlaubt, da das Heilpraktikergesetz nur für stationäre Einrichtungen gilt.
+- B) Das Heilpraktikergesetz verbietet die Ausübung der Heilkunde im Umherziehen; eine Behandlung an wechselnden Orten ohne feste Praxis ist daher unzulässig. ✅
+- C) Das Geburtshilfeverbot des Heilpraktikergesetzes schließt indirekt auch wandernde Behandlungspraxen aus.
+- D) Das Heilversprechen-Verbot im Heilpraktikergesetz ist das maßgebliche Hindernis für das Konzept der fahren Therapeutin.
+- E) Eine Genehmigung des zuständigen Gesundheitsamts ermöglicht die Ausübung der Heilkunde im Umherziehen.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Regelungen sind im Heilpraktikergesetz (HeilprG) selbst enthalten?
+
+1. Das Verbot zur Ausübung der Heilkunde im Umherziehen
+2. Das Verbot, Geburtshilfe – außer im Notfall – zu leisten
+3. Das Verbot von Heilversprechen zu machen
+4. Die Verpflichtung zur Hilfe im medizinischen Notfall
+
+- A) Nur die Aussage 1 ist richtig ✅
+- B) Nur die Aussagen 1 und 2 sind richtig
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 2 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Im Heilpraktikergesetz ist geregelt:
+
+1. das Verbot, Geburtshilfe – außer im Notfall – zu leisten
+2. die Verpflichtung zur Hilfe im medizinischen Notfall
+3. das Verbot zur Untersuchung und Behandlung von Mund-, Zahn- und Kieferkrankheiten
+4. das Verbot, Heilversprechen zu geben
+5. das Verbot zur Ausübung der Heilkunde im Umherziehen
+
+- A) Nur die Aussage 5 ist richtig ✅
+- B) Nur die Aussagen 1 und 5 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Im Heilpraktikergesetz ist geregelt:
+
+1. das Verbot, Geburtshilfe – außer im Notfall – zu leisten
+2. die Verpflichtung zur Hilfe im medizinischen Notfall
+3. das Verbot zur Untersuchung und Behandlung von Mund-, Zahn und Kieferkrankheiten
+4. das Verbot von Heilversprechen zu geben
+5. das Verbot zur Ausübung der Heilkunde im Umherziehen
+
+- A) Nur die Aussage 5 ist richtig ✅
+- B) Nur die Aussagen 2 und 4 sind richtig
+- C) Nur die Aussagen 1, 3 und 5 sind richtig
+- D) Nur die Aussagen 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+
+---
+
+## Frage 25 — Soziale Phobie
+*Wissenskern: Typisch für die soziale Phobie sind negative Kognitionen in sozialen oder Leistungssituationen (Angst vor Bloßstellung, Blamage, Beurteilung durch andere), verbunden mit Vermeidungsverhalten – im Unterschied zur Agoraphobie (Angst vor öffentlichen Räumen) oder zur Zwangsstörung (Zwangsgedanken ohne sozialen Fokus).*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was ist das Kernsymptom der sozialen Phobie?
+
+- A) Angst vor öffentlichen Plätzen und Menschenmengen
+- B) Wiederkehrende Zwangsgedanken, die als aufdringlich erlebt werden
+- C) Anhaltende Angst vor sozialen Situationen, in denen eine Beurteilung durch andere möglich ist ✅
+- D) Angst vor einer schweren körperlichen Erkrankung trotz ärztlicher Entwarnung
+- E) Unerwartete Panikattacken ohne erkennbaren situativen Auslöser
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine 28-jährige Frau berichtet, dass sie Gruppenveranstaltungen meidet, weil sie Angst hat, vor anderen zu sprechen und sich zu blamieren. Öffentliche Verkehrsmittel nimmt sie hingegen problemlos. Im Supermarkt kauft sie ohne Angst ein, solange sie anonym bleibt. Was unterscheidet die soziale Phobie am treffendsten von der Agoraphobie?
+
+- A) Soziale Phobie und Agoraphobie sind synonyme Begriffe für dieselbe Störung; der Unterschied liegt nur im therapeutischen Ansatz.
+- B) Bei der Agoraphobie steht die Angst vor sozialer Bewertung und Blamage im Mittelpunkt, bei der sozialen Phobie die Angst vor dem Verlassen der sicheren häuslichen Umgebung.
+- C) Bei der sozialen Phobie steht die Angst vor negativer Bewertung durch andere in sozialen Situationen im Vordergrund; die Agoraphobie betrifft die Angst vor öffentlichen Räumen oder Situationen, aus denen eine Flucht schwer möglich wäre. ✅
+- D) Die Agoraphobie tritt ausschließlich in Verbindung mit einer Panikstörung auf und kann daher nie isoliert diagnostiziert werden.
+- E) Die soziale Phobie wird ausschließlich durch traumatische soziale Erlebnisse ausgelöst, während die Agoraphobie ohne erkennbaren Auslöser entsteht.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur sozialen Phobie sind richtig?
+
+1. Typische negative Kognitionen der sozialen Phobie drehen sich um Blamage, Beurteilung durch andere und Versagen in sozialen Situationen.
+2. Die soziale Phobie und die Agoraphobie sind nicht sicher zu unterscheiden, da beide durch Menschenmengen ausgelöst werden.
+3. Betroffene vermeiden soziale Situationen oder ertragen diese mit starker Angst.
+4. Gedanken wie „Gleich lachen die mich aus” oder „Ich werde dastehen wie ein Trottel” sind charakteristisch für die Zwangsstörung, nicht für die soziale Phobie.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig ✅
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Eine 23-jährige Frau berichtet von wiederkehrenden Gedanken: „Hoffentlich blamiere ich mich nicht.”, „Was denken die anderen über mich?”, „Gleich lachen die mich aus.”, „Ich werde dastehen wie ein Trottel.” Sie meidet Situationen, in denen andere sie beobachten könnten. Welche Aussagen zur wahrscheinlichsten Diagnose treffen zu?
+
+1. Die geschilderten Kognitionen sind typisch für eine soziale Phobie.
+2. Die Angst vor Blamage und negativer Bewertung durch andere ist ein zentrales Merkmal der sozialen Phobie.
+3. Das Störungsbild entspricht am ehesten einer Agoraphobie, da die Patientin öffentliche Situationen meidet.
+4. Vermeidungsverhalten ist charakteristisch für phobische Störungen und findet sich auch bei der sozialen Phobie.
+5. Die geschilderten Gedanken sind typisch für Zwangsgedanken im Rahmen einer Zwangsstörung.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 2 und 4 sind richtig ✅
+- C) Nur die Aussagen 3 und 5 sind richtig
+- D) Nur die Aussagen 1, 2, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Einfachauswahl )*
+
+Eine 23-jährige Frau äußert Ihnen gegenüber, dass sie immer wieder nachgenannte Gedanken habe: • „Hoffentlich blamiere ich mich nicht.“ • „Was denken die anderen über mich?“ • „Gleich lachen die mich aus.“ • „Was sage ich bloß, wenn ich meine Kollegen treffe?“ • „Ich werde dastehen wie ein Trottel.“ • „Das halte ich nicht aus, ich muss hier raus.“ Welche der folgenden psychischen Störungen liegt hier am wahrscheinlichsten vor?
+
+- A) Hebephrene Schizophrenie
+- B) Soziale Phobie ✅
+- C) Agoraphobie
+- D) Zwangsstörungen
+- E) Posttraumatische Belastungsstörung
+
+*Lösung: B*
+
+
+---
+
+## Frage 26 — Demenzielles Syndrom
+*Wissenskern: Zum demenziellen Syndrom gehören Aphasie, Apraxie, Agnosie und Störungen des Affekts, Antriebs oder Sozialverhaltens. Die Diagnose ist nicht an ein Mindestalter gebunden, kann aber laut ICD-10 erst nach mindestens 6 Monaten Symptomdauer gestellt werden. Pseudodemenz ist keine echte Demenz, sondern ein depressiv bedingtes Störungsbild.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was versteht man unter Apraxie?
+
+- A) Störung der Sprachproduktion
+- B) Störung des Erkennens von Gegenständen trotz intakter Sinneswahrnehmung
+- C) Störung willkürlicher, zielgerichteter Bewegungen trotz intakter Motorik ✅
+- D) Störung des Kurzzeitgedächtnisses
+- E) Störung der Stimmungsregulation
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Ein 58-jähriger Patient kann sich kaum noch an kürzliche Ereignisse erinnern, zeigt emotionale Gleichgültigkeit gegenüber Angehörigen und ist unfähig, alltägliche Handlungen wie Anziehen oder Kochen korrekt auszuführen, obwohl seine Muskelkraft normal ist. Er wirkt emotional abgestumpft. Welche Aussage zum demenziellen Syndrom ist in diesem Zusammenhang richtig?
+
+- A) Die Diagnose einer Demenz kann laut ICD-10 erst ab dem 65. Lebensjahr gestellt werden; bei diesem Patienten kommt die Diagnose daher nicht infrage.
+- B) Die geschilderten Symptome – Gedächtnisabbau, Apraxie und Affektstörung – sind typisch für ein demenzielles Syndrom; Störungen des Affekts und Antriebs gehören zum Syndrom. ✅
+- C) Apraxie und Affektstörungen sprechen gegen eine Demenz; sie weisen auf eine primäre Persönlichkeitsstörung hin.
+- D) Beim demenziellen Syndrom sind ausschließlich Gedächtnisfunktionen betroffen; Verhaltens- und Affektveränderungen entstehen erst durch sekundäre psychische Reaktionen.
+- E) Eine Pseudodemenz ist klinisch nicht von einer echten Demenz zu unterscheiden und wird daher ebenfalls als demenzielles Syndrom klassifiziert.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zum demenziellen Syndrom sind richtig?
+
+1. Apraxie – die Störung willkürlicher, zielgerichteter Bewegungen bei intakter Motorik – gehört zum klinischen Bild der Demenz.
+2. Störungen des Affekts, des Antriebs oder des Sozialverhaltens sind Bestandteile des demenziellen Syndroms.
+3. Die Diagnose Demenz kann gemäß ICD-10 erst nach dem 65. Lebensjahr gestellt werden.
+4. Die Pseudodemenz stellt ein demenzielles Syndrom im eigentlichen Sinne dar und wird daher als Unterform klassifiziert.
+
+- A) Nur die Aussagen 1 und 2 sind richtig ✅
+- B) Nur die Aussagen 1 und 3 sind richtig
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Was trifft auf das demenzielle Syndrom zu?
+
+1. Bei der Pseudodemenz handelt es sich um ein demenzielles Syndrom.
+2. Alogie und Apraxie gehören zum klinischen Bild.
+3. Zum Syndrom gehören Störungen des Affekts, des Antriebs oder des Sozialverhaltens.
+4. Die Diagnose kann laut ICD-10 erst mit dem Erreichen des 65. Lebensjahres gestellt werden.
+5. Zur Diagnosestellung müssen die Symptome über mindestens 3 Monate vorliegen.
+
+- A) Nur die Aussagen 1 und 3 sind richtig
+- B) Nur die Aussagen 2 und 3 sind richtig ✅
+- C) Nur die Aussagen 1, 2 und 4 sind richtig
+- D) Nur die Aussagen 3, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Was trifft auf das demenzielle Syndrom zu? Wählen Sie zwei Antworten!
+
+- A) Bei der Pseudodemenz handelt es sich um ein demenzielles Syndrom
+- B) Alogie und Apraxie gehören zum klinischen Bild. ✅
+- C) Zum Syndrom gehören Störungen des Affekts, des Antriebs oder des Sozialverhaltens. ✅
+- D) Die Diagnose kann, laut ICD-10, erst mit dem Erreichen des 65. Lebensjahres gestellt werden.
+- E) Zur Diagnosestellung müssen die Symptome über mindestens 3 Monate vorliegen.
+
+*Lösung: B, C*
+
+
+---
+
+## Frage 27 — Praxisgründung – rechtliche Pflichten
+*Wissenskern: Bei der Praxisgründung bestehen folgende Pflichten: Anmeldung bei der unteren Gesundheitsbehörde (Gesundheitsamt), feste Praxisadresse, und bei Angestellten eine jährliche Unterweisung über Arbeitsgefahren (Betreiberverantwortung). Die Finanzamtanmeldung ist sofort (nicht erst nach einem Jahr) erforderlich; die Anmeldung bei der Berufsgenossenschaft ist bei Angestellten Pflicht, nicht freiwillig.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Was ist bei der Gründung einer Heilpraktikerpraxis zwingend erforderlich?
+
+- A) Eine Mitgliedschaft in einer Ärztekammer
+- B) Die Anmeldung bei der unteren Gesundheitsbehörde (Gesundheitsamt) ✅
+- C) Eine Genehmigung durch das Bundesgesundheitsministerium
+- D) Ein abgeschlossener Mietvertrag für Praxisräume über mindestens 3 Jahre
+- E) Die Anmeldung bei der Kassenärztlichen Vereinigung
+
+*Lösung: B*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine frisch zugelassene Heilpraktikerin für Psychotherapie möchte ihre Praxis eröffnen und stellt Fragen zu den rechtlichen Pflichten. Sie fragt insbesondere, ob sie das Finanzamt erst nach einem Jahr informieren muss, und ob die Anmeldung bei der Berufsgenossenschaft für ihre angestellte Sekretärin freiwillig ist. Welche Aussage ist richtig?
+
+- A) Die Finanzamtanmeldung kann bis zu einem Jahr aufgeschoben werden, da im ersten Jahr keine Steuern anfallen; die Berufsgenossenschaft ist für Angestellte freiwillig.
+- B) Weder Finanzamt noch Berufsgenossenschaft müssen bei Praxisgründung angemeldet werden; dies übernimmt das Gesundheitsamt automatisch.
+- C) Die Anmeldung beim Finanzamt ist sofort bei Tätigkeitsbeginn erforderlich; bei einer Angestellten ist die Anmeldung bei der Berufsgenossenschaft Pflicht, nicht freiwillig. ✅
+- D) Das Finanzamt ist erst nach Ablauf des ersten Steuerjahres zu informieren; die Berufsgenossenschaft ist verpflichtend, da sie den Unfallversicherungsschutz garantiert.
+- E) Die Finanzamtanmeldung ist optional, wenn der Jahresumsatz unter der Kleinunternehmergrenze bleibt; die Berufsgenossenschaft ist immer freiwillig.
+
+*Lösung: C*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zur Praxisgründung einer Heilpraktikerin für Psychotherapie sind richtig?
+
+1. Die Praxisgründung muss bei der zuständigen unteren Gesundheitsbehörde (Gesundheitsamt) angemeldet werden.
+2. Eine Anmeldung beim Finanzamt ist erst nach einem Jahr erforderlich, weil vorher keine Steuern anfallen.
+3. Für den Praxissitz ist eine feste Adresse erforderlich.
+4. Bei einer oder mehreren Angestellten besteht im Rahmen der Betreiberverantwortung eine Pflicht zur mindestens jährlichen Unterweisung über Gefahren am Arbeitsplatz.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1 und 3 sind richtig
+- C) Nur die Aussagen 2 und 4 sind richtig
+- D) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zur Praxisgründung sind richtig?
+
+1. Sie müssen die Praxisgründung bei der zuständigen unteren Gesundheitsbehörde (Gesundheitsamt) anmelden.
+2. Eine Anmeldung beim zuständigen Finanzamt ist erst nach einem Jahr erforderlich, weil vorher keine Steuern zu entrichten sind.
+3. Sollten Sie eine oder mehrere Angestellte haben, so können Sie diese freiwillig bei der zuständigen Berufsgenossenschaft anmelden.
+4. Für Ihren Praxissitz müssen Sie eine feste Adresse haben.
+5. Sollten Sie eine oder mehrere Angestellte haben, so müssen Sie diese im Rahmen der Betreiberverantwortung mindestens einmal jährlich und bei Anlass über die bei der Arbeit bestehenden Gefahren und die eingeleiteten Verhütungsmaßnahmen aufklären.
+
+- A) Nur die Aussagen 2 und 3 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+**⬛ Schwarz**  *( Aussagenkombination )*
+
+Welche Aussagen zur Praxisgründung sind richtig?
+
+1. Sie müssen die Praxisgründung bei der zuständigen unteren Gesundheitsbehörde (Gesundheitsamt) anmelden.
+2. Eine Anmeldung beim zuständigen Finanzamt ist erst nach einem Jahr erforderlich, weil vorher keine Steuern zu entrichten sind.
+3. Sollten Sie eine oder mehrere Angestellt haben, so können Sie diese freiwillig bei der zuständigen Berufsgenossenschaft anmelden.
+4. Für Ihren Praxissitz müssen Sie eine feste Adresse haben.
+5. Sollten Sie eine oder mehrere Angestellte haben, so müssen Sie diese im Rahmen der Betreiberverantwortung mindestens einmal jährlich und bei Anlass über die bei der Arbeit in Ihrer Praxis bestehenden Gefahren und der durch Sie eingeleiteten Verhütungsmaßnahmen aufklären.
+
+- A) Nur die Aussagen 2 und 3 ist richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig
+- C) Nur die Aussagen 1, 2, 4 und 5 sind richtig
+- D) Nur die Aussagen 1, 4 und 5 sind richtig ✅
+- E) Alle Aussagen sind richtig
+
+*Lösung: D*
+
+
+---
+
+## Frage 28 — Psychotherapiemethoden im Vergleich
+*Wissenskern: In der systemischen Therapie werden innerfamiliäre Beziehungsmuster geklärt; vor jeder Psychotherapie ist eine somatische Abklärung sinnvoll. Die kognitive Therapie basiert nicht auf Flooding (das ist Exposition); bei der Verhaltensanalyse stehen aktuelle auslösende und aufrechterhaltende Bedingungen im Vordergrund, nicht frühkindliche Entwicklungsschritte; Verhaltens- und Gedankenprotokolle gehören zur KVT, nicht zur tiefenpsychologisch fundierten Therapie.*
+
+**🟨 Gelb**  *( Einfachauswahl )*
+
+Worauf liegt der Fokus der systemischen Therapie?
+
+- A) Auf unbewussten Konflikten aus der frühen Kindheit
+- B) Auf dem Aufbau neuer Verhaltensweisen durch Verstärkerpläne
+- C) Auf den Beziehungsmustern und Interaktionen innerhalb des sozialen Systems (z. B. Familie) ✅
+- D) Auf der Veränderung dysfunktionaler Gedanken durch kognitive Umstrukturierung
+- E) Auf der Exposition gegenüber angstauslösenden Reizen
+
+*Lösung: C*
+
+**🟩 Grün**  *( Einfachauswahl )*
+
+Eine angehende Therapeutin lernt verschiedene Psychotherapieformen. Ihr Supervisor fragt sie, was den Schwerpunkt der Verhaltensanalyse von dem der Tiefenpsychologie unterscheidet. Welche Aussage ist korrekt?
+
+- A) Die Verhaltensanalyse untersucht frühkindliche Entwicklungsschritte; die Tiefenpsychologie analysiert aktuelle Verhaltensmuster.
+- B) Bei der Verhaltensanalyse stehen aktuelle auslösende und aufrechterhaltende Bedingungen im Vordergrund; in der tiefenpsychologisch fundierten Therapie liegt der Schwerpunkt auf unbewussten Konflikten und frühen Beziehungserfahrungen. ✅
+- C) Verhaltens- und Gedankenprotokolle sind ein Kernwerkzeug der tiefenpsychologisch fundierten Therapie; die Verhaltensanalyse verzichtet auf solche Protokolle.
+- D) Die kognitive Therapie basiert auf den Prinzipien des Floodings; die Verhaltensanalyse hingegen kommt ohne Expositionselemente aus.
+- E) In der Verhaltensanalyse werden ausschließlich familiäre Interaktionsmuster analysiert, wie in der systemischen Therapie.
+
+*Lösung: B*
+
+**🟦 Blau**  *( Aussagenkombination )*
+
+Welche der folgenden Aussagen zu Psychotherapiemethoden sind richtig?
+
+1. In der systemischen Therapie werden die dysfunktionalen innerfamiliären Beziehungen des Patienten geklärt.
+2. Die kognitive Therapie fußt auf Erfahrungen aus dem Flooding.
+3. Vor Beginn einer Psychotherapie sollte eine somatische Abklärung der Symptomatik erfolgen.
+4. Verhaltens- und Gedankenprotokolle gehören zum Methodenspektrum der kognitiven Verhaltenstherapie, nicht der tiefenpsychologisch fundierten Therapie.
+
+- A) Nur die Aussagen 1 und 2 sind richtig
+- B) Nur die Aussagen 1, 3 und 4 sind richtig ✅
+- C) Nur die Aussagen 2 und 3 sind richtig
+- D) Nur die Aussagen 3 und 4 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: B*
+
+**🟫 Braun**  *( Aussagenkombination )*
+
+Welche Aussagen zu Psychotherapiemethoden sind richtig?
+
+1. In der systemischen Therapie werden die dysfunktionalen innerfamiliären Beziehungen des Patienten geklärt.
+2. Die kognitive Therapie fußt auf Erfahrungen aus dem Flooding.
+3. Bei einer Verhaltensanalyse stehen die frühkindlichen Entwicklungsschritte im Vordergrund.
+4. Vor Beginn einer Psychotherapie sollte eine somatische Abklärung der Symptomatik erfolgen.
+5. Verhaltens- und Gedankenprotokolle gehören zum Methodenspektrum der tiefenpsychologisch fundierten Therapie.
+
+- A) Nur die Aussagen 1 und 4 sind richtig ✅
+- B) Nur die Aussagen 2 und 3 sind richtig
+- C) Nur die Aussagen 1, 3 und 4 sind richtig
+- D) Nur die Aussagen 2, 4 und 5 sind richtig
+- E) Alle Aussagen sind richtig
+
+*Lösung: A*
+
+**⬛ Schwarz**  *( Mehrfachauswahl )*
+
+Welche Aussagen sind richtig? Wählen Sie zwei Antworten!
+
+- A) In der systemischen Therapie werden die dysfunktionalen innerfamiliären Beziehungen des Patienten geklärt. ✅
+- B) Die kognitive Therapie fußt auf Erfahrungen aus dem Flooding.
+- C) Bei einer Verhaltensanalyse stehen die frühkindlichen Entwicklungsschritte im Vordergrund.
+- D) Vor Beginn einer Psychotherapie sollte eine somatische Abklärung der Symptomatik erfolgen. ✅
+- E) Verhaltens- und Gedankenprotokolle gehören zum Methodenspektrum der tiefenpsychologisch fundierten Therapie.
+
+*Lösung: A, D*
