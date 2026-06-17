@@ -62,3 +62,13 @@ button { font: inherit; cursor: pointer; }
 .ex-foot { display: flex; align-items: center; gap: 10px; padding: 12px 0; }
 .ex-nav-ov { background: none; border: none; color: var(--muted); font-weight: 600; }
 .ex-next { flex: 1; }
+
+.ov { display: flex; flex-direction: column; flex: 1; min-height: 100vh; padding-top: 16px; }
+.ov-title { font-size: 22px; margin: 0 0 4px; }
+.ovgrid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin: 16px 0; }
+.ovc { aspect-ratio: 1; border: 1.5px solid var(--line); background: var(--card); border-radius: 12px;
+  font-size: 18px; font-weight: 600; color: var(--muted); }
+.ovc.done { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.ovc.cur { box-shadow: 0 0 0 2px var(--accent); color: var(--ink); }
+.ov-foot { display: flex; gap: 10px; margin-top: auto; padding: 12px 0; }
+.ov-foot .btn-dark { flex: 1; }

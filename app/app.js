@@ -141,7 +141,34 @@
 
   // Platzhalter bis Task 8/7 (in spaeteren Tasks ersetzt)
   function abgeben() { alert("Abgeben — kommt in Task 8"); }
-  function zeigeUebersicht() { alert("Übersicht — kommt in Task 7"); }
+  function zeigeUebersicht() {
+    leeren();
+    var p = state.pruefung;
+    var beantwortet = Object.keys(p.antworten).filter(function (nr) {
+      return (p.antworten[nr] || []).length > 0;
+    }).length;
+    var html = '<div class="ov">' +
+      '<h2 class="ov-title">Übersicht</h2>' +
+      '<p class="sub">' + beantwortet + ' von ' + L.ANZAHL_FRAGEN + ' beantwortet · tippen zum Springen</p>' +
+      '<div class="ovgrid">';
+    EXAM.fragen.forEach(function (frage, i) {
+      var done = (p.antworten[frage.nr] || []).length > 0 ? " done" : "";
+      var cur = i === p.index ? " cur" : "";
+      html += '<button class="ovc' + done + cur + '" data-jump="' + i + '">' + (i + 1) + '</button>';
+    });
+    html += '</div><div class="ov-foot">' +
+      '<button class="btn" id="ov-back">‹ Zurück</button>' +
+      '<button class="btn btn-dark" id="ov-submit">Prüfung abgeben</button></div></div>';
+    app.innerHTML = html;
+    app.querySelectorAll("[data-jump]").forEach(function (el) {
+      el.addEventListener("click", function () {
+        state.pruefung.index = parseInt(el.getAttribute("data-jump"), 10);
+        zeigeFrage();
+      });
+    });
+    app.querySelector("#ov-back").addEventListener("click", zeigeFrage);
+    app.querySelector("#ov-submit").addEventListener("click", abgeben);
+  }
 
   // Export fuer spaetere Tasks
   window.HPP_APP = {
