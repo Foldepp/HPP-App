@@ -469,6 +469,7 @@ Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
     var out = [];
     POOL_IDS.forEach(function (examId) {
       EXAMS[examId].fragen.forEach(function (f) {
+        if (!f.themenbereich) return; // A1: korrupte/unzugeordnete Prüfungen überspringen
         if (themaFilter && f.themenbereich !== themaFilter) return;
         out.push({ examId: examId, nr: f.nr, level: level, thema: f.themenbereich });
       });
