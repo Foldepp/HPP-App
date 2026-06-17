@@ -161,11 +161,13 @@
 
   function abgeben() {
     var p = state.pruefung;
+    if (!p || p.abgegeben) return; // schon abgegeben (z. B. Timer-Ablauf) -> kein Doppelschreiben
     var offen = L.ANZAHL_FRAGEN - Object.keys(p.antworten).filter(function (nr) {
       return (p.antworten[nr] || []).length > 0;
     }).length;
     if (offen > 0 && !window.confirm(offen + " Frage(n) noch offen. Wirklich abgeben?")) return;
 
+    p.abgegeben = true;
     if (state.timerId) { clearInterval(state.timerId); state.timerId = null; }
     var richtig = zaehleRichtige();
     var bestanden = L.bestanden(richtig);
