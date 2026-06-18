@@ -142,3 +142,17 @@ button { font: inherit; cursor: pointer; }
 .th-due { display: block; color: var(--accent); font-weight: 700; font-size: 12px; }
 .th-due.zero { color: var(--muted); font-weight: 600; }
 .th-q { display: block; color: var(--muted); font-size: 11px; }
+
+/* Paywall / Freischalten */
+.guertel.paywall { cursor: pointer; }
+.guertel.paywall .lock { margin-left: auto; font-size: 18px; }
+.pay { display: flex; flex-direction: column; flex: 1; min-height: 100vh; padding-top: 8px; }
+.pay-lead { font-size: 15px; line-height: 1.5; margin: 16px 0 18px; }
+.pay-plans { display: flex; gap: 12px; margin-bottom: 20px; }
+.pay-plan { flex: 1; background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 16px 14px; text-align: center; }
+.pay-price { font-size: 22px; font-weight: 800; }
+.pay-price span { font-size: 13px; font-weight: 600; color: var(--muted); }
+.pay-note { font-size: 12px; color: var(--muted); margin-top: 4px; }
+.pay-cta { width: 100%; margin-bottom: 10px; }
+.pay-demo { font-size: 12px; color: var(--muted); text-align: center; margin: 0 0 18px; }
+.pay #pay-back { margin-top: auto; }
