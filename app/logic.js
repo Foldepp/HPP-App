@@ -5,6 +5,7 @@
   var ANZAHL_FRAGEN = 28;
   var BESTEHENSGRENZE = 21;
   var GRATIS_GUERTEL = ["gelb", "gruen"];
+  var BEZAHL_GUERTEL = GUERTEL.filter(function (g) { return GRATIS_GUERTEL.indexOf(g) < 0; });
 
   function istRichtig(gewaehlt, loesung) {
     if (gewaehlt.length !== loesung.length) return false;
@@ -26,7 +27,7 @@
   }
 
   function istBezahlLevel(guertel) {
-    return GUERTEL.indexOf(guertel) >= 0 && !istGratisLevel(guertel);
+    return BEZAHL_GUERTEL.indexOf(guertel) >= 0;
   }
 
   function levelStatus(guertel, hoechster, hatZugang) {

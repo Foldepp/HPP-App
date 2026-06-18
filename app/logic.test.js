@@ -121,4 +121,6 @@ test("levelStatus: freigeschaltetes Bezahllevel ohne Zugang -> bezahl-gesperrt",
 test("levelStatus: Gratislevel ist immer frei (Zugang egal)", () => {
   assert.strictEqual(L.levelStatus("gelb", "gelb", false), "frei");
   assert.strictEqual(L.levelStatus("gruen", "gruen", false), "frei");
+  assert.strictEqual(L.levelStatus("gelb", "gelb", true), "frei");
+  assert.strictEqual(L.levelStatus("gruen", "gruen", true), "frei");
 });

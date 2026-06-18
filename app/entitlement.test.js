@@ -41,3 +41,10 @@ test("sperre -> setzt aktiv zurück", () => {
   E.sperre(store);
   assert.deepStrictEqual(E.lade(store), { aktiv: false });
 });
+
+test("speichere/lade: Round-Trip erhält zusätzliche Felder", () => {
+  var store = stubStore();
+  var ent = { aktiv: true, typ: "lifetime" };
+  E.speichere(store, ent);
+  assert.deepStrictEqual(E.lade(store), ent);
+});

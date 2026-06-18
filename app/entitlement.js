@@ -13,6 +13,7 @@
     } catch (e) {}
     return leererStand();
   }
+  // speichere ist bewusst öffentlich (Tests/Dev); Plan 3 ersetzt den Schreibpfad über entsperreStub.
   function speichere(storage, ent) {
     try { storage.setItem(KEY, JSON.stringify(ent)); } catch (e) {}
   }
