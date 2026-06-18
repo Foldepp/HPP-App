@@ -34,6 +34,9 @@
   function L_srsLade() { return window.HPP_SRS.lade(window.localStorage); }
   function srsSpeichern() { window.HPP_SRS.speichere(window.localStorage, srs); }
 
+  var ent = window.HPP_ENT.lade(window.localStorage);
+  function hatZugang() { return window.HPP_ENT.hatZugang(ent); }
+
   var SPEICHER = "hpp_progress";
   function ladeFortschritt() {
     try {
