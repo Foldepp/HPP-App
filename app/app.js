@@ -127,6 +127,7 @@
   function zeigePaywall(guertel) {
     leeren();
     state.session = null;
+    state.pruefung = null;
     var html = '<div class="pay">' +
       '<div class="ov-top">' + homeButtonHtml(guertel) + '<h2 class="ov-title">Vollzugang freischalten</h2></div>' +
       '<p class="pay-lead">Level 1–2 (Gelb &amp; Grün) sind und bleiben kostenlos. ' +
