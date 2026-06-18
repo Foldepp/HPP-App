@@ -55,9 +55,14 @@ Die internen Schlüssel bleiben `gelb/gruen/blau/braun/schwarz`; der Schnitt lie
 
 - **Identität = E-Mail**, die Stripe beim Checkout ohnehin abfragt. Kein Passwort, kein separater
   Registrierungsschritt.
-- **Neues Gerät:** „Zugang wiederherstellen" → E-Mail eingeben → Bestätigungslink/Code per Mail →
-  Stufe entsperrt.
+- **Neues Gerät:** „Zugang wiederherstellen" → E-Mail eingeben → **Magic Link** per Mail → Klick
+  entsperrt das Gerät. (Entschieden: Magic Link statt Zahlencode.)
 - **Abo-Status** wird serverseitig geprüft (aktiv / abgelaufen / gekündigt). Lifetime gilt dauerhaft.
+
+**Verhalten bei Ablauf/Kündigung des Abos:** Die App fällt **auf den Stand vor dem Abo zurück** —
+also auf das Gratis-Tier (Gelb/Grün, kein Prüfungsmodus). Die Bezahlstufen werden wieder gesperrt.
+Der **Lernfortschritt bleibt erhalten** (nicht gelöscht), damit ein erneutes Abo den Zugang sofort
+wiederherstellt. Lifetime ist davon nicht betroffen.
 
 ## 6. Architektur (bleibt auf Vercel)
 
@@ -65,7 +70,9 @@ Die App bleibt im Kern eine statische Vanilla-JS-App. Neu hinzu kommt eine **min
 auf Vercel**:
 
 - **Vercel Serverless Functions** für die API-Endpunkte.
-- **Vercel KV oder Postgres** als Entitlement-Speicher (`E-Mail → Status: aktiv-bis | lifetime`).
+- **Postgres (Neon über Vercel)** als Entitlement-Speicher (`E-Mail → Status: aktiv-bis | lifetime`).
+  Bewusst relational statt Key-Value, weil Entitlements zahlungsnahe Datensätze sind, die man
+  abfragen/abgleichen können muss (aktive Abos, Stripe-Abgleich, Rückerstattungen/Disputes).
 - **Stripe-Webhook-Endpoint:** empfängt Zahlungs-/Abo-Events und schreibt/aktualisiert das
   Entitlement.
 - **Entitlement-Endpoint:** die App fragt beim Start bzw. nach Login „Darf diese E-Mail Level 3–5?".
@@ -106,9 +113,14 @@ Diese Spec baut die Technik. Vor dem kommerziellen Launch müssen parallel erste
   einschränken — vor Go-Live zu klären (ggf. Fachanwalt). Notfallplan: nur die Übersetzungs-Stufen
   verkaufen, Schwarz reduziert/als Referenz.
 
-## 10. Offene Punkte für die Implementierungs-Planung
+## 10. Entschieden / offen für die Implementierungs-Planung
 
-- Wahl Vercel KV vs. Postgres für den Entitlement-Speicher.
+**Entschieden:**
+- Entitlement-Speicher: **Postgres (Neon über Vercel)**.
+- Geräte-Wiederherstellung: **Magic Link** (kein Zahlencode).
+- Abo-Ablauf: **Rückfall auf den Stand vor dem Abo** (Gratis-Tier), Fortschritt bleibt erhalten.
+
+**Noch offen (in der Plan-Phase zu klären):**
 - Konkreter Stripe-Produkt-/Preis-Aufbau (ein Produkt mit zwei Preisen: Abo + Einmalzahlung).
-- Mechanik des Bestätigungslinks (Magic Link vs. 6-stelliger Code) für die Geräte-Wiederherstellung.
-- Verhalten bei abgelaufenem Abo im UI (Hinweis + Reaktivierung).
+- E-Mail-Versand-Dienst für den Magic Link (z. B. Resend / Postmark) — CSP-/Vercel-kompatibel.
+- UI-Hinweis bei abgelaufenem Abo inkl. Reaktivierungs-Pfad.
