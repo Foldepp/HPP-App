@@ -21,10 +21,12 @@ Erzeuge je Frage 5 Stufen zum selben Wissenskern (NICHT die Originalfrage kürze
 - "gelb" (Einstieg): Einfachauswahl, 1 richtige aus 5. Prüft den Kern als Grundwissen. Distraktoren = echte, aber hier falsche Fachbegriffe.
 - "gruen": Einfachauswahl, 5 Optionen, wobei die Optionen ganze AUSSAGEN sind. MUSS einen Unterscheidungs- oder Anwendungs-Dreh haben (zwei ähnliche Konzepte abgrenzen ODER auf einen kurzen Mini-Fall anwenden). Darf NIE nur dieselbe Tatsache wie "gelb" abfragen. Distraktoren = plausible Denkfehler/Halbwahrheiten.
 - "blau": Aussagenkombination, 4 Aussagen, 5 Kombinations-Optionen (A–E). Fast Prüfungsniveau, subtile Distraktoren, volle Fachsprache.
-- "braun": Volles Prüfungsformat (bis 5 Aussagen / 5 Kombinationen), neu formuliert, prüfungsecht, nur minimal weniger Fallstricke als das Original.
+- "braun": Volles Prüfungsformat (bis 5 Aussagen / 5 Kombinationen), neu formuliert, prüfungsecht, nur minimal weniger Fallstricke als das Original. Braun darf inhaltlich NICHT mit der schwarz-Stufe übereinstimmen — eigene Aussagen/Formulierungen, NICHT das Original mit Mini-Änderung (deutlich unter 0,85 Ähnlichkeit; build_data.py bricht sonst ab).
 - "schwarz": ORIGINALFRAGE unverändert — typ, stamm, aussagen, optionen, loesung 1:1 aus der Quelle kopieren. Offensichtliche Extraktions-Artefakte in einer Option sauber abschneiden.
 
 KORREKTHEIT: Jede Stufe hat genau eine eindeutig korrekte Lösung (Feld "loesung" = Liste von Buchstaben). Keine erfundenen medizinischen Fakten.
+
+SCOPE (wichtig): Schreibe AUSSCHLIESSLICH deine zugewiesenen Fragen in deine Teil-Datei _belt_part_<N>.json. Führe KEINEN Merge aus, ändere NICHT daten/index.json, starte KEINE Build-Skripte — das macht der Hauptchat zentral. (Verstoß dagegen hat schon doppelte/kontaminierte Merges verursacht.)
 
 JSON-HINWEIS: Verwende in Texten KEINE geraden doppelten Anführungszeichen ("). Nutze typografische „ und ", sonst bricht das JSON.
 
@@ -51,16 +53,39 @@ python3 daten/build_exam.py "<PID>" "<Titel, z.B. März 2025>"
 # Ausgabe muss enden mit: Probleme: KEINE ...
 ```
 
-## Schritt 3 — Manifest + Stichprobe
+Hinweis: `build_exam.py` prüft schwarz==Original und gruen≠gelb, aber NICHT die Cross-Prüfungs-Dubletten und braun≠schwarz — das macht `build_data.py` (Schritt 5). Sicherheitshalber kann der Hauptchat alle 28 `schwarz`-Stufen direkt aus `fragen_original.json` setzen (verbatim), damit Texttreue garantiert ist.
+
+## Schritt 3 — Manifest
 
 - In `daten/index.json` die neue Prüfung zu `exams` hinzufügen (`id`, `titel`, `datei`, `guertel_komplett: true`).
-- 2–3 Fragen im gerenderten `Prüfung_<id>_alle_Guertel.md` fachlich gegenlesen (v. a. Recht- und Fallfragen).
+
+## Schritt 4 — Themenbereiche zuordnen
+
+- In `daten/zuordnung_themenbereiche.py` ein `ZUORDNUNG`-Dict für die neue Prüfung ergänzen (jede der 28 Fragen genau einem der 12 `id`-Werte aus `themenbereiche.json` zuordnen) und in `DATEIEN` eintragen.
+- `python3 daten/zuordnung_themenbereiche.py` ausführen.
+
+## Schritt 5 — Finale Validierung (Pflicht-Gate)
+
+- `python3 daten/build_data.py` MUSS **fehlerfrei (0 Warnungen)** durchlaufen. Der Build erzeugt `app/data.js` und prüft hart:
+  - keine **Cross-Prüfungs-Dubletten** (inhaltsbasiert: Stamm+Aussagen+Optionen),
+  - **schwarz**-Typ/Lösung == `fragen_original.json` (Texttreue als Warnung mit Quote-/Whitespace-Normalisierung),
+  - **gruen ≠ gelb**, **braun ≠ schwarz** (Fehler bei Identität, Warnung ab 0,85 Ähnlichkeit, `autojunk=False`),
+  - jede Stufen-Lösung liegt in den Optionen.
+- Node-Gegencheck: keine Frage ohne `themenbereich`.
+- 2–3 Fragen fachlich gegenlesen (v. a. Recht-/Fallfragen — dort ist das Fehlerrisiko der Generierung am größten).
+
+## Schritt 6 — Commit
+
+Nur `daten/*` + `app/data.js` + neue Lesefassung committen.
 
 ## Stolperfallen
 
-- **Anführungszeichen:** Subagenten neigen dazu, gerade `"` als deutsches Schlusszeichen zu schreiben → JSON bricht. Der Hinweis im Prompt + die Auto-Reparatur in `build_exam.py` fangen das ab.
-- **Nicht** das alte `merge_render.py` (nur im temporären Arbeitsbereich) verwenden — `build_exam.py` ist die parametrisierte, sichere Version.
-- `_belt_part_*.json` sind Zwischendateien (in `.gitignore`); sie werden bei jeder Prüfung überschrieben.
+- **Subagenten-Scope:** Subagenten haben mehrfach eigenmächtig gemerged / `index.json` geändert → kontaminierte Merges (35 statt 28 Fragen). Deshalb der SCOPE-Hinweis im Prompt; der Hauptchat baut IMMER selbst sauber aus den 4 Teilen (1–7, 8–14, 15–21, 22–28).
+- **Braun = Schwarz:** Subagenten kopieren Braun gern fast wörtlich aus dem Original. `build_data.py` bricht bei Identität ab und warnt ab 0,85.
+- **Anführungszeichen:** gerade `"` als deutsches Schlusszeichen bricht JSON. Prompt-Hinweis + Auto-Reparatur in `build_exam.py`/`build_data.py` fangen das ab.
+- **Ähnlichkeits-Scan:** `SequenceMatcher` IMMER mit `autojunk=False` aufrufen — sonst verfälscht die Heuristik bei langen Texten die Werte (hat echte Beinahe-Kopien übersehen).
+- **Nicht** das alte `merge_render.py` verwenden — `build_exam.py` ist die parametrisierte, sichere Version.
+- `_belt_part_*.json`, `_fix_*`, `_braunfix*` sind Zwischendateien (in `.gitignore` bzw. nach Gebrauch löschen).
 
 ## Modellwahl
 
@@ -70,4 +95,4 @@ python3 daten/build_exam.py "<PID>" "<Titel, z.B. März 2025>"
 
 ## Fortschritt
 
-Erledigt: 2026-03, 2025-10. Offen: die übrigen 42 Prüfungen aus `fragen_original.json` (sinnvoll von neu nach alt: 2025-03, 2024-10, 2024-03, …). Welche fertig sind, steht in `daten/index.json`.
+Erledigt (alle in `daten/index.json`, `guertel_komplett: true`): **2026-03, 2025-10, 2025-03, 2024-10**. Offen: die übrigen 40 Prüfungen aus `fragen_original.json` (von neu nach alt: **2024-03**, 2023-10, 2023-03, …). Maßgeblich ist immer `daten/index.json`.
