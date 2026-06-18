@@ -85,14 +85,24 @@
       '<p class="sub2">Wähle dein Level</p><div class="guertelliste">';
     var heute = L.heuteIso();
     L.GUERTEL.forEach(function (g) {
-      var frei = L.istFreigeschaltet(g, hoechster);
-      var badge = "";
-      if (frei && state.modus === "ueben") {
-        var n = window.HPP_SRS.anzahlFaellig(srs, g, heute);
-        badge = '<span class="badge' + (n > 0 ? "" : " zero") + '">' + n + ' fällig</span>';
-      } else if (!frei) { badge = '<span class="lock">🔒</span>'; }
-      html += '<button class="guertel' + (frei ? "" : " locked") + '" ' +
-        (frei ? 'data-guertel="' + g + '"' : "disabled") + '>' +
+      var status = L.levelStatus(g, hoechster, hatZugang());
+      var badge = "", attr = "", cls = "";
+      if (status === "frei") {
+        attr = 'data-guertel="' + g + '"';
+        if (state.modus === "ueben") {
+          var n = window.HPP_SRS.anzahlFaellig(srs, g, heute);
+          badge = '<span class="badge' + (n > 0 ? "" : " zero") + '">' + n + ' fällig</span>';
+        }
+      } else if (status === "bezahl-gesperrt") {
+        cls = " paywall";
+        attr = 'data-paywall="' + g + '"';
+        badge = '<span class="lock">💎</span>';
+      } else {
+        cls = " locked";
+        attr = "disabled";
+        badge = '<span class="lock">🔒</span>';
+      }
+      html += '<button class="guertel' + cls + '" ' + attr + '>' +
         '<span class="punkt" style="background:var(--g-' + g + ')"></span>' +
         '<span class="gname">' + LABELS[g] + '</span>' + badge + '</button>';
     });
@@ -107,9 +117,40 @@
         if (state.modus === "ueben") zeigeDashboard(g); else starteValidierung(g);
       });
     });
+    app.querySelectorAll("[data-paywall]").forEach(function (el) {
+      el.addEventListener("click", function () {
+        zeigePaywall(el.getAttribute("data-paywall"));
+      });
+    });
+  }
+
+  function zeigePaywall(guertel) {
+    leeren();
+    state.session = null;
+    var html = '<div class="pay">' +
+      '<div class="ov-top">' + homeButtonHtml(guertel) + '<h2 class="ov-title">Vollzugang freischalten</h2></div>' +
+      '<p class="pay-lead">Level 1–2 (Gelb &amp; Grün) sind und bleiben kostenlos. ' +
+      'Mit dem Vollzugang schaltest du <b>Level 3–5</b> (Blau, Braun, Originalprüfung), ' +
+      'den vollständigen <b>Prüfungsmodus</b> und den geräteübergreifenden Fortschritt frei.</p>' +
+      '<div class="pay-plans">' +
+      '<div class="pay-plan"><div class="pay-price">0,99 €<span>/Monat</span></div><div class="pay-note">monatlich kündbar</div></div>' +
+      '<div class="pay-plan"><div class="pay-price">9,99 €<span> einmalig</span></div><div class="pay-note">Lifetime-Zugang</div></div>' +
+      '</div>' +
+      '<button class="btn btn-primary pay-cta" id="pay-cta">Freischalten</button>' +
+      '<p class="pay-demo">Demo: Die echte Zahlung folgt in einem späteren Schritt. „Freischalten" entsperrt vorerst nur lokal auf diesem Gerät.</p>' +
+      '<button class="btn" id="pay-back">Zurück</button>' +
+      '</div>';
+    app.innerHTML = html;
+    app.querySelector("#pay-cta").addEventListener("click", function () {
+      ent = window.HPP_ENT.entsperreStub(window.localStorage);
+      zeigeGuertelauswahl();
+    });
+    app.querySelector("#pay-back").addEventListener("click", zeigeGuertelauswahl);
+    bindHome();
   }
 
   function starteValidierung(guertel) {
+    if (L.istBezahlLevel(guertel) && !hatZugang()) { zeigePaywall(guertel); return; }
     state.pruefung = {
       guertel: guertel,
       antworten: {},      // { nr: [Original-Buchstaben] }
@@ -515,6 +556,7 @@
   }
 
   function zeigeDashboard(level) {
+    if (L.istBezahlLevel(level) && !hatZugang()) { zeigePaywall(level); return; }
     leeren();
     var heute = L.heuteIso();
     var faellig = window.HPP_SRS.anzahlFaellig(srs, level, heute);
