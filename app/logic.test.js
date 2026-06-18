@@ -90,3 +90,35 @@ test("werteKarteLogik: 4. richtig in Folge -> gemeistert (due null)", () => {
   assert.deepStrictEqual(L.werteKarteLogik(3, true, "2026-06-17"),
     { streak: 4, due: null, gemeistert: true });
 });
+
+test("istGratisLevel: nur gelb und gruen", () => {
+  assert.strictEqual(L.istGratisLevel("gelb"), true);
+  assert.strictEqual(L.istGratisLevel("gruen"), true);
+  assert.strictEqual(L.istGratisLevel("blau"), false);
+  assert.strictEqual(L.istGratisLevel("braun"), false);
+  assert.strictEqual(L.istGratisLevel("schwarz"), false);
+});
+
+test("istBezahlLevel: blau, braun, schwarz", () => {
+  assert.strictEqual(L.istBezahlLevel("blau"), true);
+  assert.strictEqual(L.istBezahlLevel("braun"), true);
+  assert.strictEqual(L.istBezahlLevel("schwarz"), true);
+  assert.strictEqual(L.istBezahlLevel("gelb"), false);
+  assert.strictEqual(L.istBezahlLevel("gruen"), false);
+});
+
+test("levelStatus: Gürtel-Sperre hat Vorrang vor Bezahl-Sperre", () => {
+  assert.strictEqual(L.levelStatus("blau", "gruen", false), "guertel-gesperrt");
+  assert.strictEqual(L.levelStatus("blau", "gruen", true), "guertel-gesperrt");
+});
+
+test("levelStatus: freigeschaltetes Bezahllevel ohne Zugang -> bezahl-gesperrt", () => {
+  assert.strictEqual(L.levelStatus("blau", "blau", false), "bezahl-gesperrt");
+  assert.strictEqual(L.levelStatus("blau", "blau", true), "frei");
+  assert.strictEqual(L.levelStatus("schwarz", "schwarz", false), "bezahl-gesperrt");
+});
+
+test("levelStatus: Gratislevel ist immer frei (Zugang egal)", () => {
+  assert.strictEqual(L.levelStatus("gelb", "gelb", false), "frei");
+  assert.strictEqual(L.levelStatus("gruen", "gruen", false), "frei");
+});

@@ -4,6 +4,7 @@
   var GUERTEL = ["gelb", "gruen", "blau", "braun", "schwarz"];
   var ANZAHL_FRAGEN = 28;
   var BESTEHENSGRENZE = 21;
+  var GRATIS_GUERTEL = ["gelb", "gruen"];
 
   function istRichtig(gewaehlt, loesung) {
     if (gewaehlt.length !== loesung.length) return false;
@@ -18,6 +19,20 @@
 
   function istFreigeschaltet(guertel, hoechster) {
     return GUERTEL.indexOf(guertel) <= GUERTEL.indexOf(hoechster);
+  }
+
+  function istGratisLevel(guertel) {
+    return GRATIS_GUERTEL.indexOf(guertel) >= 0;
+  }
+
+  function istBezahlLevel(guertel) {
+    return GUERTEL.indexOf(guertel) >= 0 && !istGratisLevel(guertel);
+  }
+
+  function levelStatus(guertel, hoechster, hatZugang) {
+    if (!istFreigeschaltet(guertel, hoechster)) return "guertel-gesperrt";
+    if (istBezahlLevel(guertel) && !hatZugang) return "bezahl-gesperrt";
+    return "frei";
   }
 
   function naechsterHoechster(hoechster, gespielter, richtigeAnzahl) {
@@ -81,6 +96,10 @@
     istRichtig: istRichtig,
     bestanden: bestanden,
     istFreigeschaltet: istFreigeschaltet,
+    GRATIS_GUERTEL: GRATIS_GUERTEL,
+    istGratisLevel: istGratisLevel,
+    istBezahlLevel: istBezahlLevel,
+    levelStatus: levelStatus,
     naechsterHoechster: naechsterHoechster,
     erwarteMehrfach: erwarteMehrfach,
     mischen: mischen,
