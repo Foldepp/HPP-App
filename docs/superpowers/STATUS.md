@@ -1,7 +1,11 @@
 # Projektstatus / Übergabe — HPP-Prüfungstraining
 
-**Stand:** 2026-06-17 · Branch `main` (Remote: github.com/Foldepp/HPP-App)
+**Stand:** 2026-06-18 · Branch `main` (Remote: github.com/Foldepp/HPP-App)
 Diese Datei ist die Wiederaufnahme-Notiz: was steht, wie es gebaut ist, was offen ist.
+
+**Live:** Auf Vercel deployed → https://hpp-app-one.vercel.app (Projekt `hpp-app`, statisch aus
+`app/`, Config in `vercel.json`). Deploy-Protection aus. Redeploy via `vercel --prod` (kein Git-Auto-Deploy:
+Repo liegt unter Org `Foldepp`, Vercel-Account `cwick6116`).
 
 ## Was fertig & verifiziert ist
 
@@ -25,14 +29,29 @@ Diese Datei ist die Wiederaufnahme-Notiz: was steht, wie es gebaut ist, was offe
 - **Prüfungsfehler** seeden automatisch fällige Übungskarten (morgen fällig).
 - **A1-Härtung:** nur Fragen **mit** `themenbereich` werden gepoolt (Schutz vor unfertigen Daten).
 
-**Tests:** `node --test app/logic.test.js app/srs.test.js` → 21 grün.
+**Paket C — Monetarisierung Plan 1: Freemium-Gating (Frontend)** (Spec: `docs/superpowers/specs/2026-06-18-monetarisierung-design.md`, Plan: `docs/superpowers/plans/2026-06-18-freemium-gating-frontend.md`)
+- **Free-Schnitt:** Level 1–2 (Gelb/Grün) gratis; Level 3–5 (Blau/Braun/Schwarz) + Prüfungsmodus
+  hinter Paywall. Reine Logik in `logic.js` (`istGratisLevel`/`istBezahlLevel`/`levelStatus` →
+  `frei`/`guertel-gesperrt`/`bezahl-gesperrt`; Gürtel-Sperre vor Bezahl-Sperre).
+- **`entitlement.js`** (neues UMD-Modul, localStorage `hpp_entitlement`): `lade`/`hatZugang` = stabile
+  Leseschnittstelle, `entsperreStub` = isolierter Schreibpfad (Plan 3/Stripe ersetzt nur diesen).
+- **Paywall-Ansicht** (`zeigePaywall` in `app.js`) mit 0,99 €/Monat + 9,99 € Lifetime; „Freischalten"
+  ist bewusst ein **lokaler Demo-Stub** (kein echtes Bezahlen). Defensive Guards in `starteValidierung`
+  + `zeigeDashboard`. Live im Browser verifiziert (3 Zustände, Entsperrung, Reset, keine Konsolenfehler).
+- **Geschäftsmodell-Spec (Spec §1–10):** Modell C — 0,99 €/Monat + 9,99 € Lifetime, Stripe direkt
+  (kein MoR), Soft-Gating, Identität = E-Mail, Magic Link, Postgres/Neon. **Plan 2 (Backend/Entitlement/
+  Magic-Link) + Plan 3 (Stripe) stehen noch aus.** Rechtstexte (Impressum/DSGVO/AGB/Widerruf) +
+  offene IP-Frage zu Originalfragen sind Go-Live-Blocker, separater Strang.
+
+**Tests:** `node --test app/logic.test.js app/srs.test.js app/entitlement.test.js` → 32 grün.
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
 Cross-Prüfungs-Dubletten.
 
 ## Dateien (App, alles in `app/`, Vanilla JS, kein Build)
 
-- `index.html` lädt `styles.css`, `data.js`, `logic.js`, `srs.js`, `app.js` (genau diese Reihenfolge).
+- `index.html` lädt `styles.css`, `data.js`, `logic.js`, `srs.js`, `entitlement.js`, `app.js` (genau diese Reihenfolge).
+- `entitlement.js` — UMD-Persistenz des Bezahl-Zugangs (`hpp_entitlement`), getestet. Plan-1-Stub.
 - `logic.js` — reine, getestete Funktionen (Auswertung, Mischen, SRS-Streak/Fälligkeit). UMD.
 - `srs.js` — localStorage-Persistenz `hpp_srs` (Karten, Stats, fällige, Trefferquote). UMD, getestet.
 - `app.js` — alle Views/State: Gürtelauswahl+Umschalter, Prüfung, Übersicht, Auswertung, Durchsicht,
