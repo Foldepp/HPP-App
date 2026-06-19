@@ -1,7 +1,7 @@
 function getBearerToken(authHeader) {
   if (!authHeader || typeof authHeader !== "string") return null;
   const m = authHeader.match(/^Bearer\s+(.+)$/i);
-  return m ? m[1].trim() : null;
+  return m ? (m[1].trim() || null) : null;
 }
 
 function istEmail(s) {
