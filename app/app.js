@@ -125,29 +125,56 @@
     });
   }
 
-  function zeigePaywall(guertel) {
+  function zeigePaywall(guertel, modus) {
     leeren();
     state.session = null;
     state.pruefung = null;
+    state.view = "pay";
+    var session = window.HPP_ENT.ladeSession(window.localStorage);
     var html = '<div class="pay">' +
-      '<div class="ov-top">' + homeButtonHtml(guertel) + '<h2 class="ov-title">Vollzugang freischalten</h2></div>' +
+      '<div class="ov-top">' + homeButtonHtml(guertel) + '<h2 class="ov-title">Vollzugang</h2></div>' +
       '<p class="pay-lead">Level 1–2 (Gelb &amp; Grün) sind und bleiben kostenlos. ' +
-      'Mit dem Vollzugang schaltest du <b>Level 3–5</b> (Blau, Braun, Originalprüfung), ' +
-      'den vollständigen <b>Prüfungsmodus</b> und den geräteübergreifenden Fortschritt frei.</p>' +
+      'Mit dem Vollzugang schaltest du <b>Level 3–5</b> (Blau, Braun, Originalprüfung) und den ' +
+      'vollständigen <b>Prüfungsmodus</b> frei.</p>' +
       '<div class="pay-plans">' +
       '<div class="pay-plan"><div class="pay-price">0,99 €<span>/Monat</span></div><div class="pay-note">monatlich kündbar</div></div>' +
       '<div class="pay-plan"><div class="pay-price">9,99 €<span> einmalig</span></div><div class="pay-note">Lifetime-Zugang</div></div>' +
       '</div>' +
-      '<button class="btn btn-primary pay-cta" id="pay-cta">Freischalten</button>' +
-      '<p class="pay-demo">Demo: Die echte Zahlung folgt in einem späteren Schritt. „Freischalten" entsperrt vorerst nur lokal auf diesem Gerät.</p>' +
-      '<button class="btn" id="pay-back">Zurück</button>' +
-      '</div>';
+      '<button class="btn btn-primary pay-cta" id="pay-buy" disabled>Kaufen — kommt bald</button>';
+
+    if (modus === "gesendet") {
+      html += '<p class="pay-info">📬 Anmelde-Link verschickt. Öffne ihn auf diesem Gerät, dann bist du eingeloggt.</p>';
+    } else if (modus === "login") {
+      html += '<div class="pay-login">' +
+        '<input type="email" id="pay-email" class="pay-input" placeholder="deine@email.de" autocomplete="email" inputmode="email">' +
+        '<button class="btn" id="pay-send">Link senden</button></div>';
+    } else {
+      html += '<button class="btn pay-login-link" id="pay-login">Schon Zugang? Anmelden</button>';
+    }
+    if (session) {
+      html += '<button class="btn pay-logout" id="pay-logout">Abmelden</button>';
+    }
+    html += '<button class="btn" id="pay-back">Zurück</button></div>';
     app.innerHTML = html;
-    app.querySelector("#pay-cta").addEventListener("click", function () {
-      ent = window.HPP_ENT.entsperreStub(window.localStorage);
-      zeigeGuertelauswahl();
-    });
+
     app.querySelector("#pay-back").addEventListener("click", zeigeGuertelauswahl);
+    var loginBtn = app.querySelector("#pay-login");
+    if (loginBtn) loginBtn.addEventListener("click", function () { zeigePaywall(guertel, "login"); });
+    var sendBtn = app.querySelector("#pay-send");
+    if (sendBtn) sendBtn.addEventListener("click", function () {
+      var email = (app.querySelector("#pay-email").value || "").trim();
+      if (!email) return;
+      window.HPP_ENT.anfordern(email, window.fetch.bind(window)).then(function () {
+        zeigePaywall(guertel, "gesendet");
+      });
+    });
+    var logoutBtn = app.querySelector("#pay-logout");
+    if (logoutBtn) logoutBtn.addEventListener("click", function () {
+      window.HPP_ENT.abmelden(window.localStorage, window.fetch.bind(window)).then(function (stand) {
+        ent = stand;
+        zeigeGuertelauswahl();
+      });
+    });
     bindHome();
   }
 
