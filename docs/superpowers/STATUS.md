@@ -57,8 +57,20 @@ Plan: `2026-06-18-plan2a-backend.md`) — **code-seitig fertig, end-to-end gegen
   weil die Endpunkte erst mit **Plan 2b (Frontend-Integration: async `entitlement.js` + Login-UI)** sichtbar
   werden. Plan 3 (Stripe) danach. Rechtstexte (Impressum/DSGVO/AGB/Widerruf) + IP-Frage = Go-Live-Blocker, separater Strang.
 
-**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → 39 grün. Endpunkte sind
-integrationsgeprüft (kein Unit-Test; reine Helfer sind getestet).
+**Plan 2b — Frontend-Integration** (Plan: `2026-06-18-plan2b-frontend-integration.md`) — **code-seitig fertig, auf `main`, Wiring im Browser verifiziert.**
+- `entitlement.js` async (s. o.) ersetzt den Plan-1-Stub; `app.js`: Startfluss refresht den Zugang im
+  Hintergrund (nur bei Session) und frischt die Auswahl auf; **Paywall mit Magic-Link-Login** (E-Mail →
+  `anfordern`), Kauf-Button **deaktiviert bis Plan 3**, **Abmelden** bei Session. `state.view`-Guard gegen Stör-Render.
+- Browser-verifiziert: Free-Tier ohne Login/ohne API-Call; Cache-first-Unlock (HTTP-Fehler behält Cache);
+  Login ruft `POST /api/auth/request`; Fehlerzustand; Logout löscht Session+Cache. Happy-Path gegen echte
+  API ist über Plan-2a-Integrationstest belegt; voller Browser-E2E kommt mit dem Prod-Deploy.
+- **Noch offen:** Prod-Deploy (Plan 2b Task 6, bündelt Plan-2a Task 11): Vercel-Env setzen
+  (`DATABASE_URL`, `RESEND_API_KEY`, `MAIL_FROM`, `ADMIN_SECRET`, `APP_URL=https://hpp-app-one.vercel.app`)
+  + `vercel --prod` + E2E. Danach Plan 3 (Stripe). **Lokales Dev für API+Frontend: `vercel dev`** (launch.json
+  `hpp-vercel`); reiner Static-Server `hpp-app` (8123) zeigt nur das Free-Tier (API-Calls 404).
+
+**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **43 grün**. Backend-Endpunkte sind
+integrationsgeprüft (reine Helfer + entitlement.js sind unit-getestet).
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
 Cross-Prüfungs-Dubletten.
@@ -66,7 +78,9 @@ Cross-Prüfungs-Dubletten.
 ## Dateien (App, alles in `app/`, Vanilla JS, kein Build)
 
 - `index.html` lädt `styles.css`, `data.js`, `logic.js`, `srs.js`, `entitlement.js`, `app.js` (genau diese Reihenfolge).
-- `entitlement.js` — UMD-Persistenz des Bezahl-Zugangs (`hpp_entitlement`), getestet. Plan-1-Stub.
+- `entitlement.js` — UMD, **async (Plan 2b)**: `lade` (Cache `hpp_entitlement` = `{hatZugang,kind,activeUntil}`,
+  instant/offline), `refresh(storage,fetchFn)` (→ `GET /api/entitlement`, hält Cache bei Netz-/HTTP-Fehler),
+  `anfordern(email,fetchFn)`, `abmelden(storage,fetchFn)`, `ladeSession` (`hpp_session`). `hatZugang(ent)` sync (Render). Getestet (10).
 - `logic.js` — reine, getestete Funktionen (Auswertung, Mischen, SRS-Streak/Fälligkeit). UMD.
 - `srs.js` — localStorage-Persistenz `hpp_srs` (Karten, Stats, fällige, Trefferquote). UMD, getestet.
 - `app.js` — alle Views/State: Gürtelauswahl+Umschalter, Prüfung, Übersicht, Auswertung, Durchsicht,
