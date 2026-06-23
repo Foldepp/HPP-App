@@ -73,8 +73,15 @@ Plan: `2026-06-18-plan2a-backend.md`) — **code-seitig fertig, end-to-end gegen
   separat: Rechtstexte (Impressum/DSGVO/AGB/Widerruf) + IP-Frage zu Originalfragen. `vercel`-CLI liegt unter
   `/Users/cwick/.npm-global/bin/vercel` (nicht immer im PATH der Shell — ggf. absoluter Pfad).
 
-**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **43 grün**. Backend-Endpunkte sind
-integrationsgeprüft (reine Helfer + entitlement.js sind unit-getestet).
+**PWA (Spec/Plan `2026-06-23-pwa*`)** — **fertig + live.** `app/manifest.webmanifest` (name „HPP-Prüfungstraining",
+short_name „HPP Training", standalone), App-Icon „Gürtel-Streifen" (`icon.svg` → committete PNGs 192/512 maskable
++ `apple-touch-icon.png` 180, erzeugt via `qlmanage`+`sips`), Service Worker `app/sw.js` (App-Shell cache-first,
+`/api/*` network-only, Cache `hpp-v1` mit Versions-Cleanup), index.html mit Manifest/Theme/Apple-Meta + SW-Registrierung.
+Installierbar (iOS „Zum Home-Bildschirm"); Free-Tier offline (alle 12 Shell-Dateien im Cache). **SW-Update = `CACHE_NAME`
+in `sw.js` hochzählen** (ersetzt die alte `?v=`-Cache-Falle). Dark Mode bleibt das letzte optionale Polish-Item.
+
+**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **44 grün**. Backend-Endpunkte sind
+integrationsgeprüft (reine Helfer + entitlement.js + Manifest sind unit-getestet).
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
 Cross-Prüfungs-Dubletten.
