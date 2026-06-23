@@ -39,11 +39,26 @@ Repo liegt unter Org `Foldepp`, Vercel-Account `cwick6116`).
   ist bewusst ein **lokaler Demo-Stub** (kein echtes Bezahlen). Defensive Guards in `starteValidierung`
   + `zeigeDashboard`. Live im Browser verifiziert (3 Zustände, Entsperrung, Reset, keine Konsolenfehler).
 - **Geschäftsmodell-Spec (Spec §1–10):** Modell C — 0,99 €/Monat + 9,99 € Lifetime, Stripe direkt
-  (kein MoR), Soft-Gating, Identität = E-Mail, Magic Link, Postgres/Neon. **Plan 2 (Backend/Entitlement/
-  Magic-Link) + Plan 3 (Stripe) stehen noch aus.** Rechtstexte (Impressum/DSGVO/AGB/Widerruf) +
-  offene IP-Frage zu Originalfragen sind Go-Live-Blocker, separater Strang.
+  (kein MoR), Soft-Gating, Identität = E-Mail, Magic Link, Postgres/Neon.
 
-**Tests:** `node --test app/logic.test.js app/srs.test.js app/entitlement.test.js` → 32 grün.
+**Plan 2a — Backend (Identität/Magic-Link/Entitlement)** (Spec: `2026-06-18-backend-entitlement-design.md`,
+Plan: `2026-06-18-plan2a-backend.md`) — **code-seitig fertig, end-to-end gegen echtes Neon+Resend verifiziert, auf `main`.**
+- Node/CommonJS-Backend unter `api/` (Vercel Functions). `package.json` + Deps (`@neondatabase/serverless`,
+  `resend`); `vercel.json` `installCommand: "npm install"`.
+- `api/_lib/`: `auth.js` (Token/Hash/`zugangAktiv`/`magicLinkGueltig`, getestet), `http.js`
+  (Bearer/E-Mail, getestet), `db.js` (Neon, 9 Funktionen), `mail.js` (Resend), `schema.sql` (3 Tabellen).
+- Endpunkte: `POST /api/auth/request` (immer 200, keine Enumeration), `GET /api/auth/verify`
+  (Session + Mini-HTML→localStorage `hpp_session`, **atomare Single-Use-Einlösung**), `GET /api/entitlement`
+  (Bearer-Session → `{hatZugang,kind,activeUntil}`), `POST /api/admin/grant` (per `ADMIN_SECRET`),
+  `POST /api/auth/logout`. Token nur als Hash gespeichert.
+- **Neon-DB live** (Projekt „HPP Trainer", Frankfurt, Schema eingespielt). **Resend** Key gültig.
+  Lokale Secrets in `.env` (gitignored): `DATABASE_URL`, `RESEND_API_KEY`, `MAIL_FROM`, `ADMIN_SECRET`, `APP_URL`.
+- **Noch offen:** Task 11 = Prod-Deploy (Vercel-Env setzen + `vercel --prod` + Smoke) — bewusst zurückgestellt,
+  weil die Endpunkte erst mit **Plan 2b (Frontend-Integration: async `entitlement.js` + Login-UI)** sichtbar
+  werden. Plan 3 (Stripe) danach. Rechtstexte (Impressum/DSGVO/AGB/Widerruf) + IP-Frage = Go-Live-Blocker, separater Strang.
+
+**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → 39 grün. Endpunkte sind
+integrationsgeprüft (kein Unit-Test; reine Helfer sind getestet).
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
 Cross-Prüfungs-Dubletten.
