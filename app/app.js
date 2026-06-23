@@ -49,7 +49,7 @@
     try { localStorage.setItem(SPEICHER, JSON.stringify(f)); } catch (e) {}
   }
 
-  var state = { fortschritt: ladeFortschritt() };
+  var state = { fortschritt: ladeFortschritt(), view: null };
 
   function leeren() { app.innerHTML = ""; }
 
@@ -144,6 +144,9 @@
 
     if (modus === "gesendet") {
       html += '<p class="pay-info">📬 Anmelde-Link verschickt. Öffne ihn auf diesem Gerät, dann bist du eingeloggt.</p>';
+    } else if (modus === "fehler") {
+      html += '<p class="pay-info pay-fehler">Konnte den Link nicht senden — bitte E-Mail prüfen und erneut versuchen.</p>';
+      html += '<button class="btn pay-login-link" id="pay-login">Erneut anmelden</button>';
     } else if (modus === "login") {
       html += '<div class="pay-login">' +
         '<input type="email" id="pay-email" class="pay-input" placeholder="deine@email.de" autocomplete="email" inputmode="email">' +
@@ -164,8 +167,8 @@
     if (sendBtn) sendBtn.addEventListener("click", function () {
       var email = (app.querySelector("#pay-email").value || "").trim();
       if (!email) return;
-      window.HPP_ENT.anfordern(email, window.fetch.bind(window)).then(function () {
-        zeigePaywall(guertel, "gesendet");
+      window.HPP_ENT.anfordern(email, window.fetch.bind(window)).then(function (ok) {
+        zeigePaywall(guertel, ok ? "gesendet" : "fehler");
       });
     });
     var logoutBtn = app.querySelector("#pay-logout");

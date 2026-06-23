@@ -28,6 +28,7 @@
     if (!token) { var leer = leererStand(); speichere(storage, leer); return leer; }
     try {
       var res = await fetchFn("/api/entitlement", { headers: { Authorization: "Bearer " + token } });
+      if (!res || !res.ok) return lade(storage);
       var data = await res.json();
       var stand = {
         hatZugang: !!data.hatZugang,
@@ -42,12 +43,16 @@
   }
 
   async function anfordern(email, fetchFn) {
-    var res = await fetchFn("/api/auth/request", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email: email }),
-    });
-    return !!(res && res.ok);
+    try {
+      var res = await fetchFn("/api/auth/request", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email }),
+      });
+      return !!(res && res.ok);
+    } catch (e) {
+      return false;
+    }
   }
 
   async function abmelden(storage, fetchFn) {

@@ -78,3 +78,17 @@ test("abmelden: ruft logout, löscht Session + Cache", async () => {
   assert.deepStrictEqual(stand, E.leererStand());
   assert.deepStrictEqual(E.lade(s), E.leererStand());
 });
+
+test("refresh: HTTP-Fehler (res.ok=false) -> behält Cache, überschreibt nicht", async () => {
+  var s = stubStore({ hpp_session: "tok" });
+  E.speichere(s, { hatZugang: true, kind: "lifetime", activeUntil: null });
+  var badFetch = function () { return Promise.resolve({ ok: false, json: function () { return Promise.resolve({ hatZugang: false, kind: null, activeUntil: null }); } }); };
+  var stand = await E.refresh(s, badFetch);
+  assert.strictEqual(stand.hatZugang, true);
+  assert.deepStrictEqual(E.lade(s), { hatZugang: true, kind: "lifetime", activeUntil: null });
+});
+
+test("anfordern: Netzfehler -> false (keine Exception)", async () => {
+  var ok = await E.anfordern("a@b.de", function () { return Promise.reject(new Error("net")); });
+  assert.strictEqual(ok, false);
+});
