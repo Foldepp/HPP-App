@@ -614,8 +614,11 @@
     html += '</div></div>';
     app.innerHTML = html;
     app.querySelector("#dash-due").addEventListener("click", function () {
-      var karten = window.HPP_SRS.faellige(srs, level, L.heuteIso());
-      if (!karten.length) karten = alleKartenDesLevels(level);
+      var faellig = window.HPP_SRS.faellige(srs, level, L.heuteIso());
+      var alle = alleKartenDesLevels(level);
+      var karten = L.baueUebenSession(faellig, alle, 20, function (k) {
+        return window.HPP_SRS.kartenId(k.examId, k.nr, k.level);
+      });
       starteSession(karten, level, "faellig", function () { zeigeDashboard(level); });
     });
     app.querySelector("#dash-alle").addEventListener("click", function () {

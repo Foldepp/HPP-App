@@ -124,3 +124,30 @@ test("levelStatus: Gratislevel ist immer frei (Zugang egal)", () => {
   assert.strictEqual(L.levelStatus("gelb", "gelb", true), "frei");
   assert.strictEqual(L.levelStatus("gruen", "gruen", true), "frei");
 });
+
+test("baueUebenSession: genug Fällige -> keine Auffüllung", () => {
+  var id = function (k) { return k.id; };
+  var faellig = [{id:1},{id:2},{id:3}];
+  var alle = [{id:1},{id:2},{id:3},{id:4},{id:5}];
+  var out = L.baueUebenSession(faellig, alle, 2, id);
+  assert.deepStrictEqual(out.map(function(k){return k.id;}), [1,2,3]); // alle Fälligen bleiben, kein Fill da schon >= ziel
+});
+
+test("baueUebenSession: wenige Fällige -> mit frischen auf ziel auffüllen, keine Dubletten", () => {
+  var id = function (k) { return k.id; };
+  var faellig = [{id:1},{id:2}];
+  var alle = [{id:1},{id:2},{id:3},{id:4},{id:5},{id:6}];
+  var out = L.baueUebenSession(faellig, alle, 5, id);
+  assert.strictEqual(out.length, 5);
+  var idset = out.map(function(k){return k.id;});
+  assert.ok(idset.indexOf(1) >= 0 && idset.indexOf(2) >= 0);   // Fällige enthalten
+  assert.strictEqual(new Set(idset).size, 5);                   // keine Dubletten
+  idset.forEach(function(x){ assert.ok([1,2,3,4,5,6].indexOf(x) >= 0); });
+});
+
+test("baueUebenSession: leere Fällige -> reine Auffüllung bis ziel", () => {
+  var id = function (k) { return k.id; };
+  var out = L.baueUebenSession([], [{id:1},{id:2},{id:3}], 2, id);
+  assert.strictEqual(out.length, 2);
+  assert.strictEqual(new Set(out.map(function(k){return k.id;})).size, 2);
+});

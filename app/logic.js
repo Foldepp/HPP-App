@@ -64,6 +64,16 @@
     });
   }
 
+  function baueUebenSession(faellige, alle, ziel, idFn) {
+    var ids = {};
+    faellige.forEach(function (k) { ids[idFn(k)] = true; });
+    var rest = alle.filter(function (k) { return !ids[idFn(k)]; });
+    rest = mischen(rest);
+    var out = faellige.slice();
+    for (var i = 0; i < rest.length && out.length < ziel; i++) out.push(rest[i]);
+    return out;
+  }
+
   var MASTER_STREAK = 4;
   var SRS_INTERVALE = { 1: 2, 2: 4, 3: 8 };
 
@@ -105,6 +115,7 @@
     erwarteMehrfach: erwarteMehrfach,
     mischen: mischen,
     anzeigeOptionen: anzeigeOptionen,
+    baueUebenSession: baueUebenSession,
     MASTER_STREAK: MASTER_STREAK,
     SRS_INTERVALE: SRS_INTERVALE,
     addTage: addTage,
