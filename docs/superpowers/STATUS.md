@@ -64,10 +64,14 @@ Plan: `2026-06-18-plan2a-backend.md`) — **code-seitig fertig, end-to-end gegen
 - Browser-verifiziert: Free-Tier ohne Login/ohne API-Call; Cache-first-Unlock (HTTP-Fehler behält Cache);
   Login ruft `POST /api/auth/request`; Fehlerzustand; Logout löscht Session+Cache. Happy-Path gegen echte
   API ist über Plan-2a-Integrationstest belegt; voller Browser-E2E kommt mit dem Prod-Deploy.
-- **Noch offen:** Prod-Deploy (Plan 2b Task 6, bündelt Plan-2a Task 11): Vercel-Env setzen
-  (`DATABASE_URL`, `RESEND_API_KEY`, `MAIL_FROM`, `ADMIN_SECRET`, `APP_URL=https://hpp-app-one.vercel.app`)
-  + `vercel --prod` + E2E. Danach Plan 3 (Stripe). **Lokales Dev für API+Frontend: `vercel dev`** (launch.json
-  `hpp-vercel`); reiner Static-Server `hpp-app` (8123) zeigt nur das Free-Tier (API-Calls 404).
+- **Prod-Deploy erledigt:** Alle 5 Vercel-Production-Env-Variablen gesetzt (`DATABASE_URL`,
+  `RESEND_API_KEY`, `MAIL_FROM`, `ADMIN_SECRET`, `APP_URL=https://hpp-app-one.vercel.app`), `vercel --prod`
+  deployed, **Prod-E2E grün** (request 200 · entitlement ohne Token false · Admin-Grant 200 · danach true).
+  Die Live-API läuft gegen dieselbe Neon-DB. **Lokales Dev für API+Frontend: `vercel dev`** (launch.json
+  `hpp-vercel`); Static-Server `hpp-app` (8123) zeigt nur das Free-Tier (API-Calls 404).
+- **Nächstes:** Plan 3 (Stripe — ersetzt den Admin-Grant-Schreibpfad, `hatZugang()` bleibt). Go-Live-Blocker
+  separat: Rechtstexte (Impressum/DSGVO/AGB/Widerruf) + IP-Frage zu Originalfragen. `vercel`-CLI liegt unter
+  `/Users/cwick/.npm-global/bin/vercel` (nicht immer im PATH der Shell — ggf. absoluter Pfad).
 
 **Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **43 grün**. Backend-Endpunkte sind
 integrationsgeprüft (reine Helfer + entitlement.js sind unit-getestet).
