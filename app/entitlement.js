@@ -1,40 +1,69 @@
 (function (root) {
   "use strict";
 
-  var KEY = "hpp_entitlement";
+  var SESSION_KEY = "hpp_session";
+  var CACHE_KEY = "hpp_entitlement";
 
-  function leererStand() { return { aktiv: false }; }
-  function hatZugang(ent) { return !!(ent && ent.aktiv); }
+  function leererStand() { return { hatZugang: false, kind: null, activeUntil: null }; }
+  function hatZugang(ent) { return !!(ent && ent.hatZugang); }
+
+  function ladeSession(storage) {
+    try { return storage.getItem(SESSION_KEY) || null; } catch (e) { return null; }
+  }
 
   function lade(storage) {
     try {
-      var roh = JSON.parse(storage.getItem(KEY));
-      if (roh && typeof roh.aktiv === "boolean") return roh;
+      var roh = JSON.parse(storage.getItem(CACHE_KEY));
+      if (roh && typeof roh.hatZugang === "boolean") return roh;
     } catch (e) {}
     return leererStand();
   }
-  // speichere ist bewusst öffentlich (Tests/Dev); Plan 3 ersetzt den Schreibpfad über entsperreStub.
+
   function speichere(storage, ent) {
-    try { storage.setItem(KEY, JSON.stringify(ent)); } catch (e) {}
+    try { storage.setItem(CACHE_KEY, JSON.stringify(ent)); } catch (e) {}
   }
 
-  // Plan-1-Stub: lokales Freischalten. Plan 3 (Stripe) ersetzt den Schreibpfad,
-  // hatZugang/lade bleiben die stabile Schnittstelle.
-  function entsperreStub(storage) {
-    var ent = { aktiv: true };
-    speichere(storage, ent);
-    return ent;
+  async function refresh(storage, fetchFn) {
+    var token = ladeSession(storage);
+    if (!token) { var leer = leererStand(); speichere(storage, leer); return leer; }
+    try {
+      var res = await fetchFn("/api/entitlement", { headers: { Authorization: "Bearer " + token } });
+      var data = await res.json();
+      var stand = {
+        hatZugang: !!data.hatZugang,
+        kind: data.kind || null,
+        activeUntil: data.activeUntil || null,
+      };
+      speichere(storage, stand);
+      return stand;
+    } catch (e) {
+      return lade(storage); // Netzfehler: zuletzt gecachten Stand behalten
+    }
   }
-  function sperre(storage) {
-    var ent = leererStand();
-    speichere(storage, ent);
-    return ent;
+
+  async function anfordern(email, fetchFn) {
+    var res = await fetchFn("/api/auth/request", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email: email }),
+    });
+    return !!(res && res.ok);
+  }
+
+  async function abmelden(storage, fetchFn) {
+    var token = ladeSession(storage);
+    try {
+      if (token) await fetchFn("/api/auth/logout", { method: "POST", headers: { Authorization: "Bearer " + token } });
+    } catch (e) {}
+    try { storage.removeItem(SESSION_KEY); } catch (e) {}
+    var leer = leererStand();
+    speichere(storage, leer);
+    return leer;
   }
 
   var api = {
-    leererStand: leererStand, hatZugang: hatZugang,
-    lade: lade, speichere: speichere,
-    entsperreStub: entsperreStub, sperre: sperre,
+    leererStand: leererStand, hatZugang: hatZugang, ladeSession: ladeSession,
+    lade: lade, speichere: speichere, refresh: refresh, anfordern: anfordern, abmelden: abmelden,
   };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.HPP_ENT = api;
