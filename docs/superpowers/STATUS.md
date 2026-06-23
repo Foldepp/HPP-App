@@ -77,11 +77,17 @@ Plan: `2026-06-18-plan2a-backend.md`) — **code-seitig fertig, end-to-end gegen
 short_name „HPP Training", standalone), App-Icon „Gürtel-Streifen" (`icon.svg` → committete PNGs 192/512 maskable
 + `apple-touch-icon.png` 180, erzeugt via `qlmanage`+`sips`), Service Worker `app/sw.js` (App-Shell cache-first,
 `/api/*` network-only, Cache `hpp-v1` mit Versions-Cleanup), index.html mit Manifest/Theme/Apple-Meta + SW-Registrierung.
-Installierbar (iOS „Zum Home-Bildschirm"); Free-Tier offline (alle 12 Shell-Dateien im Cache). **SW-Update = `CACHE_NAME`
-in `sw.js` hochzählen** (ersetzt die alte `?v=`-Cache-Falle). Dark Mode bleibt das letzte optionale Polish-Item.
+Installierbar (iOS „Zum Home-Bildschirm"); Free-Tier offline (alle 12 Shell-Dateien im Cache).
+**`data.js` wird network-first ausgeliefert** (neue Fragen kommen automatisch an, Cache nur Offline-Fallback);
+übrige Shell cache-first. **Bei Code-Änderungen an der Shell `CACHE_NAME` in `sw.js` hochzählen** (aktuell `hpp-v2`).
 
-**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **44 grün**. Backend-Endpunkte sind
-integrationsgeprüft (reine Helfer + entitlement.js + Manifest sind unit-getestet).
+**Bugfix Übungsmodus (2026-06-23):** „Jetzt üben" spielte nur die heute fälligen SRS-Karten → fühlte sich
+repetitiv an. Neu: `L.baueUebenSession(faellige, alle, 20, idFn)` füllt fällige Karten mit frischen,
+ungesehenen auf Ziel 20 auf (SRS bleibt, mehr Abwechslung). Themen-Kacheln unverändert. Außerdem behoben:
+SW lieferte `data.js` cache-first → veralteter, kleinerer Fragensatz (15 statt 23 Prüfungen); jetzt network-first.
+
+**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **47 grün**. Backend-Endpunkte sind
+integrationsgeprüft (reine Helfer + entitlement.js + Manifest + baueUebenSession sind unit-getestet).
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
 Cross-Prüfungs-Dubletten.
