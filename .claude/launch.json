@@ -6,6 +6,12 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8123", "--directory", "app"],
       "port": 8123
+    },
+    {
+      "name": "hpp-vercel",
+      "runtimeExecutable": "vercel",
+      "runtimeArgs": ["dev", "--listen", "3000", "--yes"],
+      "port": 3000
     }
   ]
 }
