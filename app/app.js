@@ -74,6 +74,7 @@
   function zeigeGuertelauswahl() {
     leeren();
     state.session = null;
+    state.view = "auswahl";
     if (!state.modus) state.modus = "pruefung";
     var hoechster = state.fortschritt.hoechsterGuertel;
     var html = '<header class="kopf"><h1>HPP-Prüfungstraining</h1>' +
@@ -624,4 +625,13 @@
   };
 
   zeigeGuertelauswahl();
+
+  // Beim Start einmal den echten Zugang holen (nur wenn eingeloggt) und ggf. die Auswahl auffrischen.
+  if (window.HPP_ENT.ladeSession(window.localStorage)) {
+    window.HPP_ENT.refresh(window.localStorage, window.fetch.bind(window)).then(function (stand) {
+      var geaendert = window.HPP_ENT.hatZugang(stand) !== window.HPP_ENT.hatZugang(ent);
+      ent = stand;
+      if (geaendert && state.view === "auswahl" && !state.pruefung && !state.session) zeigeGuertelauswahl();
+    });
+  }
 })();
