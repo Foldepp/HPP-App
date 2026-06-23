@@ -25,7 +25,8 @@ async function getMagicLink(tokenHash) {
 }
 
 async function useMagicLink(tokenHash) {
-  await sql`UPDATE magic_links SET used_at = now() WHERE token_hash = ${tokenHash} AND used_at IS NULL`;
+  const rows = await sql`UPDATE magic_links SET used_at = now() WHERE token_hash = ${tokenHash} AND used_at IS NULL RETURNING token_hash`;
+  return rows.length > 0;
 }
 
 async function createSession(tokenHash, email) {

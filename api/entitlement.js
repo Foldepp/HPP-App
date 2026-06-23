@@ -5,6 +5,7 @@ const { getSession, touchSession, getEntitlement } = require("./_lib/db.js");
 const KEIN = { hatZugang: false, kind: null, activeUntil: null };
 
 module.exports = async (req, res) => {
+  if (req.method !== "GET") return res.status(405).json({ error: "method" });
   const token = getBearerToken(req.headers && req.headers.authorization);
   if (!token) return res.status(200).json(KEIN);
 

@@ -12,12 +12,17 @@ module.exports = async (req, res) => {
   const roh = req.query && req.query.token;
   if (!roh) return res.status(400).send(htmlSeite("<p>Ungültiger Link.</p>"));
 
-  const eintrag = await getMagicLink(hashToken(roh));
+  const tokenHash = hashToken(roh);
+  const eintrag = await getMagicLink(tokenHash);
   if (!magicLinkGueltig(eintrag, new Date())) {
     return res.status(400).send(htmlSeite('<p>Link abgelaufen oder ungültig. <a href="/">Zur App</a></p>'));
   }
 
-  await useMagicLink(hashToken(roh));
+  const consumed = await useMagicLink(tokenHash);
+  if (!consumed) {
+    return res.status(400).send(htmlSeite('<p>Link abgelaufen oder ungültig. <a href="/">Zur App</a></p>'));
+  }
+
   const session = tokenErzeugen();
   await createSession(hashToken(session), eintrag.email);
 
