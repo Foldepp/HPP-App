@@ -1,3 +1,4 @@
+// Bei jedem Deploy mit Code-Änderung hochzählen, um alte Caches zu invalidieren.
 var CACHE_NAME = "hpp-v1";
 var SHELL = [
   "/", "/index.html", "/styles.css",
@@ -27,14 +28,14 @@ self.addEventListener("fetch", function (e) {
   if (req.method !== "GET") return;
   var url = new URL(req.url);
   if (url.origin !== self.location.origin) return;   // fremde Origins: normal
-  if (url.pathname.indexOf("/api/") === 0) return;     // API: immer Netz, nie Cache
+  if (url.pathname.startsWith("/api/")) return;     // API: immer Netz, nie Cache
   e.respondWith(
     caches.match(req).then(function (hit) {
       if (hit) return hit;
       return fetch(req).then(function (res) {
         if (res && res.ok) {
           var copy = res.clone();
-          caches.open(CACHE_NAME).then(function (c) { c.put(req, copy); });
+          caches.open(CACHE_NAME).then(function (c) { return c.put(req, copy); }).catch(function () {});
         }
         return res;
       }).catch(function () {
