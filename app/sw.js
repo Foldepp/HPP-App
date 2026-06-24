@@ -1,8 +1,8 @@
 // Bei jedem Deploy mit Code-Änderung hochzählen, um alte Caches zu invalidieren.
-var CACHE_NAME = "hpp-v2";
+var CACHE_NAME = "hpp-v3";
 var SHELL = [
   "/", "/index.html", "/styles.css",
-  "/data.js", "/logic.js", "/srs.js", "/entitlement.js", "/app.js",
+  "/data.js", "/logic.js", "/theme.js", "/srs.js", "/entitlement.js", "/app.js",
   "/manifest.webmanifest", "/icon-192.png", "/icon-512.png", "/apple-touch-icon.png"
 ];
 

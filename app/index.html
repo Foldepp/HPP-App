@@ -3,6 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <script>
+    (function () {
+      try {
+        var p = localStorage.getItem("hpp_theme") || "auto";
+        var dark = p === "dunkel" || (p === "auto" &&
+          window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+        document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+      } catch (e) {}
+    })();
+  </script>
   <title>HPP-Prüfungstraining</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="manifest" href="manifest.webmanifest">
@@ -15,6 +25,7 @@
   <div id="app" class="app"></div>
   <script src="data.js"></script>
   <script src="logic.js"></script>
+  <script src="theme.js"></script>
   <script src="srs.js"></script>
   <script src="entitlement.js"></script>
   <script src="app.js"></script>

@@ -71,13 +71,20 @@
     zeigeGuertelauswahl();
   }
 
+  function themaToggleLabel() {
+    var p = window.HPP_THEME ? window.HPP_THEME.pref() : "auto";
+    return p === "hell" ? "☀️ Hell" : p === "dunkel" ? "🌙 Dunkel" : "🌗 Auto";
+  }
+
   function zeigeGuertelauswahl() {
     leeren();
     state.session = null;
     state.view = "auswahl";
     if (!state.modus) state.modus = "pruefung";
     var hoechster = state.fortschritt.hoechsterGuertel;
-    var html = '<header class="kopf"><h1>HPP-Prüfungstraining</h1>' +
+    var html = '<header class="kopf">' +
+      '<button class="theme-toggle" id="theme-toggle">' + themaToggleLabel() + '</button>' +
+      '<h1>HPP-Prüfungstraining</h1>' +
       '<p class="sub">' + EXAM.titel + ' · 28 Fragen</p></header>' +
       '<div class="seg">' +
       '<button class="' + (state.modus === "pruefung" ? "on" : "") + '" data-modus="pruefung">Prüfung</button>' +
@@ -109,6 +116,11 @@
     });
     html += "</div>";
     app.innerHTML = html;
+    var tt = document.getElementById("theme-toggle");
+    if (tt) tt.addEventListener("click", function () {
+      window.HPP_THEME.umschalten();
+      tt.textContent = themaToggleLabel();
+    });
     app.querySelectorAll("[data-modus]").forEach(function (el) {
       el.addEventListener("click", function () { state.modus = el.getAttribute("data-modus"); zeigeGuertelauswahl(); });
     });
