@@ -1,6 +1,6 @@
 # Projektstatus / Übergabe — HPP-Prüfungstraining
 
-**Stand:** 2026-06-18 · Branch `main` (Remote: github.com/Foldepp/HPP-App)
+**Stand:** 2026-06-24 · Branch `main` (Remote: github.com/Foldepp/HPP-App)
 Diese Datei ist die Wiederaufnahme-Notiz: was steht, wie es gebaut ist, was offen ist.
 
 **Live:** Auf Vercel deployed → https://hpp-app-one.vercel.app (Projekt `hpp-app`, statisch aus
@@ -79,14 +79,30 @@ short_name „HPP Training", standalone), App-Icon „Gürtel-Streifen" (`icon.s
 `/api/*` network-only, Cache `hpp-v1` mit Versions-Cleanup), index.html mit Manifest/Theme/Apple-Meta + SW-Registrierung.
 Installierbar (iOS „Zum Home-Bildschirm"); Free-Tier offline (alle 12 Shell-Dateien im Cache).
 **`data.js` wird network-first ausgeliefert** (neue Fragen kommen automatisch an, Cache nur Offline-Fallback);
-übrige Shell cache-first. **Bei Code-Änderungen an der Shell `CACHE_NAME` in `sw.js` hochzählen** (aktuell `hpp-v2`).
+übrige Shell cache-first. **Bei Code-Änderungen an der Shell `CACHE_NAME` in `sw.js` hochzählen** (aktuell `hpp-v3`).
+
+**Dark Mode (Spec `2026-06-24-darkmode-design.md`, Plan `2026-06-24-darkmode.md`) — fertig + live (2026-06-24).**
+3-Zustands-Umschalter **Auto → Hell → Dunkel** (Knopf in `.kopf`, Icons ☀️/🌙/🌗), Default `auto` folgt
+`prefers-color-scheme`. Speicherung in `localStorage hpp_theme`. Reine Logik in `logic.js`
+(`themaAufgeloest(pref, systemDark)`, `naechstesThema(aktuell)` Zyklus, getestet). DOM-Controller
+**`app/theme.js`** (`window.HPP_THEME = {pref, anwenden, umschalten}`): löst „auto" via `matchMedia` auf,
+setzt `data-theme="light|dark"` auf `<html>` + `theme-color`-Meta (`#f7f6f3`/`#15181c`), `matchMedia`-Listener
+nur bei `pref==="auto"`. **Kein Flackern:** winziges Inline-Skript im `<head>` vor dem Stylesheet setzt
+`data-theme` vor dem Paint. CSS: helle Palette in `:root`, dunkle in `:root[data-theme="dark"]`,
+plus **`color-scheme` light/dark** (themt native Form-Controls — sonst weißes Login-Feld im Dark Mode).
+**Hardcoded-Farben-Audit:** 15 Stellen auf neue Variablen umgestellt (`--soft-bg --warn-soft --chip-bg
+--ltr-ink --hero-leer-bg --punkt-ring`); Gürtel-Markenfarben bleiben unverändert. Hell-Werte byte-identisch
+außer `.badge.zero` (#efede8→#ece9e3, laut Spec gewollt). theme.js in SW-SHELL, `CACHE_NAME` → `hpp-v3`.
+Browser-verifiziert (Hell+Dunkel auf Auswahl/Prüfung/Paywall, Toggle-Zyklus, Persistenz, No-Flicker, keine
+Inseln, keine Konsolenfehler). Hinweis: Preview-`colorScheme`-Emulation feuert **kein** `matchMedia`-`change`
+(CDP-Limitierung) — Auto-Follow ist code-verifiziert, greift bei echtem OS-Wechsel.
 
 **Bugfix Übungsmodus (2026-06-23):** „Jetzt üben" spielte nur die heute fälligen SRS-Karten → fühlte sich
 repetitiv an. Neu: `L.baueUebenSession(faellige, alle, 20, idFn)` füllt fällige Karten mit frischen,
 ungesehenen auf Ziel 20 auf (SRS bleibt, mehr Abwechslung). Themen-Kacheln unverändert. Außerdem behoben:
 SW lieferte `data.js` cache-first → veralteter, kleinerer Fragensatz (15 statt 23 Prüfungen); jetzt network-first.
 
-**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **47 grün**. Backend-Endpunkte sind
+**Tests:** `npm test` (= `node --test app/*.test.js api/_lib/*.test.js`) → **49 grün**. Backend-Endpunkte sind
 integrationsgeprüft (reine Helfer + entitlement.js + Manifest + baueUebenSession sind unit-getestet).
 **Daten:** 4 Prüfungen `guertel_komplett` (2026-03, 2025-10, 2025-03, 2024-10), 112 Fragen, alle mit
 gültigem `themenbereich`, alle Schwarz-Lösungen == `fragen_original.json`, 0 inhaltsbasierte
@@ -129,7 +145,7 @@ Cross-Prüfungs-Dubletten.
   Rezeptur v5 will Braun „eine Stufe unter Original, neu formuliert"). Cowork-Nachtrag möglich.
 - **Prüfungsmodus spielt nur `2026-03`** (`EXAM` hardcodiert). Auswahl mehrerer Prüfungen im
   Prüfungsmodus ist ein späteres Feature (Üben poolt bereits alle).
-- **Dark Mode** (per CSS-Variablen vorbereitet, noch nicht gebaut).
+- ~~**Dark Mode**~~ — **fertig + live (2026-06-24)**, siehe unten.
 - Kleinere App.js-Hygiene aus dem finalen Review (z. B. doppeltes `heute()` vs `L.heuteIso()`,
   `state.pruefung` nach Abgabe nicht genullt) — nachweislich harmlos, bewusst nicht angefasst.
 - Restliche ~40 Original-Prüfungen noch nicht über alle Gürtel übersetzt (Daten-Pipeline).
