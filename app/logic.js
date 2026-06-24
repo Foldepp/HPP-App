@@ -100,6 +100,18 @@
     return new Date().toISOString().slice(0, 10);
   }
 
+  function themaAufgeloest(pref, systemDark) {
+    if (pref === "hell") return "hell";
+    if (pref === "dunkel") return "dunkel";
+    return systemDark ? "dunkel" : "hell";
+  }
+
+  var THEMA_ZYKLUS = ["auto", "hell", "dunkel"];
+  function naechstesThema(aktuell) {
+    var i = THEMA_ZYKLUS.indexOf(aktuell);
+    return THEMA_ZYKLUS[(i + 1) % THEMA_ZYKLUS.length];
+  }
+
   var api = {
     GUERTEL: GUERTEL,
     ANZAHL_FRAGEN: ANZAHL_FRAGEN,
@@ -122,6 +134,9 @@
     istFaellig: istFaellig,
     werteKarteLogik: werteKarteLogik,
     heuteIso: heuteIso,
+    themaAufgeloest: themaAufgeloest,
+    naechstesThema: naechstesThema,
+    THEMA_ZYKLUS: THEMA_ZYKLUS,
   };
 
   if (typeof module !== "undefined" && module.exports) {

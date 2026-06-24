@@ -151,3 +151,19 @@ test("baueUebenSession: leere Fällige -> reine Auffüllung bis ziel", () => {
   assert.strictEqual(out.length, 2);
   assert.strictEqual(new Set(out.map(function(k){return k.id;})).size, 2);
 });
+
+test("themaAufgeloest: hell/dunkel sind fest, auto folgt System", () => {
+  assert.strictEqual(L.themaAufgeloest("hell", true), "hell");
+  assert.strictEqual(L.themaAufgeloest("hell", false), "hell");
+  assert.strictEqual(L.themaAufgeloest("dunkel", false), "dunkel");
+  assert.strictEqual(L.themaAufgeloest("dunkel", true), "dunkel");
+  assert.strictEqual(L.themaAufgeloest("auto", true), "dunkel");
+  assert.strictEqual(L.themaAufgeloest("auto", false), "hell");
+});
+
+test("naechstesThema: Zyklus auto -> hell -> dunkel -> auto", () => {
+  assert.strictEqual(L.naechstesThema("auto"), "hell");
+  assert.strictEqual(L.naechstesThema("hell"), "dunkel");
+  assert.strictEqual(L.naechstesThema("dunkel"), "auto");
+  assert.strictEqual(L.naechstesThema("quatsch"), "auto"); // unbekannt -> auto
+});
